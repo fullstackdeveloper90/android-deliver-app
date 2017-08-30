@@ -1,0 +1,22 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Jeff Haas Mazda",
+            "Subtitle": "Houston, TX",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGMazda.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "11222 Katy Fwy, Houston, TX 77043",
+            "PhoneNo": "832-871-3235",
+			"PhoneNoService": "832-871-3174",
+			"Website":"http://www.jeffhaasmazda.com/",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL238"
+        }
+    ]
+}

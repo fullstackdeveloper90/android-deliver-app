@@ -1,0 +1,42 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+              {
+              "Title": "Patsy Lou Chevrolet",
+              "Subtitle": "Northwest, MI",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGChevrolet.png",
+              "LogoURL": "logoHD.png",
+              "StreetAddress": "5135 Corunna Rd,Northwest, MI 48532",
+              "lat": "43.0007757",
+              "lon": "-83.77823839",
+              "PhoneNo": "810-213-1876",
+              "PhoneNoService": "810-213-1868",
+              "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+              "Email": "support@ethosrewardsmsg.com",
+              "DFLID": "ETH274"
+              },{
+              "Title": "Patsy Lou Buick GMC",
+              "Subtitle": "Northwest, MI",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGBuickGMC.png",
+              "LogoURL": "logoHD.png",
+              "StreetAddress": "G 5111 Corunna Rd,Northwest, MI 48532",
+              "lat": "43.0007836",
+              "lon": "-83.7767018",
+              "PhoneNo": "810-515-7866",
+              "PhoneNoService": "810-471-4738",
+              "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+              "Email": "support@ethosrewardsmsg.com",
+              "DFLID": "ETH275"
+              }
+              ]
+}

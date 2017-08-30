@@ -1,0 +1,13 @@
+{
+"Items": [
+{
+"Title": "Schedule Service",
+"Subtitle": "",
+"Tag": 23,
+"Type": "newweb",
+"Display":"Service Department",
+"Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1507&a=SERVERID",
+"ShowIconType": "btn-Calendar.png"
+}
+]
+}

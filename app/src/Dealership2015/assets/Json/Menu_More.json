@@ -1,0 +1,101 @@
+{
+    
+    "CenterItems" : [
+                     {
+                     "Title": "Specials & Events",
+                     "Subtitle": "Exclusive Deals for Mobile Users",
+                     "Tag": 11,
+                     "Type": "help",
+                     "Display": "Specials & Events",
+                     "Url": "http://www.mobileappscm.com/Custom/MobileAppsCM/ctl/feedNews.aspx?t=json&a=SERVERID&f=1524",
+                     "ShowIconType": "VehicleSpecials.png"
+                     }
+                     ],
+    "Items": [ {
+              "Title": "Visit our Website",
+              "Subtitle": "Visit our Website",
+              "Tag": 50,
+              "Type": "help",
+              "Display": "Website",
+              "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1693&a=SERVERID",
+              "ShowIconType": "icon-Website.png"
+              },
+              {
+              "Title": "Social Media",
+              "Subtitle": "Links to our Social Media Pages",
+              "Tag": 43,
+              "Type": "feed",
+              "Display": "Social Networks",
+              "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsSimple.aspx?a=SERVERID&f=1217",
+              "ShowIconType": "icon-Social.png"
+              },
+              {
+              "Title": "MPG Calculator",
+              "Subtitle": "Calculate and Track Your MPG",
+              "Tag": 41,
+              "ShowIconType": "icon-Car.png"
+              },
+              {
+              "Title": "Where Did I Park?",
+              "Subtitle": "Mark Your Car's Location",
+              "Tag": 42,
+              "ShowIconType": "icon-Compass.png"
+              },
+              {
+              "Title": "Gas Prices",
+              "Subtitle": "Find the Lowest Gas Prices in your Area",
+              "Tag": 53,
+              "Type":"station",
+              "ShowIconType": "icon-GasPump.png"
+              },
+              
+              {
+              "Title": "New Inventory",
+              "Subtitle": "Brenengen New Inventory",
+              "Tag": 50,
+              "Type": "help",
+              "Display": "New Inventory",
+              "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNewsInventoryRedirect.aspx?f=1421&a=SERVERID&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME",
+              "ShowIconType": "icon-Car.png"
+              },
+              {
+              "Title": "Pre-Owned Inventory",
+              "Subtitle": "Brenengen Pre-Owned Inventory",
+              "Tag": 53,
+              "Type": "help",
+              "Display": "Pre-Owned Inventory",
+              "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNewsInventoryRedirect.aspx?f=1422&a=SERVERID&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME",
+              "ShowIconType": "icon-Car.png"
+              },
+              {
+              "Title": "Help",
+              "Subtitle": "How to use this App",
+              "Tag": 48,
+              "Type": "help",
+              "Display": "Help",
+              "Url": "http://www.iteamhq.com/mobile-app-support",
+              "ShowIconType": "icon-QuestionMark.png"
+              },
+              {
+              "Title": "QR Scanner",
+              "Subtitle": "Scan a QR Code",
+              "Tag": 51,
+              "ShowIconType": "icon-QR.png"
+              },
+              {
+              "Title": "QR Favorites",
+              "Subtitle": "Scanned QR Codes",
+              "Tag": 67,
+              "ShowIconType": "icon-QR-fav.png"
+              },
+              {
+              "Title": "Settings",
+              "Subtitle": "Preferred Location",
+              "Tag": 9,
+              "Type": "preferredmenu",
+              "Display": "",
+              "Url": "MenuPreferredDealer",
+              "ShowIconType": "icon-Gears.png"
+              }
+              ]
+}

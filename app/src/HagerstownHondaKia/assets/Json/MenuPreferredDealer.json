@@ -1,0 +1,42 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+	{
+	"Title": "Hagerstown Honda", 
+	"Subtitle": "Hagerstown, MD",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGHondaWhite3.png",
+	"LogoURL": "logoXHD-HagerstownHonda.png",
+	"StreetAddress": "10307 Auto Place,Hagerstown, MD, 21740",
+	  "lat":"39.597499",
+	  "lon":"-77.677824",
+	"PhoneNo": "877-438-0910",
+	"PhoneNoService": "877-438-0910",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH195-HONDA"
+},{
+	"Title": "Hagerstown Kia", 
+	"Subtitle": "Hagerstown, MD",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGKiaWhite3.png",
+	"LogoURL": "logoXHD-HagerstownKia.png",
+	"StreetAddress": "10307 Auto Place,Hagerstown, MD, 21740",
+		"lat":"39.597499",
+		"lon":"-77.677824",
+	"PhoneNo": "855-431-1080",
+	"PhoneNoService": "855-431-1080",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH195-KIA"
+}
+    ]
+}

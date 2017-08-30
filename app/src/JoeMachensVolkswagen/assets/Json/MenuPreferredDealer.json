@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Joe Machens Volkswagen", 
+	"Subtitle": "Columbia, MO",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoXHD.png",
+  "StreetAddress": "1200 Vandiver Drive,Columbia, MO 65202",
+  "lat": "38.9702931",
+  "lon": "-92.3217142",
+  "PhoneNo": "855-461-4061",
+	"PhoneNoService": "855-475-2549",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH277"
+}
+  ]
+}

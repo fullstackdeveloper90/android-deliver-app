@@ -1,0 +1,21 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Merchants Auto",
+            "Subtitle": "Hooksett, NH",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-Logo.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "1278 Hooksett Road, Hooksett, NH 03106",
+            "PhoneNo": "855-724-0337",
+			"Website":"http://www.merchantsauto.com/",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL274"
+        }
+    ]
+}

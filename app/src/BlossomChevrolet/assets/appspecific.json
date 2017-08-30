@@ -1,0 +1,15 @@
+{
+    "a":"150",
+    "DEALERSHIP_GROUP_VERSION":"FALSE",
+    "UI_TITLE":"Blossom Chevrolet",
+    "FOOTER_TEXT":"Sent from the Blossom Chevrolet Mobile App",
+    "DEALER_WEBSITE":"http://www.mobileappscm.com/custom/mobileappscm/ctl/feedTour.aspx?t=json&amp;a=SERVERID",
+    "MENU_TYPE":"2",
+    "ROW_1_BG_COLOR":"#7F7F7F",
+    "ROW_1_FG_COLOR":"#FFFFFF",
+    "ROW_2_BG_COLOR":"#000000",
+    "ROW_2_FG_COLOR":"#FFFFFF",
+    "BOTTOM_TICKER_FG":"#ffffff",
+    "BOTTOM_TICKER_BG":"#000000",
+    "SHOW_SIDE_MENU":"false"
+}

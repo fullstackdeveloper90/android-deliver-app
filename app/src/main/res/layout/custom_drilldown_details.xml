@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <!-- Title -->
+    <!--
+         <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#040404"
+        android:typeface="sans"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+    -->
+
+
+    <!-- Sub-titles -->
+
+    <ImageView
+        android:id="@+id/detail_thumbImg"
+        android:layout_width="220dp"
+        android:layout_height="180dp"
+        android:layout_centerInParent="true"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/subtitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/detail_thumbImg"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="10dp"
+        android:text="ghkjh"
+        android:textColor="#343434"
+        android:textSize="14sp" />
+
+    <ImageView
+        android:id="@+id/arrowIcon_dtl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:src="@drawable/arrow_white"
+        android:visibility="gone" />
+
+</RelativeLayout>

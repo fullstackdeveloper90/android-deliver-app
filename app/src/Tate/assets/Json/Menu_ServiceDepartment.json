@@ -1,0 +1,36 @@
+{
+    "Items": [
+                {
+                    "Title": "Tate Glen Burnie Service Dept",
+                    "Subtitle": "Tate Dodge Chrysler Jeep",
+                    "Tag": 23,
+                    "Type": "help",
+                    "Display":"Service Department",
+                    "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1387&a=SERVERID&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME",
+                    "ShowIconType": "btn-Gears.png"
+              },  {
+                    "Title": "Tate Frederick Service Dept",
+                    "Subtitle": "Tate Chrysler Jeep Dodge Frederick",
+                    "Tag": 23,
+                    "Type": "help",
+                    "Display":"Service Department",
+                    "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1443&a=SERVERID&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME",
+                    "ShowIconType": "btn-Gears.png"
+              },
+			  {
+                    "Title": "Specials",
+                    "Subtitle": "Exclusive Deals for Mobile Users",
+                    "Tag": 11,
+                    "Type": "help",
+                    "Display":"Specials & Events",
+                    "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1388&a=SERVERID&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME",
+                    "ShowIconType": "btn-News.png"
+                },
+                {
+                    "Title": "My Car",
+                    "Subtitle": "Vehicle Information and History",
+                    "Tag": 13,
+                    "ShowIconType": "btn-Car.png"
+                }
+            ]
+}

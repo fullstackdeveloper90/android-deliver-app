@@ -1,0 +1,70 @@
+{
+    "Items": [
+                {
+                    "Title": "MPG Calculator",
+                    "Subtitle": "Calculate and Track your MPG",
+                    "Tag": 41,
+                    "ShowIconType": "btn-Gas.png"
+                },{
+              "Title": "Where Did I Park?",
+              "Subtitle": "Mark your Car's Parking Location",
+              "Tag": 42,
+              "ShowIconType": "btn-Compass.png"
+              },
+              {
+                "Title": "Gas Stations and Prices",
+                "Subtitle": "Nearby Stations and Latest Prices",
+                "Tag": 53,
+                "Type":"station",
+                "ShowIconType": "btn-Gas.png",
+                "Url":"http://api.mygasfeed.com/stations/radius/LATITUDE/LONGITUDE/3/reg/Price/izwkoxm7am.json&d=DEVICEID&dn=DEVICENAME"
+                },
+			{
+              "Title": "Social Media",
+              "Subtitle": "Links to our Social Media Sites",
+              "Tag": 43,
+              "Type": "feed",
+              "Display": "Social Networks",
+              "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsSimple.aspx?a=SERVERID&f=1250&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME",
+              "ShowIconType": "btn-SocialNetworks.png"
+              },
+                {
+                    "Title": "New Inventory",
+                    "Subtitle": "Search New Inventory",
+                    "Tag": 50,
+                    "isBrowser": true,
+                    "Type": "help",
+                    "Display":"New Inventory",
+                    "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1254&a=31",
+                    "ShowIconType": "btn-Car.png"
+              },
+                {
+                    "Title": "Used Inventory",
+                    "Subtitle": "Search Used Inventory",
+                    "Tag": 50,
+                    "isBrowser": true,
+                    "Type": "help",
+                    "Display":"Used Inventory",
+                    "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1255&a=31",
+                    "ShowIconType": "btn-Car.png"
+              },
+                {
+                    "Title": "Help",
+                    "Subtitle": "How to use this App",
+                    "Tag": 48,
+                    "Type": "help",
+                    "Display":"Help",
+                    "Url": "http://www.iteamhq.com/mobile-app-support",
+                    "ShowIconType": "btn-QuestionMark.png"
+                },
+              {
+              "Title": "Settings",
+              "Subtitle": "Preferred Location",
+              "Tag": 9,
+              "Type": "preferredmenu",
+              "Display": "",
+              "Url": "MenuPreferredDealer",
+              "ShowIconType": "btn-Gears.png"
+              }
+            ]
+}

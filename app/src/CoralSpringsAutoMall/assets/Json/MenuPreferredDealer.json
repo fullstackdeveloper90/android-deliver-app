@@ -1,0 +1,73 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Coral Springs Nissan",
+            "Subtitle": "Coral Springs, FL",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGNissan.png",
+            "LogoURL": "logoHD-Nissan.png",
+            "StreetAddress": "9350 W Atlantic Blvd, Coral Springs, FL 33071",
+            "PhoneNo": "800-341-7749",
+			"PhoneNoService": "800-343-6823",
+			"Website":"http://www.coralspringsnissan.com/",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL174"
+        },
+		 {
+            "Title": "Coral Springs Honda",
+            "Subtitle": "Coral Springs, FL",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGHonda.png",
+            "LogoURL": "logoHD-Honda.png",
+            "StreetAddress": "9400 W Atlantic Blvd, Coral Springs, FL 33071",
+            "PhoneNo": "800-276-9519",
+			"PhoneNoService": "800-293-1885",
+			"Website":"http://www.coralspringshonda.com/",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL175"
+        },
+		 {
+            "Title": "Coral Springs Kia",
+            "Subtitle": "Coral Springs, FL",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGKia.png",
+            "LogoURL": "logoHD-Kia.png",
+            "StreetAddress": "9330 W Atlantic Blvd, Coral Springs, FL 33071",
+            "PhoneNo": "800-352-6157",
+			"PhoneNoService": "800-353-3579",
+			"Website":"http://www.coralspringskia.com/",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL176-Kia"
+        },
+		 {
+            "Title": "Coral Springs Buick GMC",
+            "Subtitle": "Coral Springs, FL",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGBuickGMC.png",
+            "LogoURL": "logoHD-BuickGMC.png",
+            "StreetAddress": "9300 W Atlantic Blvd, Coral Springs, FL 33071",
+            "PhoneNo": "877-266-0683",
+			"PhoneNoService": "877-730-0829",
+			"Website":"http://www.coralspringsgmcbuick.com/",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL176-BuickGMC"
+        }
+    ]
+}

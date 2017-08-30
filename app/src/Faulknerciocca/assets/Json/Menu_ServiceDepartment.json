@@ -1,0 +1,40 @@
+{
+    "Items": [ 
+              {
+              "Title": "Faulkner-Ciocca Chevy",
+              "Subtitle": "Quakertown, PA",
+              "Tag": 15,
+              "Type": "help",
+              "Display": "Contact Us",
+              "Url": "http://www.fcchevy.com",
+              "ShowIconType": "btn-Cellphone.png"
+              },
+              {
+              "Title": "Faulkner-Ciocca VW",
+              "Subtitle": "Allentown, PA",
+              "Tag": 15,
+              "Type": "help",
+              "Display": "Contact Us",
+              "Url": "http://www.faulknercioccavw.com",
+              "ShowIconType": "btn-Cellphone.png"
+              },
+              {
+              "Title": "Ford Quakertown",
+              "Subtitle": "Quakertown, PA",
+              "Tag": 15,
+              "Type": "help",
+              "Display": "Contact Us",
+              "Url": "http://www.fcfordquakertown.com/",
+              "ShowIconType": "btn-Cellphone.png"
+              },
+              {
+              "Title": "Ford Souderton",
+              "Subtitle": "Souderton, PA",
+              "Tag": 15,
+              "Type": "help",
+              "Display": "Contact Us",
+              "Url": "http://www.fordofsouderton.com/",
+              "ShowIconType": "btn-Cellphone.png"
+              }
+		]
+}

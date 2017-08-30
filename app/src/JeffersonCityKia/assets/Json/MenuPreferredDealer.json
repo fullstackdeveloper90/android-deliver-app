@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Kia of Jefferson City", 
+	"Subtitle": "Jefferson City, MO",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoHD.png",
+  "StreetAddress": "3205 Missouri Blvd,Jefferson City, MO 65109",
+  "lat": "38.5800274",
+  "lon": "-92.2373573",
+  "PhoneNo": "877-658-5885",
+	"PhoneNoService": "888-256-9431",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH241"
+}
+  ]
+}

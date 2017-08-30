@@ -1,0 +1,99 @@
+{
+    "Header": {
+        "Title": "Email Us",
+        "Type": "email",
+        "Target": "admin@totalcarcareguaranteedforlife.com",
+        "ShowIconType": "email-small-white.png"
+    },
+    "CenterItems": [
+                    {
+                    "Title": "Happy Woman",
+                    "Subtitle": "Join the Club",
+                    "Tag": 11,
+                    "Type": "help",
+                    "Display": "Join the Club",
+                    "Url": "http://www.mobileappscm.com/Custom/MobileAppsCM/ctl/feedNews.aspx?f=2764&a=SERVERID",
+                    "ShowIconType": "banner-happy-woman.jpg",
+                    "SliderDuration": 6
+                    },
+                    {
+                    "Title": "Lifetime Tires",
+                    "Subtitle": "About Lifetime Parts",
+                    "Tag": 11,
+                    "Type": "help",
+                    "Display": "About Lifetime Parts",
+                    "Url": "http://www.mobileappscm.com/Custom/MobileAppsCM/ctl/feedNews.aspx?f=2762&a=SERVERID",
+                    "ShowIconType": "banner-lifetime-parts.jpg",
+                    "SliderDuration": 6
+                    },
+                    {
+                    "Title": "Special Offer",
+                    "Subtitle": "Exclusive Deals for Mobile Users",
+                    "Display": "Special Offer",
+                      "Tag": 11,
+                      "Type": "help",
+                      "Url": "http://www.mobileappscm.com/Custom/MobileAppsCM/ctl/feedNews.aspx?f=3398&a=SERVERID",
+                    "ShowIconType": "banner-special-offer.jpg",
+                    "SliderDuration": 6
+                    }
+                    ],
+    "Items": [
+              {
+              "Title": "My Vehicle",
+              "Subtitle": "Vehicle Information and History",
+              "Tag": 13,
+              "ShowIconType": "tile-Wheel-MyVehicle.png"
+              },
+              {
+              "Title": "MPG Calculator",
+              "Subtitle": "Calculate and Track Your MPG",
+              "Tag": 141,
+              "ShowIconType": "tile-Gas-MPGCalc.png"
+              },
+              {
+              "Title": "Service Records",
+              "Subtitle": "Your Vehicle's Service History",
+              "Tag": 50,
+              "Type": "rootfeed",
+              "Display": "Service History",
+              "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedService.aspx?t=json&a=SERVERID",
+              "ShowIconType": "tile-Car-ServiceRecords.png"
+              },
+              {
+              "Title": "Lifetime Parts",
+              "Subtitle": "Your Vehicle's Parts History",
+              "Tag": 51,
+              "Type": "rootfeed",
+              "Display": "Guraranteed Parts",
+              "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedMPGParts.aspx?t=json&a=SERVERID",
+              "ShowIconType": "tile-Wrenches-LifetimeParts.png"
+              },
+              {
+              "Title": "Approved Service Providers",
+              "Subtitle": "View Our Other Locations",
+              "Tag": 13,
+              "Display": "More Locations",
+              "Type": "morelocations",
+              "ShowIconType": "Tile-TCCGFL-ApprovedServiceProviders.png",
+              "Url": "Menu_MoreLocations"
+              },
+              {
+              "Title": "Fuel Saving Tips",
+              "Subtitle": "Fuel Saving Tips",
+              "Tag": 112,
+              "Type": "menu",
+              "Display": "Fuel Saving Tips",
+              "Url": "Menu_FuelSavingTips",
+              "ShowIconType": "tile-Gas-FuelSavingTips.png"
+              },
+              {
+              "Title": "More Options",
+              "Subtitle": "Tools, Settings, and More",
+              "Tag": 16,
+              "Type": "menu",
+              "Display": "More",
+              "Url": "Menu_More",
+              "ShowIconType": "tile-Arrows-More.png"
+              }
+              ]
+}

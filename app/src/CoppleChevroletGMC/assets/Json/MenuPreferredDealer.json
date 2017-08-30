@@ -1,0 +1,22 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Volvo of Ft. Myers",
+            "Subtitle": "Ft. Myers, FL",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "NAforSINGLEDEALERSHIPS",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "2600 Colonial Blvd, Fort Myers, FL 33907",
+            "PhoneNo": "877-756-0012",
+			"PhoneNoService": "877-793-7567",
+			"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH246"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "Items": [
+              {
+              "ImageShow": "scratch1_500Off.png",
+              "ImageHide": "scratch_hidden.png",
+              "Frequency": "4"
+              },
+              {
+              "ImageShow": "scratch2_5Off.png",
+              "ImageHide": "scratch_hidden.png",
+              "Frequency": "1"
+              },
+              {
+              "ImageShow": "scratch3_align.png",
+              "ImageHide": "scratch_hidden.png",
+              "Frequency": "3"
+              },
+              {
+              "ImageShow": "scratch4_battery.png",
+              "ImageHide": "scratch_hidden.png",
+              "Frequency": "3"
+              }
+              ]
+}

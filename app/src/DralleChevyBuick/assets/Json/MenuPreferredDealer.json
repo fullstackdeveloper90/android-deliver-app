@@ -1,0 +1,21 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+          {
+              "Title": "Dralle Chevrolet and Buick",
+              "Subtitle": "Peotone, IL",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "161109788026",
+              "ShowIconType": "btn-MFGFord.png",
+              "LogoURL": "logo-HD.png",
+			  "StreetAddress": "103 N Harlem Ave, Peotone, IL 60468",
+              "PhoneNo": "708-258-5209",
+			"Website":"http://www.drallepeotone.com/",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL262"
+          }
+    ]
+}

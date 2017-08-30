@@ -1,0 +1,22 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Freeman Toyota",
+            "Subtitle": "Hurst, TX",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGAudi.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "204 Northeast Loop 820, Hurst, TX 76053",
+            "PhoneNo": "866-477-7288",
+			"PhoneNoService": "855-982-2314",
+			"Website":"http://www.freemantoyota.com/",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH220"
+        }
+    ]
+}

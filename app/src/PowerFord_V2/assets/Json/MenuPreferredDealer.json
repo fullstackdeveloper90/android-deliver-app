@@ -1,0 +1,24 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+              {
+              "Title": "Power Ford",
+              "Subtitle": "Albuquerque, NM",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGFord.png",
+              "LogoURL": "logoHD.png",
+              "StreetAddress": "1101 Montano Road NE,Albuquerque, NM 87107",
+              "lat": "35.1362538",
+              "lon": "-106.6203627",
+              "PhoneNo": "866-640-5531",
+              "PhoneNoService": "866-578-5650",
+              "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+              "Email": "support@ethosrewardsmsg.com",
+              "DFLID": "ETH188"
+              }
+    ]
+}

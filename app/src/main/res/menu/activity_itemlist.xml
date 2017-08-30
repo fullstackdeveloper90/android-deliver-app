@@ -1,0 +1,22 @@
+<menu xmlns:android=
+      "http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/add_item"
+
+        android:showAsAction="ifRoom"
+        android:title="add_item"
+        android:titleCondensed="add_item">
+    </item>
+    <item
+        android:id="@+id/about"
+
+        android:showAsAction="never"
+        android:title="about"
+        android:titleCondensed="about">
+    </item>
+
+</menu>
+
+    <!-- android:icon="@drawable/abs__ic_search" - add_item
+    android:icon="@drawable/abs__ic_go" -  about -->

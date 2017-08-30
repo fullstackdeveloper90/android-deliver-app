@@ -1,0 +1,39 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Jackson Ford",
+            "Subtitle": "Decatur, IL",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGFord.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "455 East Pershing Road, Decatur, IL 62526",
+            "PhoneNo": "888-718-2665",
+			"PhoneNoService": "888-384-3673",
+			"Website":"http://www.jacksonford.com",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL282"
+        },
+		 {
+            "Title": "Jackson Family of Dealerships",
+            "Subtitle": "Sullivan, IL",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "iPhoneIcon100.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "1320 West Jackson St., Sullivan, IL 61951",
+            "PhoneNo": "888-572-8845",
+			"PhoneNoService": "888-853-3097",
+			"Website":"http://www.jacksoncars.com",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL283"
+        }
+    ]
+}

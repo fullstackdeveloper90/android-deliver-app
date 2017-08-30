@@ -1,0 +1,105 @@
+{
+    "Items": [
+              {
+              "Title": "Physicians",
+              "Subtitle": "Physician Directory and Bio's",
+              "Tag": 80,
+              "Type": "help",
+              "Display": "Physicians",
+              "Url": "http://www.mobileappsprn.com/custom/mobileappsprn/ctl/feedNews.aspx?a=2&f=80",
+              "ShowIconType": "btn-Medical.png"
+              },
+              {
+              "Title": "Nurse Practitioners",
+              "Subtitle": "Physician Directory and Bio's",
+              "Tag": 91,
+              "Type": "help",
+              "Display": "Nurse Practitioners",
+              "Url": "http://www.mobileappsprn.com/custom/mobileappsprn/ctl/feedNews.aspx?a=2&f=91",
+              "ShowIconType": "btn-MedicalNP.png"
+              }
+              ,
+              
+              {
+              "Title": "Nurses",
+              "Subtitle": "Nurses Directory and Bio's",
+              "Tag": 92,
+              "Type": "help",
+              "Display": "Nurses",
+              "Url": "http://www.mobileappsprn.com/custom/mobileappsprn/ctl/feedNews.aspx?a=2&f=92",
+              "ShowIconType": "btn-MedNurse.png"
+              }
+              ,
+              
+              {
+              "Title": "Certified Nurse Midwives",
+              "Subtitle": "Nurse Midwives Directory and Bio's",
+              "Tag": 93,
+              "Type": "help",
+              "Display": "Nurses",
+              "Url": "http://www.mobileappsprn.com/custom/mobileappsprn/ctl/feedNews.aspx?a=2&f=93",
+              "ShowIconType": "btn-MedicalCNM.png"
+              }
+              ,
+              {
+              "Title": "Staff Information",
+              "Subtitle": "Staff Directory and Bio's",
+              "Tag": 12,
+              "Type": "help",
+              "Display": "Social Networks",
+              "Url": "http://www.mobileappsprn.com/custom/mobileappsprn/ctl/feedNews.aspx?a=2&f=79",
+              "ShowIconType": "btn-People.png"
+              },
+              {
+              "Title": "Services",
+              "Subtitle": "Services We Offer",
+              "Tag": 13,
+              "Type": "help",
+              "Display": "Services",
+              "Url": "http://www.hopkinsmedicine.org/signature_obgyn/patient_information/index.html",
+              "ShowIconType": "btn-More.png"
+              },
+              {
+              "Title": "Hours & Closings",
+              "Subtitle": "",
+              "Tag": 14,
+              "Type": "help",
+              "Display": "Hours and Closings",
+              "Url": "http://www.mobileappsprn.com/custom/mobileappsprn/ctl/feedNews.aspx?a=2&f=81",
+              "ShowIconType": "btn-Calendar.png"
+              },
+              {
+              "Title": "What to Bring",
+              "Subtitle": "Items to bring when you come in",
+              "Tag": 15,
+              "Type": "help",
+              "Display": "What to Bring",
+              "Url": "http://www.hopkinsmedicine.org/signature_obgyn/patient_information/new_patients.html",
+              "ShowIconType": "btn-QuestionMark.png"
+              },
+              
+              {
+              "Title": "About Us",
+              "Subtitle": "",
+              "Tag": 17,
+              "Type": "help",
+              "Display":"About Us",
+              "Url": "http://www.hopkinsmedicine.org/signature_obgyn/about_us/",
+              "ShowIconType": "btn-QuestionMark.png"
+              }
+              ],
+    "Removed": [
+                
+                {
+                "Title": "Transportation",
+                "Subtitle": "Directions and Options",
+                "Tag": 16,
+                "Type": "feed",
+                "Display":"Transportation Options",
+                "Url": "http://www.mobileappsprn.com/custom/mobileappsprn/ctl/feedNews.aspx?a=SERVERID&f=86",
+                "ShowIconType": "btn-Compass.png"
+                }
+                
+                ]
+    
+}

@@ -1,0 +1,42 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Tri-State Ford", 
+	"Subtitle": "Amarillo, TX",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGFord.png",
+	"LogoURL": "logoXHD-ford.png",
+  "StreetAddress": "1900 I-40 East,Amarillo, TX 79103",
+  "lat": "35.1916681",
+  "lon": "-101.8159946",
+  "PhoneNo": "800-737-2587",
+	"PhoneNoService": "800-969-7319",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH185-ford"
+},{
+	"Title": "Tri-State Hyundai", 
+	"Subtitle": "Amarillo, TX",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGHyundai.png",
+	"LogoURL": "logoXHD-hyundai.png",
+  "StreetAddress": "1900 East I-40,Amarillo, TX 79103",
+  "lat": "35.1916681",
+  "lon": "-101.8159946",
+  "PhoneNo": "888-360-1656",
+	"PhoneNoService": "888-420-9679",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH185-hyundai"
+}
+  ]
+}

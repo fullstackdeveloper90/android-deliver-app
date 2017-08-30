@@ -1,0 +1,22 @@
+{
+	"Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+	"Items": [{
+		"Title": "Faulkner Dodge Ram",
+		"Subtitle": "Mechanicsburg, PA",
+		"Tag": 10,
+		"Type": "menu",
+		"Display": "",
+		"Url": "Menu_Main",
+		"fbid": "",
+		"ShowIconType": "btn-MFGDodgeRam.png",
+		"LogoURL": "logoHD.png",
+		"StreetAddress": "6720 Carlisle Pike,Mechanicsburg, PA 17050",
+		"lat": "40.239582",
+		"lon": "-77.056130",
+		"PhoneNo": "888-419-4867",
+		"PhoneNoService": "888-447-0726",
+		"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+		"Email": "support@ethosrewardsmsg.com",
+		"DFLID": "ETH266"
+	}]
+}

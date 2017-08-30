@@ -1,0 +1,22 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Faulkner Honda",
+            "Subtitle": "Harrisburg, PA",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "NAforSINGLEDEALERSHIPS",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "1000 Wister Street, Harrisburg, PA 17111",
+            "PhoneNo": "717-213-3351",
+			"PhoneNoService": "717-213-3351",
+            "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH169"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Shaffer Hyundai",
+            "Subtitle": "Merrillville, IN",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGHyundai.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "1000 West US HWY 30, Merrillville, IN 46410",
+            "PhoneNo": "219-736-2277",
+			"PhoneNoService": "219-736-2277",
+			"Website":"http://www.shafferhyundai.com/",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL291-HYUNDAI"
+        }, 
+		{
+            "Title": "Shaffer Mitsubishi",
+            "Subtitle": "Merrillville, IN",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGMitsubishi.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "1000 West US HWY 30, Merrillville, IN 46410",
+            "PhoneNo": "866-676-3069",
+			"PhoneNoService": "866-676-3069",
+			"Website":"http://www.shaffermitsubishi.com/",
+             "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL291-MITSUBISHI"
+        }
+    ]
+}

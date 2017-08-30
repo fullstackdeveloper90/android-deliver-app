@@ -1,0 +1,38 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Apple Ford", 
+	"Subtitle": "Columbia, MD",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGFord.png",
+	"LogoURL": "logoHD-AppleFord.png",
+	"StreetAddress": "8800 Stanford Blvd,Columbia, MD 21045",
+	"PhoneNo": "866-841-9642",
+	"PhoneNoService": "866-695-6642",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL44"
+},{
+	"Title": "Apple Auto", 
+	"Subtitle": "Elkton, MD",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "iPhoneIcon114.png",
+	"LogoURL": "logoHD-AppleAuto.png",
+	"StreetAddress": "560 East Pulaski Highway,Elkton, MD 21921",
+	"PhoneNo": "410-398-1600",
+	"PhoneNoService": "410-398-1600",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL328"
+}
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Milo Gordon GM Superstore", 
+	"Subtitle": "Lawton, OK",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGBuickGMC.png",
+	"LogoURL": "logoXHD-cadbuickgmc.png",
+	"StreetAddress": "5002 NW Cache Road,Lawton, OK 73505",
+	"lat": "34.6223842",
+	"lon": "-98.45497709999",
+	"PhoneNo": "866-236-1877",
+	"PhoneNoService": "888-759-2146",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL356"
+},{
+	"Title": "Milo Gordon Honda", 
+	"Subtitle": "Lawton, OK",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGHondaWhite4.png",
+	"LogoURL": "logoXHD-honda.png",
+	"StreetAddress": "5010 NW Cache Road,Lawton, OK 73505",
+	"lat": "34.6224505",
+	"lon": "-98.4554533",
+	"PhoneNo": "888-629-3390",
+	"PhoneNoService": "888-759-2146",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL357"
+},{
+	"Title": "Milo Gordon Mazda", 
+	"Subtitle": "Lawton, OK",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGMazdaWhite.png",
+	"LogoURL": "logoXHD-mazda.png",
+	"StreetAddress": "5221 NW Cache Road,Lawton, OK 73505",
+	"lat": "34.6239954",
+	"lon": "-98.45914239999",
+	"PhoneNo": "888-586-4821",
+	"PhoneNoService": "888-759-2146",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL358"
+}
+  ]
+}

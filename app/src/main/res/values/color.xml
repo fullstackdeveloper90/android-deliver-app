@@ -1,0 +1,13 @@
+<resources >
+    <color name="track_black">#E1E1E1</color>
+    <color name="blue">#124d89</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="grey">#878787</color>
+
+    <color name="button_active">#306EFF</color>
+    <color name="button_deactive">#9fb9f7</color>
+
+    <color name="transparant">#99000000</color>
+
+ </resources>

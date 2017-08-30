@@ -1,0 +1,22 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Sulphur Springs Chrysler Dodge Jeep Ram",
+            "Subtitle": "Sulphur Springs, TX",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGChryslerDodgeJeepRam.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "1505 Industrial Drive West, Sulphur Springs, TX 75482",
+            "PhoneNo": "855-929-0749",
+			"PhoneNoService": "903-885-2600",
+			"Website":"http://www.sulphurspringsdodge.com",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH231"
+        }
+    ]
+}

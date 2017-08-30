@@ -1,0 +1,23 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Franklin Sussex Hyundai",
+            "Subtitle": "Sussex, NJ",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "iPhoneIcon100.png",
+            "LogoURL": "LogoHD.png",
+            "StreetAddress": "2 Walling Ave, Sussex, NJ 07461",
+            "PhoneNo": "877-356-3388",
+            "PhoneNoService": "877-762-6699",
+			"Website":"http://www.FranklinSussexHyundai.com/",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL241"
+        }
+    ]
+
+}

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+   android:background="@color/white"
+    >
+    
+    <ImageView 
+        android:id="@+id/icon_tit"
+        android:layout_width="50dp"
+    	android:layout_height="50dp"
+    	android:src="@drawable/btngas"
+    	android:layout_alignParentLeft="true"
+    	android:layout_centerVertical="true"/>
+    <!-- Title -->
+    <LinearLayout 
+        android:orientation="vertical"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+         android:layout_toRightOf="@id/icon_tit"
+         android:layout_toLeftOf="@+id/layout_price"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="2dp">
+    <TextView
+        android:id="@+id/text_station"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#040404"
+        android:typeface="sans"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+     <TextView
+        android:id="@+id/text_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#040404"
+        android:ellipsize="end"
+        android:typeface="sans"
+        />
+     </LinearLayout>
+    <!-- Rightend Arrow -->    
+    <ImageView 
+        android:id="@+id/arrowIcon"
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:src="@drawable/arrow"
+    	android:layout_alignParentRight="true"
+    	android:layout_centerVertical="true"/>
+     <LinearLayout 
+         android:id="@+id/layout_price"
+        android:orientation="vertical"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+          android:layout_toLeftOf="@id/arrowIcon"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="2dp"
+        android:layout_marginLeft="2dp">
+    <TextView
+        android:id="@+id/text_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#040404"
+        android:typeface="sans"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+     <TextView
+        android:id="@+id/text_distance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#040404"
+        android:typeface="sans"
+        />
+     </LinearLayout>
+    
+</RelativeLayout>
+    

@@ -1,0 +1,15 @@
+{
+    "a":"72",
+    "DEALERSHIP_GROUP_VERSION":"false",
+    "UI_TITLE":"Bonham CDJR",
+    "FOOTER_TEXT":"Sent from the Bonham CDJR Mobile App",
+    "DEALER_WEBSITE":"http://www.bonhamchrysler.com/index.htm",
+    "MENU_TYPE":"2",
+    "ROW_1_BG_COLOR":"#7F7F7F",
+    "ROW_1_FG_COLOR":"#FFFFFF",
+    "ROW_2_BG_COLOR":"#000000",
+    "ROW_2_FG_COLOR":"#FFFFFF",
+    "BOTTOM_TICKER_FG":"#ffffff",
+    "BOTTOM_TICKER_BG":"#000000",
+    "SHOW_SIDE_MENU":"true"
+}

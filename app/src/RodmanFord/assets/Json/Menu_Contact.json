@@ -1,0 +1,34 @@
+{
+    "Items": [
+              {
+              "Title": "Call Us",
+              "Subtitle": "Phone",
+              "Tag": 11,
+              "Display": "Contact us by Phone",
+              "Type": "call",
+              "ShowIconType": "btn-Cellphone.png"
+              },
+              {
+              "Title": "Location",
+              "Subtitle": "View Map & Directions",
+              "Tag": 10,
+              "Display": "Get Address / Directions",
+              "Type": "directions",
+              "ShowIconType": "btn-Compass.png"
+              },
+              {
+              "Title": "Website",
+              "Subtitle": "Visit our Website",
+              "Tag": 18,
+              "Type": "website",
+              "ShowIconType": "btn-Website.png"
+              },
+              {
+              "Title": "Email",
+              "Subtitle": "Send us an Email",
+              "Tag": 17,
+               "Display": "Contact us by Email",
+              "ShowIconType": "btn-Email.png"
+              }
+              ]
+}

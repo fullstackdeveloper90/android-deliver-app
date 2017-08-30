@@ -1,0 +1,21 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+          {
+              "Title": "Mike Davidson Ford",
+              "Subtitle": "Jacksonville, FL",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGFord.png",
+              "LogoURL": "logo-HD.png",
+			  "StreetAddress": "9650 Atlantic Blvd, Jacksonville, FL 32225",
+              "PhoneNo": "800-836-0423",
+			  "Website":"http://www.mikedavidsonford.com",
+              "Email": "support@ethosrewardsmsg.com",
+              "DFLID": "ETH204"
+          }
+    ]
+}

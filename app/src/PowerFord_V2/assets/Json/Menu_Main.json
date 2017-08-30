@@ -1,0 +1,65 @@
+{ "CenterItems" : [
+                   {
+                   "Title": "Specials & Events",
+                   "Subtitle": "Exclusive Deals for Mobile Users",
+                   "Tag": 11,
+                   "Type": "help",
+                   "Display": "Specials & Events",
+                   "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=inventives&a=SERVERID",
+                   "ShowIconType": "Banner-Specials-Mountains.png"
+                   }
+                   ],
+    "Items": [
+              {
+              "Title": "My Car",
+              "Subtitle": "Vehicle Information and History",
+              "Tag": 13,
+               "ShowIconType": "tile-Wheel-MyCar.png"
+              },
+              {
+              "Title": "Loyalty Rewards",
+              "Subtitle": "View Program Information",
+              "Tag": 45,
+              "Type": "help",
+              "Display": "Loyalty Rewards",
+              "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=PI&a=SERVERID",
+               "ShowIconType": "tile-Present-Rewards.png"
+              },
+              {
+              "Title": "Search Inventory",
+              "Subtitle": "New Inventory",
+              "Tag": 50,
+              "Type": "help",
+              "Display": "Search Inventory",
+              "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=new&a=SERVERID",
+			  "ShowIconType": "tile-Car-SearchInventory.png"
+              },
+              {
+              "Title": "Service Department",
+              "Subtitle": "Certified Service",
+              "Tag": 12,
+              "Type": "menu",
+              "Display":"Service Department",
+              "Url":"Menu_ServiceDepartment",
+              "ShowIconType": "tile-Wrench-ServiceDept.png"
+              },
+              {
+              "Title": "Contact Us / Directions",
+              "Subtitle": "Via Email or Phone...",
+              "Tag": 15,
+              "Type": "menu",
+              "Display": "Contact Us",
+              "Url": "Menu_Contact",
+              "ShowIconType": "tile-Envelope-Contact.png"
+              },
+              {
+              "Title": "More Options",
+              "Subtitle": "Tools, Settings, and More",
+              "Tag": 16,
+              "Type": "menu",
+              "Display": "More",
+              "Url": "Menu_More",
+              "ShowIconType": "tile-Arrows-More.png"
+              }
+              ]
+}

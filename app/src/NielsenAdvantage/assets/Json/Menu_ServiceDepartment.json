@@ -1,0 +1,29 @@
+{
+"Items": [       
+          {
+          "Title": "Call Service Department",
+          "Subtitle": "",
+          "Tag": 13,
+          "Type": "callservice",
+          "ShowIconType": "btn-Cellphone.png"
+          },          
+          {
+          "Title": "Service Specials",
+          "Subtitle": "Exclusive Deals for Mobile App Users",
+          "Tag": 23,
+          "Type": "help",
+          "Display":"Service Department",
+          "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1592&a=SERVERID",
+          "ShowIconType": "btn-DollarSign.png"
+          },
+{
+"Title": "Schedule Service",
+"Subtitle": "",
+"Tag": 23,
+"Type": "newweb",
+"Display":"Service Department",
+"Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1593&a=SERVERID",
+"ShowIconType": "btn-Calendar.png"
+}
+]
+}

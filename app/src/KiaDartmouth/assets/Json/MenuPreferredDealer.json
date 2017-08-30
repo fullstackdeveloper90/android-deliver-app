@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Kia of Dartmouth", 
+	"Subtitle": "North Dartmouth, MA",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoHD.png",
+  "StreetAddress": "143 Faunce Corner Mall Rd,North Dartmouth, MA 02747",
+  "lat": "41.651200",
+  "lon": "-70.985208",
+  "PhoneNo": "508-999-2542",
+	"PhoneNoService": "508-999-2542",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL269"
+}
+  ]
+}

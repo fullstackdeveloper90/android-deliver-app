@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Faulkner Hyundai", 
+	"Subtitle": "Philadelphia, PA",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoHD.png",
+  "StreetAddress": "11500 Roosevelt Blvd,Philadelphia, PA 19116",
+  "lat": "40.102590",
+  "lon": "-75.006085",
+  "PhoneNo": "215-904-4200",
+	"PhoneNoService": "215-904-4200",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH217"
+}
+  ]
+}

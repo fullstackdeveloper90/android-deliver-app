@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Shockley Honda", 
+	"Subtitle": "Frederick, MD",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGHondaWhite4.png",
+	"LogoURL": "logoXHD.png",
+	"StreetAddress": "7400 Shockley Drive,Frederick, MD 21705",
+	"lat": "39.374970",
+	"lon": "-77.408672",
+	"PhoneNo": "301-694-5400",
+	"PhoneNoService": "301-694-5400",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL72"
+}
+  ]
+}

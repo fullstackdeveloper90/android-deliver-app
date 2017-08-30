@@ -1,0 +1,22 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Greenville Chrysler Dodge Jeep Ram",
+            "Subtitle": "Greenville",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGCDJR.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "5401 Interstate Highway 30, Greenville, TX 75402",
+            "PhoneNo": "855-929-0832",
+			"PhoneNoService": "903-454-0883",
+			"Website":"http://www.greenvillechrysler.com/",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH230"
+        }
+    ]
+}

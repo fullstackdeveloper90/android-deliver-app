@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Auto Giants", 
+	"Subtitle": "Temple Hills, MD",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoHD.png",
+  "StreetAddress": "4600 Branch Avenue,Temple Hills, MD 20748",
+  "lat": "38.829018",
+  "lon": "-76.927493",
+  "PhoneNo": "888-918-6874",
+	"PhoneNoService": "877-525-0671",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL348"
+}
+  ]
+}

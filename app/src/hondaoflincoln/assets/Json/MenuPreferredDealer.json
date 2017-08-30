@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Honda of Lincoln", 
+	"Subtitle": "Lincoln, NE",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGHondaWhite4.png",
+	"LogoURL": "logoXHD.png",
+	"StreetAddress": "2770 Yankee Hill Road,Lincoln, NE 68516",
+	"lat": "40.7272668",
+	"lon": "-96.6807654",
+	"PhoneNo": "402-437-1234",
+	"PhoneNoService": "402-437-1222",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH287"
+}
+  ]
+}

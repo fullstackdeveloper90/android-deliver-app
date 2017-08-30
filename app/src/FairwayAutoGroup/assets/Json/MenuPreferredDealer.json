@@ -1,0 +1,39 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Fairway Ford Henderson",
+            "Subtitle": "Henderson, TX",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGFord.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "301 Hwy 79 S, Henderson, TX 75654",
+            "PhoneNo": "903-741-4471",
+			"PhoneNoService": "903-657-2566",
+			"Website": "http://www.fairwayautogroup.com/",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH255"
+        },
+		{
+            "Title": "Fairway Auto Center",
+            "Subtitle": "Tyler, TX",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGFord.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "4827 State Highway 110, Tyler, TX 75703",
+            "PhoneNo": "877-498-5805",
+			"PhoneNoService": "903-657-2566",
+			"Website": "http://www.fairwayautogroup.com/",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH256"
+        }
+    ]
+}

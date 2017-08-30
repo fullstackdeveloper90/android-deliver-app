@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Classic Chevrolet Sugar Land", 
+	"Subtitle": "Sugar Land, TX",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGChevrolet.png",
+	"LogoURL": "logoHD.png",
+  "StreetAddress": "13115 Southwest Freeway,Sugar Land, TX 77478",
+  "lat": "29.6266689",
+  "lon": "-95.592145399",
+  "PhoneNo": "866-498-5485",
+	"PhoneNoService": "866-500-1660",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL206"
+}
+  ]
+}

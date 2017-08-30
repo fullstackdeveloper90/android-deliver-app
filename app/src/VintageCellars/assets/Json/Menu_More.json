@@ -1,0 +1,46 @@
+{
+"Items": [
+          {
+          "Title": "Loyalty Program",
+          "Subtitle": "Coffee Club, Donut Club",
+          "Tag": 45,
+          "Type": "drilldownfeed",
+          "Display": "Loyalty Program",
+          "Url": "http://www.mobileappscm.com/custom/MobileAppsCM/ws/loyalty/feedLoyalty.aspx?a=SERVERID",
+          "ShowIconType": "",
+          "bgImage": "bgWallsLoyalty.png"
+          },
+          {
+          "Title": "Scratch Card",
+          "Subtitle": "Scratch and Reveal a Prize",
+          "Tag": 81,
+          "ShowIconType": "btn-QuestionMark.png"
+          },
+
+{
+"Title": "Social Media",
+"Subtitle": "Links to our Social Media Pages",
+"Tag": 43,
+"Type": "feed",
+"Display": "Social Media",
+"Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsSimple.aspx?a=SERVERID&f=1504",
+"ShowIconType": "btn-SocialNetworks.png"
+},
+
+{
+"Title": "Help",
+"Subtitle": "How to use this App",
+"Tag": 48,
+"Type": "help",
+"Display": "Help",
+"Url": "http://www.iteamhq.com/mobile-app-support",
+"ShowIconType": "btn-QuestionMark.png"
+},
+{
+"Title": "QR Scanner",
+"Subtitle": "Scan a QR Code",
+"Tag": 51,
+"ShowIconType": "btn-scanbarcode.png"
+}
+]
+}

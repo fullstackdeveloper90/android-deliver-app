@@ -1,0 +1,37 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+          {
+              "Title": "Tate Dodge Chrysler Jeep",
+              "Subtitle": "429 Ritchie Hwy, Glen Burnie, MD 21061",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+			  "fbid": "138127319573708",
+              "ShowIconType": "btn-TateGlenBurnie.png",
+              "LogoURL": "logoHD.png",
+			  "StreetAddress": "7429 Ritchie Hwy, Glen Burnie, MD 21061",
+              "PhoneNo": "410-863-5526",
+			"Website":"http://www.tatedodgechryslerjeep.net",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL244"
+          },
+		  {
+              "Title": "Tate Chrysler Jeep Dodge",
+              "Subtitle": "5629 Buckeystown Pike, Frederick, MD 21704",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+			  "fbid": "138127319573708",
+              "ShowIconType": "btn-TateFrederick.png",
+              "LogoURL": "logoFrederickHD.png",
+			  "StreetAddress": "5629 Buckeystown Pike, Frederick, MD 21704",
+              "PhoneNo": "301-663-6126",
+			"Website":"http://www.tatechryslerfrederick.com",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL263"
+          }
+    ]
+}

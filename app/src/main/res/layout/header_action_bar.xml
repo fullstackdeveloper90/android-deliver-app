@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/myCarActivityTitleBar"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:paddingBottom="5dp"
+    android:paddingTop="5dp"
+    android:background="@color/black">
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@drawable/ic_launcher"
+        android:layout_centerVertical="true"
+        android:id="@+id/act_logo"
+        android:layout_marginLeft="20dp"/>
+    <Button
+        android:id="@+id/manage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="5dp"
+        android:gravity="center"
+        android:onClick="launchManageScreen"
+        android:paddingBottom="2dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="2dp"
+        android:textColor="@color/white"
+        android:text="Manage"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/addNewVehicle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="My Car"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

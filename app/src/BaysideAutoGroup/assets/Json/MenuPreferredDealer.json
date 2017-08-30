@@ -1,0 +1,73 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+              {
+              "Title": "Bayside Chevrolet",
+              "Subtitle": "Prince Frederick, MD",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGChevrolet.png",
+              "LogoURL": "logoHD.png",
+              "StreetAddress": "1200 Solomons Island Road, Prince Frederick, MD 20678",
+              "PhoneNo": "410-535-1500",
+              "PhoneNoService": "410-535-1500",
+              "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL294-CHEVROLET"
+              },
+              {
+              "Title": "Bayside Nissan",
+              "Subtitle": "Annapolis, MD",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGNissan.png",
+              "LogoURL": "logoHD.png",
+              "StreetAddress": "2542 Riva Road, Annapolis, MD 21401",
+              "PhoneNo": "410-224-0707",
+              "PhoneNoService": "410-224-0707",
+              "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL292"
+              },
+              {
+              "Title": "Kia of Waldorf",
+              "Subtitle": "Waldorf, MD",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGKia.png",
+              "LogoURL": "logoHD.png",
+              "StreetAddress": "3188 Crain Highway, Waldorf, MD 20603",
+              "PhoneNo": "301-645-1711",
+              "PhoneNoService": "301-645-1711",
+              "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL293"
+              },
+              {
+              "Title": "Bayside Toyota Scion",
+              "Subtitle": "Prince Frederick, MD",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGToyotaScion.png",
+              "LogoURL": "logoHD.png",
+              "StreetAddress": "103 Auto Drive, Prince Frederick, MD 20678",
+              "PhoneNo": "410-535-1500",
+              "PhoneNoService": "410-535-1500",
+              "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL294-TOYOTA"
+              }
+              ]
+}

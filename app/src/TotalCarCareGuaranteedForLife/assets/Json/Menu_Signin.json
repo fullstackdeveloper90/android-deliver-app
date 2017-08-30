@@ -1,0 +1,45 @@
+{
+    "Items": [
+              
+              {
+              "Title": "Sign In",
+              "Subtitle": "",
+              "Tag": 64,
+              "ShowIconType": "icon-Car.png"
+              },
+              {
+              "Title": "Register",
+              "Subtitle": "New Customer Registration",
+              "Tag": 23,
+              "Type": "help",
+              "Display":"Register",
+              "Url": "http://www.mobileappscm.com/custom/MPG/MPGRegister.aspx?a=SERVERID",
+              "ShowIconType": "icon-Car.png"
+              },
+              {
+              "Title": "Manually Add Vehicle",
+              "Subtitle": "",
+              "Tag": 63,
+              "ShowIconType": "icon-Car.png"
+              },
+              {
+              "Title": "Change Password",
+              "Subtitle": "Change Password",
+              "Tag": 23,
+              "Type": "help",
+              "Display":"Change Password",
+              "Url": "http://www.mobileappscm.com/custom/MPG/MPGChangePw.aspx?a=SERVERID",
+              "ShowIconType": "icon-Key.png"
+
+              },
+              {
+              "Title": "Forgot Password",
+              "Subtitle": "Forgot Password",
+              "Tag": 23,
+              "Type": "help",
+              "Display":"Forgot Password",
+              "Url": "http://www.mobileappscm.com/custom/MPG/MPGForgotPw.aspx?a=SERVERID",
+              "ShowIconType": "icon-QuestionMark.png"
+              }
+              ]
+}

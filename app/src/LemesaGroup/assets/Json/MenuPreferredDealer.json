@@ -1,0 +1,40 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Lamesa Dodge",
+            "Subtitle": "Lamesa, TX",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGChryslerDodgeJeepRam.png",
+            "LogoURL": "logoHD-Dodge.png",
+            "StreetAddress": "1611 Lubbock Hwy, Lamesa, TX 79331",
+            "PhoneNo": "888-609-7097",
+			"PhoneNoService": "888-630-5955",
+			"Website":"http://www.trucktowntexas.com/",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH234"
+        },
+		 {
+            "Title": "Lamesa Chevy",
+            "Subtitle": "Lamesa, TX",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGChevrolet.png",
+            "LogoURL": "logoHD-Chevy.png",
+            "StreetAddress": "2713 Lubbock Hwy, Lamesa, TX 79331",
+            "PhoneNo": "866-725-0807",
+			"PhoneNoService": "877-803-1375",
+			"Website":"http://www.trucktownchevrolet.com/",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH233"
+        }
+		
+    ]
+}

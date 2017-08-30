@@ -1,0 +1,22 @@
+{
+	"Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+	"Items": [{
+		"Title": "Faulkner Fiat",
+		"Subtitle": "Mechanicsburg, PA",
+		"Tag": 10,
+		"Type": "menu",
+		"Display": "",
+		"Url": "Menu_Main",
+		"fbid": "",
+		"ShowIconType": "btn-MFGFiat.png",
+		"LogoURL": "logoHD.png",
+		"StreetAddress": "6722 Carlisle Pike,Mechanicsburg, PA 17050",
+		"lat": "40.239046",
+		"lon": "-77.056267",
+		"PhoneNo": "888-715-9307",
+		"PhoneNoService": "877-823-5218",
+		"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+		"Email": "support@ethosrewardsmsg.com",
+		"DFLID": "ETH267"
+	}]
+}

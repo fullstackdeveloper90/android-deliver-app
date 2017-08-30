@@ -1,0 +1,42 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+              {
+              "Title": "Eskridge Chevrolet",
+              "Subtitle": "Guthrie, OK",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGChevrolet.png",
+              "LogoURL": "logoxHD-chevy.png",
+              "StreetAddress": "5307 South Division,Guthrie, OK 73044",
+              "lat": "35.8232279",
+              "lon": "-97.4202664",
+              "PhoneNo": "405-293-0100",
+              "PhoneNoService": "405-293-0100",
+              "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL62"
+              },{
+              "Title": "Eskridge Honda",
+              "Subtitle": "Oklahoma City, OK",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGHonda",
+              "LogoURL": "logoxHD-honda.png",
+              "StreetAddress": "1030 SW 74th St,Oklahoma City, OK 73139",
+              "lat": "35.3904854",
+              "lon": "-97.5346809",
+              "PhoneNo": "405-631-4444",
+              "PhoneNoService": "405-631-4444",
+              "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL56"
+              }
+              ]
+}

@@ -1,0 +1,22 @@
+{
+    "Items": [
+              {
+              "Title": "Service Specials",
+              "Subtitle": "Exclusive Deals for Mobile Users",
+              "Tag": 11,
+              "Type": "help",
+              "Display":"Service Specials",
+              "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1382&a=SERVERID&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME",
+              "ShowIconType": "btn-News.png"
+              },
+              {
+              "Title": "Service Department",
+              "Subtitle": "Schedule a Service Appointment",
+              "Tag": 23,
+              "Type": "help",
+              "Display":"Service Department",
+              "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1383&a=SERVERID&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME",
+              "ShowIconType": "btn-Gears.png"
+              }
+              ]
+}

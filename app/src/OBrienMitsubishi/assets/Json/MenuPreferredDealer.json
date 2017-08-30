@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "O'Brien Mitsubishi", 
+	"Subtitle": "Normal, IL",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoHD.png",
+    "StreetAddress": "1601 Fort Jesse Road ,Normal, IL 61761",
+  "lat": "40.516947",
+  "lon": "-88.954181",
+  "PhoneNo": "855-240-8830",
+	"PhoneNoService": "309-454-1222",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL345"
+}
+  ]
+}

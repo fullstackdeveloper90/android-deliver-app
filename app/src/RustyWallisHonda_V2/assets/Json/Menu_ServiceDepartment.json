@@ -1,0 +1,37 @@
+{
+"Items": [
+{
+"Title": "Rusty Wallis Honda Service",
+"Subtitle": "",
+"Tag": 23,
+"Type": "help",
+"Display":"Service Department",
+"Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1278&a=38",
+"ShowIconType": "btn-Wrench.png"
+},
+{
+"Title": "Service Specials",
+"Subtitle": "Exclusive Deals Mobile Users",
+"Tag": 11,
+"Type": "help",
+"Display": "Service Specials",
+"Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1279&a=38 ",
+"ShowIconType": "btn-News.png"
+},
+{
+"Title": "Schedule Service",
+"Subtitle": "Schedule an Appointment Online",
+"Tag": 11,
+"Type": "help",
+"Display": "Schedule Service",
+"Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1280&a=38 ",
+"ShowIconType": "btn-Calendar.png"
+},
+{
+"Title": "My Car",
+"Subtitle": "Vehicle Information and History",
+"Tag": 13,
+"ShowIconType": "btn-Car.png"
+}
+]
+}

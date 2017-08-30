@@ -1,0 +1,44 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+              
+              {
+              "Title": "Wiesner Buick GMC",
+              "Subtitle": "Conroe, TX",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGBuickGMC.png",
+              "LogoURL": "logoXHD-BuickGMC.png",
+              "StreetAddress": "1645 Interstate 45 #400,Conroe, TX 77304",
+              "lat": "30.323562",
+              "lon": "-95.475893",
+              "PhoneNo": "855-405-6170",
+              "PhoneNoService": "855-414-4027",
+              "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL236-CONROE"
+              },
+              {
+              "Title": "Wiesner Hyundai",
+              "Subtitle": "Conroe, TX",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGHyundaiWhite3.png",
+              "LogoURL": "logoXHD-Hyundai.png",
+              "StreetAddress": "1645 Interstate 45 #400,Conroe, TX 77304",
+              "lat": "30.323562",
+              "lon": "-95.475893",
+              "PhoneNo": "855-414-4030",
+              "PhoneNoService": "855-414-4028",
+              "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL236-HYUNDAI"
+              }
+              ]
+}

@@ -1,0 +1,60 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "White Chevrolet Cadillac", 
+	"Subtitle": "Roanoke Rapids, NC",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGChevroletCadillac.png",
+	"LogoURL": "logoXHD-chevycaddy.png",
+  "StreetAddress": "173 Old Farm Road,Roanoke Rapids, NC 27870",
+  "lat": "36.4379914",
+  "lon": "-77.6345513",
+  "PhoneNo": "252-507-0367",
+	"PhoneNoService": "252-507-0368",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL298"
+},{
+	"Title": "White Ford", 
+	"Subtitle": "Roanoke Rapids, NC",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGFord.png",
+	"LogoURL": "logoXHD-ford.png",
+  "StreetAddress": "175 Old Farm Rd S,Roanoke Rapids, NC 27870",
+  "lat": "36.4319392",
+  "lon": "-77.639074",
+  "PhoneNo": "888-436-1623",
+	"PhoneNoService": "252-537-3543",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL321"
+},{
+	"Title": "White Chrysler Dodge Jeep Ram", 
+	"Subtitle": "Roanoke Rapids, NC",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGChryslerDodgeJeepRam.png",
+	"LogoURL": "logoXHD-cdjr.png",
+  "StreetAddress": "177 Old Farm Rd S,Roanoke Rapids, NC 27870",
+  "lat": "36.438579",
+  "lon": "-77.634270",
+  "PhoneNo": "888-339-6576",
+	"PhoneNoService": "866-766-1956",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL322"
+}
+  ]
+}

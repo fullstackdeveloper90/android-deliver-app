@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Hamilton Nissan", 
+	"Subtitle": "Hagerstown, MD",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoHD.png",
+  "StreetAddress": "1929 Dual Highway,Hagerstown, MD 21740",
+  "lat": "39.6052986",
+  "lon": "-77.6882188",
+  "PhoneNo": "301-733-7222",
+	"PhoneNoService": "800-527-4603",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL4"
+}
+  ]
+}

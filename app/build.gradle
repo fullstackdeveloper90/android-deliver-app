@@ -1,0 +1,1031 @@
+buildscript {
+    repositories {
+        maven { url 'https://maven.fabric.io/public' }
+    }
+
+    dependencies {
+        classpath 'io.fabric.tools:gradle:1.+'
+    }
+}
+apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+
+repositories {
+    maven { url 'https://maven.fabric.io/public' }
+}
+
+//apply plugin: 'com.google.gms.google-services'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.0"
+
+    //t compileSdkVersion 21
+    //t buildToolsVersion "21.1.2"
+
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+
+    defaultConfig {
+        applicationId "com.mobileappsprn.alldealership"
+        minSdkVersion 19
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+    }
+    //delaerships_pwd_saturday14.keystore
+    //mcgrath_keystore_saturday14.keystore
+    signingConfigs {
+        release {
+//            storeFile file("/Users/sri/Documents/delaerships_pwd_saturday14.keystore")
+//            storePassword "saturday14"
+//            keyAlias "iteam"
+//            keyPassword "saturday14"
+        }
+        debug {
+//            storeFile file("/Users/sri/Documents/delaerships_pwd_saturday14.keystore")
+//            storePassword "saturday14"
+//            keyAlias "iteam"
+//            keyPassword "saturday14"
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'),
+                    'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+        debug {
+            signingConfig signingConfigs.debug
+        }
+    }
+    productFlavors {
+
+        /*
+        FirstAutoGroup {
+            applicationId 'com.mobileappsprn.firstautogroup'
+            versionCode 13
+            versionName '2.2'
+        }
+        FranklinSussexAutomall {
+            applicationId 'com.mobileappsprn.franklinsussexautomall'
+            versionCode 1
+            versionName '1.0'
+        }
+        FranklinSussexHyundai {
+            applicationId 'com.mobileappsprn.franklinsussexhyundai'
+            versionCode 1
+            versionName '1.0'
+        }
+        GreggYoungGroup {
+            applicationId 'com.mobileappsprn.greggyounggroup'
+            versionCode 2
+            versionName '1.1'
+        }
+        KiaDartmouth {
+            applicationId 'com.mobileappsprn.kiadartmouth'
+            versionCode 5
+            versionName '1.4'
+        }
+        CoralSpringsAutoMall {
+            applicationId 'com.mobileappsprn.coralspringsautomall'
+            versionCode 1
+            versionName '1.0'
+        }
+        DealershipforLifeVIP {
+            applicationId 'com.mobileappsprn.dealershipforlifevip'
+            versionCode 1
+            versionName '1.0'
+        }
+        AutoServ {
+            applicationId 'com.mobileappsprn.autoserv'
+            versionCode 4
+            versionName '1.3'
+        }
+        shockley {
+            applicationId 'com.mobileappsprn.shockleyhonda'
+            versionCode 9
+            versionName '1.8'
+        }
+        FillbackFamilyofDealerships {
+            applicationId 'com.mobileappsprn.fillback'
+            versionCode 5
+            versionName '1.4'
+        }
+        DralleChevyBuick {
+            applicationId 'com.mobileappsprn.dralle'
+            versionCode 1
+            versionName '1.0'
+        }
+        MerchantsAuto {
+            applicationId 'com.mobileappsprn.merchantsauto'
+            versionCode 6
+            versionName '1.5'
+        }
+        Tate {
+            applicationId 'com.mobileappsprn.tate'
+            versionCode 2
+            versionName '1.1'
+        }
+        Faulknerciocca {
+            versionCode 1
+            versionName '1.3'
+        }
+        JoeBullardGroup {
+            applicationId 'com.mobileappsprn.joebullardgroup'
+            versionCode 6
+            versionName '1.5'
+        }
+
+        TomDinsdale {
+            applicationId 'com.mobileappsprn.tomdinsdale'
+            versionCode 2
+            versionName '1.1'
+        }
+
+        joebullardford {
+            applicationId 'com.mobileappsprn.joebullardford'
+            versionCode 2
+            versionName '1.1'
+        }
+
+
+        PaulMillerAutoGroup {
+            applicationId 'com.mobileappsprn.paulmillerautogroup'
+            versionCode 1
+            versionName '1.0'
+        }
+
+        scottcars {
+            applicationId 'com.mobileappsprn.scottcars'
+            versionCode 4
+            versionName '1.3'
+        }
+
+
+        AppleFord {
+            applicationId 'com.mobileappsprn.apple.ford'
+            versionCode 4
+            versionName '1.3'
+        }
+        BrenengenAutomotiveGroup {
+            applicationId 'com.mobileappsprn.brenengenauto'
+            versionCode 3
+            versionName '1.3'
+        }
+        AutosportAutomotive {
+            applicationId 'com.mobileappsprn.autosportautopark'
+            versionCode 6
+            versionName '1.5'
+        }
+        ChevroletofHomewood {
+            applicationId 'com.mobileappsprn.chevrolet'
+            versionCode 1
+            versionName '1.0'
+        }
+        Ciocca_V2 {
+            applicationId 'com.mobileappsprn.ciocca'
+            versionCode 2
+            versionName '1.1'
+        }
+        Davenport {
+            applicationId 'com.mobileappsprn.danvenport'
+            versionCode 1
+            versionName '1.0'
+        }
+        Eastchester {
+            applicationId 'com.mobileappsprn.eastchester'
+            versionCode 7
+            versionName '1.7'
+        }
+        GorgesVolvo_V2 {
+            applicationId 'com.mobileappsprn.gorges'
+            versionCode 4
+            versionName '1.4'
+        }
+        hamilton {
+            applicationId 'com.mobileappsprn.hamiltonforlife'
+            versionCode 12
+            versionName '2.1'
+        }
+
+        HamiltonNissan {
+            applicationId 'com.mobileappsprn.hamiltonnissan'
+            versionCode 2
+            versionName '1.1'
+        }
+
+        hondaoflincoln {
+            applicationId 'com.mobileappsprn.hondaoflincoln'
+            versionCode 2
+            versionName '1.1'
+        }
+
+        mcgrath {
+            applicationId 'com.mobileappsprn.mcgrath'
+            versionCode 5
+            versionName '1.4'
+        }
+        MikeDavidsonFord {
+            applicationId 'com.mobileappsprn.mikedavidsonford'
+            versionCode 1
+            versionName '1.0'
+        }
+        MikeKellyAutomotive {
+            applicationId 'com.mobileappsprn.mikekellyautomotive'
+            versionCode 1
+            versionName '1.0'
+        }
+        WiersPromise_V2 {
+            applicationId 'com.mobileappsprn.weirs'
+            versionCode 3
+            versionName '1.2'
+        }
+        PowerFord_V2 {
+            applicationId 'com.mobileappsprn.power.ford'
+            versionCode 3
+            versionName '1.2'
+        }
+        Preston {
+            applicationId 'com.mobileappsprn.preston'
+            versionCode 5
+            versionName '1.5'
+        }
+        Roberts {
+            applicationId 'com.mobileappsprn.roberts'
+            versionCode 1
+            versionName '1.0'
+        }
+        RodmanFord {
+            applicationId 'com.mobileappsprn.rodmanford'
+            versionCode 1
+            versionName '1.0'
+        }
+        RustyWallisHonda_V2 {
+            applicationId 'com.mobileappsprn.rustywallishonda'
+            versionCode 1
+            versionName '1.0'
+        }
+        TriStateFordHyundai {
+            applicationId 'com.mobileappsprn.tristatefordhyundai'
+            versionCode 4
+            versionName '1.3'
+        }
+        JohnHindererHonda {
+            applicationId 'com.mobileappsprn.johnhindererhonda'
+            versionCode 2
+            versionName '1.1'
+        }
+        ParksMotors {
+            applicationId 'com.mobileappsprn.parksmotorsofaugusta'
+            versionCode 2
+            versionName '1.1'
+        }
+        Dealership2015 {
+            applicationId 'com.mobileappsprn.dealership2015'
+            versionCode 1
+            versionName '1.0'
+        }
+        JeffHaasMazda {
+            applicationId 'com.mobileappsprn.jeffhaasmazda'
+            versionCode 1
+            versionName '1.0'
+        }
+        JeffersonCity {
+            applicationId 'com.mobileappsprn.jeffersoncity'
+            versionCode 2
+            versionName '1.1'
+        }
+
+        JeffersonCityHonda {
+            applicationId 'com.mobileappsprn.jeffersoncityhonda'
+            versionCode 4
+            versionName '1.3'
+        }
+
+        JeffersonCityHyundai {
+            applicationId 'com.mobileappsprn.jeffersoncityhyundai'
+            versionCode 4
+            versionName '1.3'
+        }
+
+        JeffersonCityKia {
+            applicationId 'com.mobileappsprn.jeffersoncitykia'
+            versionCode 4
+            versionName '1.3'
+        }
+
+        JeffersonCityNissan {
+            applicationId 'com.mobileappsprn.jeffersoncitynissan'
+            versionCode 4
+            versionName '1.3'
+        }
+
+        LemesaGroup {
+            applicationId 'com.mobileappsprn.lemesagroup'
+            versionCode 2
+            versionName '1.1'
+        }
+        SulphurSprings {
+            applicationId 'com.mobileappsprn.sulphursprings'
+            versionCode 1
+            versionName '1.0'
+        }
+        ShortRedmondFord {
+            applicationId 'com.mobileappsprn.redmondford'
+            versionCode 2
+            versionName '1.1'
+        }
+        TexomaHyundai {
+            applicationId 'com.mobileappsprn.texomahyundai'
+            versionCode 1
+            versionName '1.0'
+        }
+        VintageCellars {
+            applicationId 'com.mobileappsprn.vintagecellars'
+            versionCode 1
+            versionName '1.0'
+        }
+        BonhamCDJR {
+            applicationId 'com.mobileappsprn.bonhamcdjr'
+            versionCode 1
+            versionName '1.0'
+        }
+        BobLindsayAcura {
+            applicationId 'com.mobileappsprn.boblindsayacura'
+            versionCode 3
+            versionName '1.2'
+        }
+
+        BobLindsayHonda {
+            applicationId 'com.mobileappsprn.boblindsayhonda'
+            versionCode 3
+            versionName '1.2'
+        }
+
+
+        BigSpringFord {
+            applicationId 'com.mobileappsprn.bigspringford'
+            versionCode 1
+            versionName '1.0'
+        }
+        FiatOfMcKinney {
+            applicationId 'com.mobileappsprn.fiatofmckinney'
+            versionCode 1
+            versionName '1.0'
+        }
+        GriecoMazda {
+            applicationId 'com.mobileappsprn.griecomazda'
+            versionCode 1
+            versionName '1.0'
+        }
+        JacksonCars {
+            applicationId 'com.mobileappsprn.jacksoncars'
+            versionCode 1
+            versionName '1.0'
+        }
+        AudiAllentown {
+            applicationId 'com.mobileappsprn.audiallentown'
+            versionCode 1
+            versionName '1.0'
+        }
+        FreemanHonda {
+            applicationId 'com.mobileappsprn.freemanhonda'
+            versionCode 2
+            versionName '1.2'
+        }
+        FreemanToyota {
+            applicationId 'com.mobileappsprn.freemantoyota'
+            versionCode 2
+            versionName '1.2'
+        }
+        HondaSubaruofSantaFe {
+            applicationId 'com.mobileappsprn.hondasubaruofsantafe'
+            versionCode 2
+            versionName '1.1'
+        }
+        UniversityMazdaKia {
+            applicationId 'com.mobileappsprn.universitymazdakia'
+            versionCode 1
+            versionName '1.0'
+        }
+        EmilysBagelBin {
+            applicationId 'com.mobileappsprn.emilysbagelbin'
+            versionCode 1
+            versionName '1.0'
+        }
+        WinnieCDJR {
+            applicationId 'com.mobileappsprn.winniecdjr'
+            versionCode 6
+            versionName '1.5'
+        }
+        Sisbarro {
+            applicationId 'com.mobileappsprn.sisbarro'
+            versionCode 5
+            versionName '1.4'
+        }
+        WiesnerHuntsville {
+            applicationId 'com.mobileappsprn.wiesnerhuntsville'
+            versionCode 1
+            versionName '1.0'
+        }
+        EskridgeChevrolet {
+            applicationId 'com.mobileappsprn.eskridgechevrolet'
+            versionCode 11
+            versionName '1.10'
+        }
+        VWWoodlands {
+            applicationId 'com.mobileappsprn.vwwoodlands'
+            versionCode 2
+            versionName '1.1'
+        }
+        HondaCarsOfRockwall {
+            applicationId 'com.mobileappsprn.hondacarsofrockwall'
+            versionCode 2
+            versionName '1.1'
+        }
+        DubuqueAutoPlaza {
+            applicationId 'com.mobileappsprn.dubuqueautoplaza'
+            versionCode 5
+            versionName '1.4'
+        }
+        GreenvilleNissan {
+            applicationId 'com.mobileappsprn.greenvillenissan'
+            versionCode 1
+            versionName '1.0'
+        }
+        HerbConnollyAcura {
+            applicationId 'com.mobileappsprn.herbconnollyacura'
+            versionCode 1
+            versionName '1.0'
+        }
+        WestfieldFord {
+            applicationId 'com.mobileappsprn.westfieldford'
+            versionCode 1
+            versionName '1.0'
+        }
+        WhiteMotors {
+            applicationId 'com.mobileappsprn.whitemotors'
+            versionCode 11
+            versionName '2.1'
+        }
+        BaysideAutoGroup {
+            applicationId 'com.mobileappsprn.baysideautogroup'
+            versionCode 2
+            versionName '1.1'
+        }
+        ShafferHyundaiMitsubishi {
+            applicationId 'com.mobileappsprn.shafferhyundaimitsubishi'
+            versionCode 1
+            versionName '1.0'
+        }
+        SherwoodSalisbury {
+            applicationId 'com.mobileappsprn.sherwoodsalisbury'
+            versionCode 9
+            versionName '1.8'
+        }
+        GreenvilleCDJR {
+            applicationId 'com.mobileappsprn.greenvillecdjr'
+            versionCode 2
+            versionName '1.1'
+        }
+        VolvoFortMyers {
+            applicationId 'com.mobileappsprn.volvofortmyers'
+            versionCode 2
+            versionName '1.1'
+        }
+        FaulknerHondaHarrisburg {
+            applicationId 'com.mobileappsprn.faulknerhondaharrisburg'
+            versionCode 2
+            versionName '1.1'
+        }
+        ToddWenzel {
+            applicationId 'com.mobileappsprn.toddwenzel'
+            versionCode 3
+            versionName '1.2'
+        }
+        RustWallisVW {
+            applicationId 'com.mobileappsprn.rustywallisvw'
+            versionCode 2
+            versionName '1.1'
+        }
+        BruceTitusAutoGroup {
+            applicationId 'com.mobileappsprn.brucetitusautogroup'
+            versionCode 1
+            versionName '1.0'
+        }
+        CadillacofNaperville {
+            applicationId 'com.mobileappsprn.cadillacofnaperville'
+            versionCode 3
+            versionName '1.2'
+        }
+        CoppleChevroletGMC {
+            applicationId 'com.mobileappsprn.copplechevroletgmc'
+            versionCode 1
+            versionName '1.0'
+        }
+        EliteMotors {
+            applicationId 'com.mobileappsprn.elitemotors'
+            versionCode 2
+            versionName '1.1'
+        }
+        FairwayAutoGroup {
+            applicationId 'com.mobileappsprn.fairwayautogroup'
+            versionCode 2
+            versionName '1.1'
+        }
+        ArnieBauerGroup {
+            applicationId 'com.mobileappsprn.arniebauergroup'
+            versionCode 2
+            versionName '1.1'
+        }
+        FoggsAutomotive {
+            applicationId 'com.mobileappsprn.foggsautomotive'
+            versionCode 2
+            versionName '1.1'
+        }
+        MartinAutomotive {
+            applicationId 'com.mobileappsprn.martinautomotive'
+            versionCode 6
+            versionName '1.6'
+        }
+        StockerChevySubaru {
+            applicationId 'com.mobileappsprn.stockerchevysubaru'
+            versionCode 3
+            versionName '1.2'
+        }
+        FaulknerBuickGMC {
+            applicationId 'com.mobileappsprn.faulknerbuickgmc'
+            versionCode 2
+            versionName '1.1'
+        }
+        FaulknerBuickGMCWestChester {
+            applicationId 'com.mobileappsprn.faulknerbuickgmcwestchester'
+            versionCode 2
+            versionName '1.1'
+        }
+        FaulknerBuickGMCHarrisburg {
+            applicationId 'com.mobileappsprn.faulknerbuickgmcharrisburg'
+            versionCode 2
+            versionName '1.1'
+        }
+        MidtownKia {
+            applicationId 'com.mobileappsprn.midtownkia'
+            versionCode 2
+            versionName '1.1'
+        }
+        FaulknerMazdaHarrisburg {
+            applicationId 'com.mobileappsprn.faulknermazdaharrisburg'
+            versionCode 1
+            versionName '1.0'
+        }
+        FaulknerMazdaTrevose {
+            applicationId 'com.mobileappsprn.faulknermazdatrevose'
+            versionCode 1
+            versionName '1.0'
+        }
+        McGrathCity {
+            applicationId 'com.mobileappsprn.mcGrathcity'
+            versionCode 2
+            versionName '1.1'
+        }
+        BedardBrothersAutoGroup {
+            applicationId 'com.mobileappsprn.bedardbrothersautogroup'
+            versionCode 1
+            versionName '1.0'
+        }
+        FaulknerMazda {
+            applicationId 'com.mobileappsprn.faulknermazdaharrisburg'
+            versionCode 1
+            versionName '1.0'
+        }
+        CoastalGroup {
+            applicationId 'com.mobileappsprn.coastalgroup'
+            versionCode 2
+            versionName '1.1'
+        }
+        FaulknerBMW {
+            applicationId 'com.mobileappsprn.faulknerbmw'
+            versionCode 1
+            versionName '1.0'
+        }
+        FaulknerCadillac {
+            applicationId 'com.mobileappsprn.faulknercadillac'
+            versionCode 1
+            versionName '1.0'
+        }
+        FaulknerChevrolet {
+            applicationId 'com.mobileappsprn.faulknerchevrolet'
+            versionCode 1
+            versionName '1.0'
+        }
+        HagerstownHondaKia {
+            applicationId 'com.mobileappsprn.hagerstownhondakia'
+            versionCode 1
+            versionName '1.0'
+        }
+        FaulknerHyundaiHarrisburg {
+            applicationId 'com.mobileappsprn.faulknerhyundaiharrisburg'
+            versionCode 1
+            versionName '1.0'
+        }
+
+        FaulknerInfiniti {
+            applicationId 'com.mobileappsprn.faulknerinfiniti'
+            versionCode 5
+            versionName '1.4'
+        }
+
+        ClassicChevroletLawton {
+            applicationId 'com.mobileappsprn.classicchevroletlawton'
+            versionCode 1
+            versionName '1.0'
+        }
+         BirdnowGroup {
+            applicationId 'com.mobileappsprn.birdnow'
+            versionCode 4
+            versionName '1.3'
+        }
+
+        BlossomChevrolet {
+            applicationId 'com.mobileappsprn.blossomchevrolet'
+            versionCode 2
+            versionName '1.1'
+        }
+        DanWiseChevrolet {
+            applicationId 'com.mobileappsprn.danwisechevrolet'
+            versionCode 1
+            versionName '1.0'
+        }
+        EdNapleton {
+            applicationId 'com.mobileappsprn.ednapleton'
+            versionCode 2
+            versionName '1.1'
+        }
+        FaulknerVW {
+            applicationId 'com.mobileappsprn.faulknervw'
+            versionCode 1
+            versionName '1.0'
+        }
+        FaulknerFiat {
+            applicationId 'com.mobileappsprn.faulknerfiat'
+            versionCode 1
+            versionName '1.0'
+        }
+        FaulknerDodgeRam {
+            applicationId 'com.mobileappsprn.faulknerdodgeram'
+            versionCode 1
+            versionName '1.0'
+        }
+        GreenvilleHyundai {
+            applicationId 'com.mobileappsprn.greenvillehyundai'
+            versionCode 1
+            versionName '1.0'
+        }
+        SanMarcos {
+            applicationId 'com.mobileappsprn.sanmarcos'
+            versionCode 1
+            versionName '1.0'
+        }
+        McGavockNissan {
+            applicationId 'com.mobileappsprn.mcgavocknissan'
+            versionCode 3
+            versionName '1.2'
+        }
+
+        GlavanFord {
+            applicationId 'com.mobileappsprn.glavanford'
+            versionCode 6
+            versionName '1.5'
+        }
+        McCurryDeck {
+            applicationId 'com.mobileappsprn.mccurrydeck'
+            versionCode 2
+            versionName '1.1'
+        }
+        SethWadley {
+            applicationId 'com.mobileappsprn.sethwadley'
+            versionCode 10
+            versionName '1.9'
+        }
+        TotalCarCareGuaranteedForLife {
+            applicationId 'com.mobileappsprn.totalcarcareguaranteed'
+            versionCode 3
+            versionName '1.2'
+        }
+        WiesnerAuto {
+            applicationId 'com.mobileappsprn.wiesnerauto'
+            versionCode 2
+            versionName '1.1'
+        }
+        FortBendKia {
+            applicationId 'com.mobileappsprn.fortbendkia'
+            versionCode 1
+            versionName '1.0'
+        }
+        JohnHiesterAutomotive {
+            applicationId 'com.mobileappsprn.johnhiesterautomotive'
+            versionCode 6
+            versionName '1.5'
+        }
+        Route6Automall {
+            applicationId 'com.mobileappsprn.route6automall'
+            versionCode 1
+            versionName '1.0'
+        }
+        BayshoreCDJR {
+            applicationId 'com.mobileappsprn.bayshorecdjr'
+            versionCode 1
+            versionName '1.0'
+        }
+        McDanielsAutoGroup {
+            applicationId 'com.mobileappsprn.mcdanielsautogroup'
+            versionCode 4
+            versionName '1.3'
+        }
+        BeatriceFord {
+            applicationId 'com.mobileappsprn.beatriceford'
+            versionCode 2
+            versionName '1.1'
+        }
+        PatsyLouChevrolet {
+            applicationId 'com.mobileappsprn.patsylouchevrolet'
+            versionCode 3
+            versionName '1.2'
+        }
+        Midwest {
+            applicationId 'com.mobileappsprn.midwest'
+            versionCode 2
+            versionName '1.1'
+        }
+        SanTanFord {
+            applicationId 'com.mobileappsprn.santanford'
+            versionCode 2
+            versionName '1.1'
+        }
+        ShafferFord {
+            applicationId 'com.mobileappsprn.shafferford'
+            versionCode 4
+            versionName '1.3'
+        }
+        BaywayLincoln {
+            applicationId 'com.mobileappsprn.baywaylincoln'
+            versionCode 2
+            versionName '1.1'
+        }
+        BaywayVolvo {
+            applicationId 'com.mobileappsprn.baywayvolvo'
+            versionCode 2
+            versionName '1.1'
+        }
+        courtesyacura {
+            applicationId 'com.mobileappsprn.courtesyacura'
+            versionCode 4
+            versionName '1.3'
+        }
+        OBrienMitsubishi {
+            applicationId 'com.mobileappsprn.obrienmitsubishi'
+            versionCode 4
+            versionName '1.3'
+        }
+        OHaraCDJR {
+            applicationId 'com.mobileappsprn.oharacdjr'
+            versionCode 6
+            versionName '1.5'
+        }
+        Pritchard {
+            applicationId 'com.mobileappsprn.pritchard'
+            versionCode 9
+            versionName '1.8'
+        }
+        RussellSmithAuto {
+            applicationId 'com.mobileappsprn.russellsmithauto'
+            versionCode 9
+            versionName '1.8'
+        }
+        AltoonHonda {
+            applicationId 'com.mobileappsprn.altoonhonda'
+            versionCode 2
+            versionName '1.1'
+        }
+
+        ClassicChevyCarProRewards {
+            applicationId 'com.mobileappsprn.classicchevrolet'
+            versionCode 1
+            versionName '1.0'
+        }
+
+        ClassicGalvestonAdvantageRewards {
+            applicationId 'com.mobileappsprn.classicgalveston'
+            versionCode 2
+            versionName '1.1'
+        }
+
+        AutoGiants {
+            applicationId 'com.mobileappsprn.autogiants'
+            versionCode 2
+            versionName '1.1'
+        }
+
+        MoodyMotors {
+            applicationId 'com.mobileappsprn.moodymotors'
+            versionCode 2
+            versionName '1.1'
+        }
+
+        JoeMachensHyundai {
+            applicationId 'com.mobileappsprn.joemachenshyundai'
+            versionCode 1
+            versionName '1.0'
+        }
+
+        JoeMachensVolkswagen {
+            applicationId 'com.mobileappsprn.joemachensvolkswagen'
+            versionCode 1
+            versionName '1.0'
+        }
+
+        VicksburgCDJR {
+            applicationId 'com.mobileappsprn.vicksburgcdjr'
+            versionCode 2
+            versionName '1.1'
+        }
+        JerrysAutoGroup {
+            applicationId 'com.mobileappsprn.jerrysautogroup'
+            versionCode 7
+            versionName '1.6'
+        }
+
+        DiscoveryCBG {
+            applicationId 'com.mobileappsprn.discoverycbg'
+            versionCode 5
+            versionName '1.4'
+        }
+
+        CascadeChevrolet {
+            applicationId 'com.mobileappsprn.cascadechevrolet'
+            versionCode 1
+            versionName '1.0'
+        }
+
+        MaquoketaFord {
+            applicationId 'com.mobileappsprn.maquoketaford'
+            versionCode 4
+            versionName '1.3'
+        }
+
+        ciocca {
+            applicationId 'com.mobileappsprn.ciocca'
+            versionCode 12
+            versionName '2.1'
+        }
+
+        Ourisman {
+            applicationId 'com.mobileappsprn.ourisman'
+            versionCode 2
+            versionName '1.1'
+        }
+
+        westernmotor {
+            applicationId 'com.mobileappsprn.westernmotor'
+            versionCode 1
+            versionName '1.0'
+        }
+
+        RobertsAutoGroup {
+            applicationId 'com.mobileappsprn.robertsautogroup'
+            versionCode 4
+            versionName '1.3'
+        }
+
+        MiloGordon {
+            applicationId 'com.mobileappsprn.milogordon'
+            versionCode 1
+            versionName '1.0'
+        }
+
+
+        DonWhite {
+            applicationId 'com.mobileappsprn.donwhite'
+            versionCode 2
+            versionName '1.1'
+        }
+
+        NielsenDodge {
+            applicationId 'com.mobileappsprn.nielsendodge'
+            versionCode 1
+            versionName '1.0'
+        }
+
+        StateCollegeMotors {
+            applicationId 'com.mobileappsprn.statecollegemotors'
+            versionCode 2
+            versionName '1.1'
+        }
+
+        McGavockNissan {
+            applicationId 'com.mobileappsprn.mcgavocknissan'
+            versionCode 1
+            versionName '1.0'
+        }
+
+        McGrathNissan {
+            applicationId 'com.mobileappsprn.mcgrathnissan'
+            versionCode 1
+            versionName '1.0'
+        }
+
+        JTs {
+            applicationId 'com.mobileappsprn.jts'
+            versionCode 4
+            versionName '1.3'
+        }
+
+        Route23Kia {
+            applicationId 'com.mobileappsprn.route23kia'
+            versionCode 3
+            versionName '1.2'
+        }
+
+        VolvoOfTheWoodlands {
+            applicationId 'com.mobileappsprn.volvoofthewoodlands'
+            versionCode 1
+            versionName '1.0'
+        }
+
+        RocklandHyundai {
+            applicationId 'com.mobileappsprn.rocklandhyundai'
+            versionCode 1
+            versionName '1.0'
+        }
+
+        StalkerChevrolet {
+            applicationId 'com.mobileappsprn.stalkerchevroletrewards'
+            versionCode 1
+            versionName '1.0'
+        }
+
+        HondaCarsOfRockwall {
+            applicationId 'com.mobileappsprn.hondacarsofrockwall'
+            versionCode 2
+            versionName '1.1'
+        }
+
+        Volvo128 {
+            applicationId 'com.mobileappsprn.volvo128'
+            versionCode 1
+            versionName '1.0'
+        }
+
+        */
+
+        BirdnowGroup {
+            applicationId 'com.mobileappsprn.birdnow'
+            versionCode 5
+            versionName '1.4'
+        }
+
+
+    }
+
+    sourceSets {
+        main { assets.srcDirs = ['src/main/assets', 'src/main/assets/2'] }
+        flavour2 { assets.srcDirs = ['src/flavour2/assets', 'src/flavour2/assets/'] }
+    }
+}
+
+android {
+    useLibrary 'org.apache.http.legacy'
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile files('libs/FlurryAnalytics-4.0.0.jar')
+    //    compile project(':ZBarScannerLibrary')
+    //t compile 'com.android.support:support-v4:21.0.3'
+    //compile 'com.android.support:support-v4:23.0.0'
+    //compile 'com.actionbarsherlock:actionbarsherlock:4.4.0@aar'
+    //compile 'com.android.support:support-v4:23.0.0'
+    //t compile 'com.google.android.gms:play-services:6.5.87'
+    //compile 'com.google.android.gms:play-services:8.1.0'
+    //compile 'com.android.support:appcompat-v7:23.2.1'
+    //compile 'com.google.android.gms:play-services-gcm:8.1.0'
+    compile('cn.trinea.android.view.autoscrollviewpager:android-auto-scroll-view-pager:1.1.2') {
+        exclude module: 'support-v4'
+    }
+    compile('com.crashlytics.sdk.android:crashlytics:2.2.3@aar') {
+        transitive = true;
+    }
+    compile 'me.dm7.barcodescanner:zxing:1.8.4'
+    compile 'com.android.support:multidex:1.0.1'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.google.android.gms:play-services-gcm:10.2.1'
+    compile 'com.google.android.gms:play-services-analytics:10.2.1'
+    compile 'com.google.android.gms:play-services-maps:10.2.1'
+    compile 'com.google.android.gms:play-services:10.2.1'
+    compile 'com.google.firebase:firebase-core:10.0.1'
+}
+apply plugin: 'com.google.gms.google-services'

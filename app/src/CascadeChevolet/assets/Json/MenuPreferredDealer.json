@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Cascade Chevrolet", 
+	"Subtitle": "Cascade, IA",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoXHD.png",
+  "StreetAddress": "128 Industrial Park Rd,Cascade, IA 52033",
+  "lat": "42.3089181",
+  "lon": "-90.99423949999",
+  "PhoneNo": "888-705-3009",
+	"PhoneNoService": "888-701-1413",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH282"
+}
+  ]
+}

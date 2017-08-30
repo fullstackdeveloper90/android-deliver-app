@@ -1,0 +1,27 @@
+{
+    "Items": [
+				{
+				"Title": "Hours and Directions",
+				"Subtitle": "",
+				"Tag": 23,
+				"Type": "help",
+				"Display":"Hours and Directions",
+				"Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1286&a=21",
+				"ShowIconType": "btn-Gears.png"
+              },{
+              "Title": "Service Specials",
+              "Subtitle": "",
+              "Tag": 23,
+              "Type": "help",
+              "Display":"Service Specials",
+              "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1298&a=21",
+              "ShowIconType": "btn-Gears.png"
+              },
+				{
+				"Title": "My Car",
+				"Subtitle": "Vehicle Information and History",
+				"Tag": 13,
+				"ShowIconType": "btn-Car.png"
+                }
+            ]
+}

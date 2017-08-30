@@ -1,0 +1,42 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Coastal Chevrolet Cadillac", 
+	"Subtitle": "Pawleys Island, SC",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGChevroletCadillac.png",
+	"LogoURL": "logoXHD-chevy.png",
+	"StreetAddress": "8559 Ocean Highway,Pawleys Island, SC 29585",
+	"lat": "33.4267712",
+	"lon": "-79.15676309",
+	"PhoneNo": "888-709-6461",
+	"PhoneNoService": "888-709-6461",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH164"
+},{
+	"Title": "Coastal Nissan", 
+	"Subtitle": "Pawleys Island, SC",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGNissan.png",
+	"LogoURL": "logoXHD-nissan.png",
+	"StreetAddress": "8519 Ocean Hwy,Pawleys Island, SC 29585",
+	"lat": "33.4263417", 
+	"lon": "-79.1578585",
+	"PhoneNo": "888-706-8771",
+	"PhoneNoService": "888-706-8771",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH163"
+}
+  ]
+}

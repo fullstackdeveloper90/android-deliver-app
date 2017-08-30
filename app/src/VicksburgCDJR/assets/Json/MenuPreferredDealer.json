@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Vicksburg Chrysler Dodge Jeep Ram", 
+	"Subtitle": "Vicksburg, MI",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoHD.png",
+  "StreetAddress": "13475 Portage Road,Vicksburg, MI 49097",
+  "lat": "42.122191699",
+  "lon": "-85.5678161",
+  "PhoneNo": "866-949-7222",
+	"PhoneNoService": "888-759-1043",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL349"
+}
+  ]
+}

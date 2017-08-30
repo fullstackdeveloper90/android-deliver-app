@@ -1,0 +1,24 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Ed Napleton Honda",
+            "Subtitle": "Oak Lawn, IL",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGHonda.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "5800 West 95th Street, Oak Lawn, IL 60453",
+            "lat": "41.7203364",
+            "lon": "-87.7658397",
+            "PhoneNo": "888-356-0134",
+			"PhoneNoService": "888-229-9854",
+			"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL236"
+        }
+    ]
+}

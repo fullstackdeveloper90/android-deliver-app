@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "San Marcos", 
+	"Subtitle": "San Marcos, TX",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoHD.png",
+	"StreetAddress": "2990 S Interstate 35,San Marcos, TX 78666",
+	"lat": "29.8414346",
+	"lon": "-97.9724290",
+	"PhoneNo": "888-688-0589",
+	"PhoneNoService": "877-290-1740",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH189"
+}
+  ]
+}

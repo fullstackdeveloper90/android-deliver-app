@@ -1,0 +1,24 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Honda Cars of Rockwall",
+            "Subtitle": "Rockwall, TX",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGHonda.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "1550 East I-30, Rockwall, TX 75087",
+            "PhoneNo": "469-267-6367",
+			"PhoneNoService": "469-267-6286",
+            "lat":"32.914105",
+            "lon":"-96.435358",
+			"Website":"http://www.hondacarsofrockwall.com",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "ETH245"
+        }
+    ]
+}

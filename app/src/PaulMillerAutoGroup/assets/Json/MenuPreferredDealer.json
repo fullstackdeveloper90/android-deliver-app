@@ -1,0 +1,42 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Paul Miller Select", 
+	"Subtitle": "Parsippany, NJ",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "iphoneIcon114.png",
+	"LogoURL": "logoXHD-select.png",
+	"StreetAddress": "250 US 46,Parsippany, NJ 07054",
+	"lat": "40.858975",
+	"lon": "-74.356563",
+	"PhoneNo": "855-638-2442",
+	"PhoneNoService": "855-638-2442",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL359"
+},{
+	"Title": "Paul Miller Volkswagen", 
+	"Subtitle": "Bernardsville, NJ",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGVWWhite3.png",
+	"LogoURL": "logoXHD-vw.png",
+	"StreetAddress": "118 Morristown Rd,Bernardsville, NJ 07924",
+	"lat": "40.7204555",
+	"lon": "-74.5599153",
+	"PhoneNo": "855-603-9595",
+	"PhoneNoService": "855-603-3336",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL360"
+}
+  ]
+}

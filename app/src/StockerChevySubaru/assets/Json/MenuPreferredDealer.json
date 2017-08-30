@@ -1,0 +1,43 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+              "Title": "Stocker Chevrolet",
+              "Subtitle": "State College, PA",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGChevrolet.png",
+              "LogoURL": "logoHD.png",
+              "StreetAddress": "701 Benner Pike, State College, PA 16801",
+			  "lat":"40.8351371",
+              "lon":"-77.8027677",
+              "PhoneNo": "866-235-0270",
+              "PhoneNoService": "800-401-6598",
+              "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL324-CHEVROLET"
+              },
+		 {
+              "Title": "Stocker Subaru",
+              "Subtitle": "State College, PA",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGSubaruWhite3.png",
+              "LogoURL": "logoHD.png",
+              "StreetAddress": "701 Benner Pike, State College, PA 16801",
+			  "lat":"40.8351371",
+              "lon":"-77.8027677",
+              "PhoneNo": "866-235-0270",
+              "PhoneNoService": "800-401-6598",
+              "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL324-SUBARU"
+        }
+    ]
+}

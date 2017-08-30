@@ -1,0 +1,24 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Faulkner Buick GMC West Chester",
+            "Subtitle": "West Chester, PA",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGBuickGMC.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "705 Autopark Boulevard, West Chester, PA 19382",
+            "lat":"39.955820",
+            "lon":"-75.586507",
+            "PhoneNo": "877-842-3243",
+            "PhoneNoService": "877-226-6041",
+			"Website":"http://www.faulknerauto.com/",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH207"
+        }
+    ]
+}

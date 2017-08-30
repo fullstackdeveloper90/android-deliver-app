@@ -1,0 +1,28 @@
+{
+	"Items": [
+	    {
+	    	"Prize":     "a $500 discount on a new car purchase",
+	        "ImageShow": "free_discount_scratch.png",
+	        "ImageHide": "scratch_hidden.png",
+	        "Frequency": "4"
+	    },
+	    {
+	    	"Prize":     "$5 off your next oil change.",
+	        "ImageShow": "oil_change_scratch.png",
+	        "ImageHide": "scratch_hidden.png",
+	        "Frequency": "1"
+	    },
+	    {
+	    	"Prize":     "a free tire alignment check",
+	        "ImageShow": "tire_alignment_scratch.png",
+	        "ImageHide": "scratch_hidden.png",
+	        "Frequency": "3"
+	    },
+	    {
+	    	"Prize":     "a free battery check",
+	        "ImageShow": "battery_check_scratch.png",
+	        "ImageHide": "scratch_hidden.png",
+	        "Frequency": "3"
+	    }
+	]
+}

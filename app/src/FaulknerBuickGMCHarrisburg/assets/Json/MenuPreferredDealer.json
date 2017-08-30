@@ -1,0 +1,24 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Faulkner Buick GMC Harrisburg",
+            "Subtitle": "Harrisburg, PA",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGBuickGMC.png",
+            "LogoURL": "logoHD.png",
+            "lat":"40.2561747",
+            "lon":"-76.84375439",
+            "StreetAddress": "2650 Paxton St, Harrisburg, PA 17111",
+            "PhoneNo": "877-891-7240",
+            "PhoneNoService": "877-210-8165",
+			"Website":"http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH186"
+        }
+    ]
+}

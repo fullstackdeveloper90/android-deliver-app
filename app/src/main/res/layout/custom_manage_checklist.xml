@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rlayoutManage"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    
+    <TextView 
+        android:id="@+id/carNametextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"/>
+    
+    <CheckBox 
+        android:id="@+id/checkboxManage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:checked="false"
+	    android:focusable="false"
+	    android:clickable="false"/>
+    
+    <TextView 
+        android:id="@+id/invisibleTextView"
+        android:layout_toLeftOf="@id/checkboxManage"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:clickable="true"/>
+    
+</RelativeLayout> 
+    

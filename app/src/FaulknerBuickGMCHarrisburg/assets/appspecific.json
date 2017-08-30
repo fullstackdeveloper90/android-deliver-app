@@ -1,0 +1,15 @@
+{
+    "a":"141",
+    "DEALERSHIP_GROUP_VERSION":"FALSE",
+    "UI_TITLE":"Faulkner Buick GMC Harrisburg",
+    "FOOTER_TEXT":"Sent from the Faulkner Buick GMC Harrisburg Mobile App",
+    "DEALER_WEBSITE":"http://www.sherwoodcjdsalisbury.com/",
+    "MENU_TYPE":"2",
+    "ROW_1_BG_COLOR":"#7F7F7F",
+    "ROW_1_FG_COLOR":"#FFFFFF",
+    "ROW_2_BG_COLOR":"#000000",
+    "ROW_2_FG_COLOR":"#FFFFFF",
+    "BOTTOM_TICKER_FG":"#ffffff",
+    "BOTTOM_TICKER_BG":"#000000",
+    "SHOW_SIDE_MENU":"true"
+}

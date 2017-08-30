@@ -1,0 +1,22 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Nielsen Dodge Chrysler Jeep Ram",
+            "Subtitle": "East Hanover, NJ",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "iPhoneIcon100.png",
+            "LogoURL": "LogoHD.png",
+            "StreetAddress": "175 Route 10, East Hanover, NJ 07936",
+            "PhoneNo": "973-884-2100",
+            "PhoneNoService": "973-515-0800",
+			"Website":"http://www.NielsenDodge.com/",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL193"
+        }
+    ]
+}

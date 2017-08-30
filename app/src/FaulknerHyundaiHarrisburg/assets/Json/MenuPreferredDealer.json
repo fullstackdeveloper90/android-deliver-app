@@ -1,0 +1,24 @@
+{
+"Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+	"Items": [
+	{
+		"Title": "Faulkner Hyundai Harrisburg", 
+		"Subtitle": "Harrisburg, PA",       
+		"Tag": 10,
+		"Type": "menu",
+		"Display": "",
+		"Url": "Menu_Main",
+		"fbid": "",
+		"ShowIconType": "btn-MFGMazda.png",
+		"LogoURL": "logoHD.png",
+		"StreetAddress": "2060 Paxton St ,Harrisburg, PA 17111",
+		"lat": "40.2554102",
+		"lon": "-76.85101639",
+		"PhoneNo": "717-303-3194",
+		"PhoneNoService": "717-345-3136",
+		"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+		"Email": "support@ethosrewardsmsg.com",
+		"DFLID": "ETH172"
+	}
+	]
+}

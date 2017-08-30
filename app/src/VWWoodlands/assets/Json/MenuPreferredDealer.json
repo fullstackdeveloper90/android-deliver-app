@@ -1,0 +1,22 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Volkswagen of The Woodlands",
+            "Subtitle": "Woodlands, TX",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGVW.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "16785 Interstate 45 South, The Woodlands, TX 77385",
+            "PhoneNo": "936-321-6500",
+			"PhoneNoService": "855-436-3476",
+			"Website":"http://www.vwofthewoodlands.com/",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL285"
+        }
+    ]
+}

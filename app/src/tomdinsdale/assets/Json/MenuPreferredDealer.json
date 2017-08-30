@@ -1,0 +1,42 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Tom Dinsdale Hastings", 
+	"Subtitle": "Hastings, NE",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGChryslerDodgeJeepRam.png",
+	"LogoURL": "logoXHD-CDJR.png",
+	"StreetAddress": "2800 OSBORNE DRIVE EAST,Hastings, NE 68901",
+	"lat": "40.614056",
+	"lon": "-98.3812351",
+	"PhoneNo": "877-312-9075",
+	"PhoneNoService": "877-312-9075",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH293"
+},{
+	"Title": "Tom Dinsdale Automotive Grand Island", 
+	"Subtitle": "Grand Island, NE",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGChevroletCadillacGMC.png",
+	"LogoURL": "logoXHD-GM.png",
+	"StreetAddress": "1708 South Webb Rd.,Grand Island, NE 68803",
+	"lat": "40.9045181",
+	"lon": "-98.3806627",
+	"PhoneNo": "308-210-2166",
+	"PhoneNoService": "308-210-2166",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH292"
+}
+  ]
+}

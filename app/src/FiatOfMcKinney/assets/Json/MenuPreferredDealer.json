@@ -1,0 +1,22 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Fiat of McKinney",
+            "Subtitle": "",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGFiat.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "800 N Central Expressway, McKinney, TX 75070",
+            "PhoneNo": "855-976-5127",
+			"PhoneNoService": "972-562-0000",
+			"Website":"http://www.fiatofmckinney.com/",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH232"
+        }
+    ]
+}

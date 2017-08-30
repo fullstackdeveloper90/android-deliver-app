@@ -1,0 +1,22 @@
+{
+"Items": [
+          {
+          "Title": "Service Specials",
+          "Subtitle": "Special Deals for Mobile Users",
+          "Tag": 11,
+          "Type": "help",
+          "Display": "Service Specials",
+          "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNews.aspx?a=SERVERID&f=1537",
+          "ShowIconType": "btn-News.png"
+          },
+{
+"Title": "Schedule Service",
+"Subtitle": "",
+"Tag": 23,
+"Type": "newweb",
+"Display":"Service Department",
+"Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1538&a=SERVERID",
+"ShowIconType": "btn-Calendar.png"
+}
+]
+}

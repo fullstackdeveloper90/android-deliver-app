@@ -1,0 +1,30 @@
+{
+"Items": [
+          {
+          "Title": "Service Department Website",
+          "Subtitle": "",
+          "Tag": 11,
+          "Type": "help",
+          "Display":"Specials & Events",
+          "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1577&a=SERVERID",
+          "ShowIconType": "btn-Wrench.png"
+          },
+{
+"Title": "Schedule Service",
+"Subtitle": "",
+"Tag": 23,
+"Type": "newweb",
+"Display":"Service Department",
+"Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1579&a=SERVERID",
+"ShowIconType": "btn-Calendar.png"
+},
+          {
+          "Title": "Call Service Department",
+          "Subtitle": "",
+          "Tag": 13,
+          "Type": "callservice",
+          "ShowIconType": "btn-Cellphone.png"
+          }
+]
+
+}

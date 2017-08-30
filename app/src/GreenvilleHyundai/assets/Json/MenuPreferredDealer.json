@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Greenville Hyundai", 
+	"Subtitle": "Greenville, TX",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoHD.png",
+	"StreetAddress": "7311 I-30 Frontage Rd.,Greenville, TX 75402",
+	"lat": "33.0956306",
+	"lon": "-96.10634739",
+	"PhoneNo": "903-704-4089",
+	"PhoneNoService": "877-728-8704",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH264"
+}
+  ]
+}

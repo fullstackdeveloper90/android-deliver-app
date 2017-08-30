@@ -1,0 +1,22 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Wiesner of Huntsville",
+            "Subtitle": "Huntsville, TX",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGChryslerDodgeJeepRam.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "230 Interstate 45, Huntsville, TX 77320",
+            "PhoneNo": "855-325-1939",
+			"PhoneNoService": "800-859-1245",
+			"Website":"http://www.wiesnerhuntsville.com/",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL289"
+        }
+    ]
+}

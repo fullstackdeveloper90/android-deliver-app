@@ -1,0 +1,73 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+              "Title": "Todd Wenzel Chevrolet",
+              "Subtitle": "Hudsonville, MI",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGChevrolet.png",
+              "LogoURL": "logoHD.png",
+              "StreetAddress": "3156 Highland Blvd, Hudsonville, MI 49426",
+              "PhoneNo": "888-752-4065",
+              "PhoneNoService": "888-752-4065",
+              "Website": "http://www.toddwenzel.com/",
+              "Email": "support@ethosrewardsmsg.com",
+              "DFLID": "ETH252"
+        },
+		 {
+              "Title": "Todd Wenzel Buick GMC",
+              "Subtitle": "Grand Rapids, MI",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGBuickGMC.png",
+              "LogoURL": "logoHD.png",
+              "StreetAddress": "2727 28th St SE, Grand Rapids, MI 49512",
+              "PhoneNo": "888-752-4065",
+              "PhoneNoService": "888-752-4065",
+              "Website": "http://www.toddwenzel.com/",
+              "Email": "support@ethosrewardsmsg.com",
+              "DFLID": "ETH252"
+        },
+		 {
+              "Title": "Todd Wenzel Buick GMC Davison",
+              "Subtitle": "Davison, MI",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGBuickGMC.png",
+              "LogoURL": "logoHD.png",
+              "StreetAddress": "1146 S State Rd, Davison, MI 48423",
+              "PhoneNo": "888-752-4065",
+              "PhoneNoService": "888-752-4065",
+              "Website": "http://www.toddwenzel.com/",
+              "Email": "support@ethosrewardsmsg.com",
+              "DFLID": "ETH254"
+        },
+		 {
+              "Title": "Todd Wenzel Superstore",
+              "Subtitle": "Hudsonville, MI",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGBuickGMC.png",
+              "LogoURL": "logoHD.png",
+              "StreetAddress": "4130 32nd Ave, Hudsonville, MI 49426",
+              "PhoneNo": "888-752-4065",
+              "PhoneNoService": "888-752-4065",
+              "Website": "http://www.toddwenzel.com/",
+              "Email": "support@ethosrewardsmsg.com",
+              "DFLID": "ETH253"
+        }
+    ]
+}

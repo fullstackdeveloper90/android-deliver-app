@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Joe Machens Hyundai", 
+	"Subtitle": "Columbia, MO",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoXHD.png",
+  "StreetAddress": "1300 Vandiver Dr,Columbia, MO 65202",
+  "lat": "38.9703579",
+  "lon": "-92.3204085",
+  "PhoneNo": "855-439-1408",
+	"PhoneNoService": "855-439-1411",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH276"
+}
+  ]
+}

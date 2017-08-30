@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Route 23 Kia", 
+	"Subtitle": "Riverdale, NJ",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGKiaWhite3.png",
+	"LogoURL": "logoXHD.png",
+	"StreetAddress": "1 Windbeam Road,Riverdale, NJ 07457",
+	"lat": "40.98440189999",
+	"lon": "-74.3038016",
+	"PhoneNo": "855-303-3878",
+	"PhoneNoService": "855-303-3878",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL362"
+}
+  ]
+}

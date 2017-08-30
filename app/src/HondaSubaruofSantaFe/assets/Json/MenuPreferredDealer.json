@@ -1,0 +1,43 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Honda of Santa Fe",
+            "Subtitle": "Santa Fe, NM",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGHonda.png",
+            "LogoURL": "logoHD-Honda.png",
+            "StreetAddress": " 7511 Cerrillos Rd,Santa Fe, NM 87507",
+			"lat": "35.621911",
+			"lon": "-106.029531",
+			"PhoneNo": "888-805-8238",
+			"PhoneNoService": "855-728-8789",
+			"Website":"http://www.HondaOfSantaFe.com/",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH224-Honda"
+        },
+		 {
+            "Title": "Subaru of Santa Fe",
+            "Subtitle": "Santa Fe, NM",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGSubaru.png",
+            "LogoURL": "logoHD-Subaru.png",
+            "StreetAddress": " 7511 Cerrillos Rd,Santa Fe, NM 87507",
+			"lat": "35.621911",
+			"lon": "-106.029531",
+			"PhoneNo": "888-786-0406",
+			"PhoneNoService": "866-711-9231",
+			"Website":"http://www.SubaruOfSantaFe.com/",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH224-Subaru"
+        }
+    ]
+}

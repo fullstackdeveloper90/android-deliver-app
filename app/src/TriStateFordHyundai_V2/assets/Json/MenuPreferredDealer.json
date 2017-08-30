@@ -1,0 +1,37 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Tri-State Ford",
+            "Subtitle": "Amarillo, TX",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGFord.png",
+            "LogoURL": "logo-FordHD.png",
+            "StreetAddress": "1900 East I-40\nAmarillo, TX 79103",
+            "PhoneNo": "800-678-9170",
+			"Website":"http://tri-stateford.com/Default.aspx",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH185"
+        },
+        {
+            "Title": "Amarillo Hyundai",
+            "Subtitle": "Amarillo, TX",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGHyundai.png",
+            "LogoURL": "Logo-HyundaiHD.png",
+            "StreetAddress": "1900 East I-40\nAmarillo, TX 79103",
+            "PhoneNo": "877-812-2293",
+			"Website":"http://www.amarillohyundai.com",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH185"
+        }
+    ]
+}

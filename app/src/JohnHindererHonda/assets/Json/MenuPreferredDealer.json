@@ -1,0 +1,22 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "John Hinderer Honda",
+            "Subtitle": "Heath, OH",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGHonda.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "1515 Hebron Road, Heath, OH, 43056",
+            "PhoneNo": "800-224-6632",
+			"PhoneNoService": "866-552-1037",
+			"Website":"http://www.hindererhonda.com/",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL259"
+        }
+    ]
+}

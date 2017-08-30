@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <include layout="@layout/help_web_view_titlebar"/>
+     <ImageView 
+        android:id="@+id/logo"
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:src="@drawable/logo_hd"     
+        android:layout_gravity="center_horizontal"
+         android:scaleType="fitXY"
+        android:layout_marginTop="0dp"
+         android:paddingBottom="0dp"/>
+
+    <ImageView
+        android:id="@+id/newlogo"
+        android:layout_width="match_parent"
+        android:layout_height="135dp"
+        android:src="@drawable/logo_hd"
+        android:paddingBottom="0dp"
+        android:scaleType="fitXY"
+        android:visibility="gone"
+        android:paddingTop="0dp"/>
+ 
+     <ListView
+        android:id="@+id/dealershipinfo_listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/customshape"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:cacheColorHint="@android:color/transparent"/>
+
+    <ListView
+        android:id="@+id/newdealershipinfo_listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:cacheColorHint="@android:color/transparent"
+        android:visibility="gone"/>
+     
+</LinearLayout>

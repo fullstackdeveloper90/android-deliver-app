@@ -1,0 +1,66 @@
+{
+    "Items": [
+                {
+                    "Title": "MPG Calculator",
+                    "Subtitle": "Calculate and Track Your MPG",
+                    "Tag": 41,
+                    "ShowIconType": "btn-Gas.png"
+                },
+                {
+                    "Title": "Where Did I Park?",
+                    "Subtitle": "Mark Your Car's Location",
+                    "Tag": 42,
+                    "ShowIconType": "btn-Compass.png"
+              },
+              {
+                  "Title": "Gas Prices",
+                  "Subtitle": "Find the Lowest Gas Prices in your Area",
+                  "Tag": 53,
+                  "Type": "station",
+                  "ShowIconType": "btn-DollarSign.png",
+                  "Url": "http://api.mygasfeed.com/stations/radius/LATITUDE/LONGITUDE/3/reg/Price/izwkoxm7am.json&d=DEVICEID&dn=DEVICENAME"
+              },
+                {
+             "Title": "Social Media",
+              "Subtitle": "Links to Social Media Pages",
+              "Tag": 43,
+              "Type": "feed",
+              "Display": "Social Media",
+              "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNewsSimple.aspx?a=SERVERID&f=1360&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME",
+              "ShowIconType": "btn-SocialNetworks.png"
+              },
+                {
+                    "Title": "New Inventory",
+                    "Subtitle": "Dralle New Inventory",
+                    "Tag": 50,
+                    "Type": "newweb",
+                    "Display":"New Inventory",
+                    "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1361&a=SERVERID&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME",
+                    "ShowIconType": "btn-Car.png"
+              },
+              {
+              "Title": "Used Inventory",
+              "Subtitle": "Dralle Used Inventory",
+              "Tag": 53,
+              "Type": "newweb",
+              "Display":"Used Inventory",
+              "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1362&a=SERVERID&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME",
+              "ShowIconType": "btn-Car.png"
+              },
+                {
+                    "Title": "Help",
+                    "Subtitle": "How to use this App",
+                    "Tag": 48,
+                    "Type": "help",
+                    "Display":"Help",
+                    "Url": "http://www.iteamhq.com/mobile-app-support",
+                    "ShowIconType": "btn-QuestionMark.png"
+                },
+                {
+                    "Title": "QR Scanner",
+                    "Subtitle": "Scan a QR Code",
+                    "Tag": 51,
+                    "ShowIconType": "btn-scanbarcode.png"
+                }
+            ]
+}

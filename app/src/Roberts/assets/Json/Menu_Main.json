@@ -1,0 +1,55 @@
+{
+    "Items": [
+                {
+                    "Title": "My Car",
+                    "Subtitle": "Vehicle Information and History",
+                    "Tag": 13,
+                    "ShowIconType": "btn-Car.png"
+                },
+                {
+                    "Title": "Specials & Events",
+                    "Subtitle": "Exclusive Deals for Mobile Users",
+                    "Tag": 11,
+                    "Type": "help",
+					"isBrowser": true,
+                    "Display":"Specials & Events",
+					"Url": "http://mobileappscm.com/Custom/MobileAppsCM/ctl/feedNews.aspx?f=1249&a=31",
+                    "ShowIconType": "btn-News.png"
+                },
+                {
+                    "Title": "Loyalty Program",
+                    "Subtitle": "View Service History and Rewards",
+                    "Tag": 45,
+                    "Type": "vehinfo",
+                    "Display":"Account Information",
+                    "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedPoints.aspx?t=json&a=SERVERID&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAMEw",
+                    "ShowIconType": "btn-Gears.png"
+                },
+                {
+                    "Title": "Service Department",
+                    "Subtitle": "Certified Service",
+                    "Tag": 12,
+                    "Type": "menu",
+                    "Display":"Service Department",
+                    "Url":"Menu_ServiceDepartment",
+                    "ShowIconType": "btn-Wrench.png"
+                },
+                {
+                    "Title": "Dealership Information",
+                    "Subtitle": "Get Contact and Dealership Info",
+                    "Tag": 15,
+                    "Display":"Get Contact and Dealership Info",
+                    "Url": "Menu_ContactUs",
+                    "ShowIconType": "btn-Info.png"
+              }, 
+              {
+                    "Title": "More Options",
+                    "Subtitle": "Tools, Settings, and More",
+                    "Tag": 16,
+                    "Type": "menu",
+                    "Display": "More",
+                    "Url":"Menu_More",
+                    "ShowIconType": "btn-More.png"
+              }
+            ]
+}

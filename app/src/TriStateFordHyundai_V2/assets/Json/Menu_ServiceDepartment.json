@@ -1,0 +1,55 @@
+{
+    "Items": [
+        {
+            "Title": "Tri-State Ford Service",
+            "Subtitle": "",
+            "Tag": 23,
+            "Type": "help",
+            "Display": "Service Department",
+            "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1281&a=37",
+            "ShowIconType": "btn-Wrench.png"
+        },
+        {
+            "Title": "Ford Service Specials",
+            "Subtitle": "Exclusive Deals Mobile Users",
+            "Tag": 11,
+            "Type": "help",
+            "Display": "Specials & Events",
+            "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1282&a=37",
+            "ShowIconType": "btn-News.png"
+        },
+        {
+            "Title": "Amarillo Hyundai Service",
+            "Subtitle": "",
+            "Tag": 23,
+            "Type": "help",
+            "Display": "Service Department",
+            "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1283&a=37",
+            "ShowIconType": "btn-Wrench.png"
+        },
+        {
+            "Title": "Hyundai Service Specials",
+            "Subtitle": "Exclusive Deals Mobile Users",
+            "Tag": 11,
+            "Type": "help",
+            "Display": "Specials & Events",
+            "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1284&a=37 ",
+            "ShowIconType": "btn-News.png"
+        },
+        {
+            "Title": "Schedule Service",
+            "Subtitle": "Schedule an Appointment Online",
+            "Tag": 11,
+            "Type": "help",
+            "Display": "Schedule Service",
+            "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1285&a=37",
+            "ShowIconType": "btn-Calendar.png"
+        },
+        {
+            "Title": "My Car",
+            "Subtitle": "Vehicle Information and History",
+            "Tag": 13,
+            "ShowIconType": "btn-Car.png"
+        }
+    ]
+}

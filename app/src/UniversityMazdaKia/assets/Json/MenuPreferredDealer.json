@@ -1,0 +1,22 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "University Mazda Kia",
+            "Subtitle": "",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGMazdaKia.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "3000 S Jack Kultgen Expy, Waco, TX 76706",
+            "PhoneNo": "855-901-8610",
+			"PhoneNoService": "254-668-3610",
+			"Website":"http://www.universitymazdakia.com",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH239"
+        }
+    ]
+}

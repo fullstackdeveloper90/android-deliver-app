@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Honda of Jefferson City", 
+	"Subtitle": "Jefferson City, MO",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoHD.png",
+  "StreetAddress": "3215 Missouri Blvd,Jefferson City, MO 65109",
+  "lat": "38.5804528",
+  "lon": "-92.2382968",
+  "PhoneNo": "888-238-7411",
+	"PhoneNoService": "855-773-4253",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH240"
+}
+  ]
+}

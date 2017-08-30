@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "128 Volvo", 
+	"Subtitle": "Wakefield, MA",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "iphoneIcon114.png",
+	"LogoURL": "logoXHD.png",
+	"StreetAddress": "614 North Avenue,Wakefield, MA 01880",
+	"lat": "42.5147521",
+	"lon": "-71.0879987",
+	"PhoneNo": "781-224-3700",
+	"PhoneNoService": "781-224-3700",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL103"
+}
+  ]
+}

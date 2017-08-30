@@ -1,0 +1,62 @@
+{
+	"Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+	"Items": [
+	{
+		"Title": "McGrath Acura of Downtown",
+		"Subtitle": "Chicago, IL",
+		"Tag": 10,
+		"Type": "menu",
+		"Display": "",
+		"Url": "Menu_Main",
+		"fbid": "",
+		"ShowIconType": "btn-MFGAcuraWhite.png",
+		"LogoURL": "logoHD-McGrathAcuraDowntown.png",
+		"StreetAddress": "1301 North Elston Ave, Chicago, IL 60642",
+		"lat": "41.9050055",
+		"lon": "-87.65894449",
+		"PhoneNo": "888-471-3087",
+		"PhoneNoService": "888-248-7691",
+		"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+		"Email": "support@ethosrewardsmsg.com",
+		"DFLID": "ETH262"
+	},
+	{
+		"Title": "McGrath City Honda",
+		"Subtitle": "Chicago, IL",
+		"Tag": 10,
+		"Type": "menu",
+		"Display": "",
+		"Url": "Menu_Main",
+		"fbid": "",
+		"ShowIconType": "btn-MFGHondaWhite3.png",
+		"LogoURL": "logoHD-McGrathCityHonda.png",
+		"StreetAddress": "6720 W Grand Ave, Chicago, IL 60707",
+		"lat": "41.9239235",
+		"lon": "-87.7934109",
+		"PhoneNo": "866-986-1414",
+		"PhoneNoService": "888-690-3322",
+		"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+		"Email": "support@ethosrewardsmsg.com",
+		"DFLID": "ETH260"
+	},
+	{
+		"Title": "McGrath City Hyundai",
+		"Subtitle": "Chicago, IL",
+		"Tag": 10,
+		"Type": "menu",
+		"Display": "",
+		"Url": "Menu_Main",
+		"fbid": "",
+		"ShowIconType": "btn-MFGHyundaiWhite3.png",
+		"LogoURL": "logoHD-McGrathCityHyundai.png",
+		"StreetAddress": "6750 W Grand Ave, Chicago, IL 60707",
+		"lat": "41.9238204",
+		"lon": "-87.7945859",
+		"PhoneNo": "800-844-8646",
+		"PhoneNoService": "800-868-4056",
+		"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+		"Email": "support@ethosrewardsmsg.com",
+		"DFLID": "ETH261"
+	}
+	]
+}

@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Discovery Chevrolet Buick GMC", 
+	"Subtitle": "Boone, NC",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoXHD.png",
+  "StreetAddress": "2705 Highway 421 S,Boone, NC 28607",
+  "lat": "36.2243732",
+  "lon": "-81.63312759999999",
+  "PhoneNo": "866-418-9979",
+	"PhoneNoService": "866-470-1016",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH284"
+}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+		"Title": "Faulkner Chevrolet", 
+		"Subtitle": "Lancaster, PA",       
+		"Tag": 10,
+		"Type": "menu",
+		"Display": "",
+		"Url": "Menu_Main",
+		"fbid": "",
+		"ShowIconType": "NAforSINGLEDEALERSHIPS",
+		"LogoURL": "logoHD.png",
+		"StreetAddress": "2000 Bennet Ave,Lancaster, PA 17601",
+		"lat":"40.0602605",
+		"lon":"-76.35685",
+		"PhoneNo": "717-715-0467",
+		"PhoneNoService": "717-715-0467",
+		"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+		"Email": "support@ethosrewardsmsg.com",
+		"DFLID": "ETH173"
+	}
+  ]
+}

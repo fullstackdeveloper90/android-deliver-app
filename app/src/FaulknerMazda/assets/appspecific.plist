@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APPID</key>
+	<string>55</string>
+	<key>LITE_VERSION</key>
+	<string>0</string>
+	<key>UI_TITLE</key>
+	<string>Faulkner Mazda Harrisburg</string>
+	<key>DEALERSHIP_GROUP_VERSION</key>
+	<string>FALSE</string>
+	<key>BASE_URL</key>
+	<string>mobileappscm.com</string>
+	<key>SERVER_URL</key>
+	<string>http://www.mobileappscm.com</string>
+	<key>LOG_SERVER_URL</key>
+	<string>http://www.mobileappscm.com</string>
+	<key>FTP_SERVER_URL</key>
+	<string>ftp.mobileappscm.com</string>
+	<key>FOOTER_TEXT</key>
+	<string>Sent from the Faulkner Mazda Harrisburg Mobile App</string>
+	<key>HELP_SERVER_URL</key>
+	<string>http://www.mobileappscm.com/custom/mobileappscm/ctl/feedTour.aspx?t=json&amp;a=SERVERID</string>
+	<key>FLURRY_KEY</key>
+	<string>K9XWTFGJC3Z8SC264FM4</string>
+	<key>FLURRY_KEY_ANDROID</key>
+	<string>GQC6G5K628KCDY7Y2H44</string>
+	<key>ROW_1_BG_COLOR</key>
+	<string>#7F7F7F</string>
+	<key>ROW_1_FG_COLOR</key>
+	<string>#FFFFFF</string>
+	<key>ROW_2_BG_COLOR</key>
+	<string>#000000</string>
+	<key>ROW_2_FG_COLOR</key>
+	<string>#FFFFFF</string>
+	<key>MENU_TYPE</key>
+	<string>2</string>
+</dict>
+</plist>

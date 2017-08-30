@@ -1,0 +1,22 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Nissan of Greenville",
+            "Subtitle": "Greenville, TX",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "NAforSINGLEDEALERSHIPS",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "6403 I-30, Greenville, TX 75402",
+            "PhoneNo": "903-454-1930",
+			"PhoneNoService": "855-929-0844",
+			"Website":"http://www.nissanofgreenville.com/",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH237"
+        }
+    ]
+}

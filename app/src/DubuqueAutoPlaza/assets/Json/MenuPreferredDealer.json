@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Dubuque Auto Plaza", 
+	"Subtitle": "Dubuque, IA",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoXHD.png",
+  "StreetAddress": "600 Century Drive,Dubuque, IA 52002",
+  "lat": "42.4926142",
+  "lon": "-90.7257042",
+  "PhoneNo": "877-864-8748",
+	"PhoneNoService": "563-583-7345",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH226"
+}
+  ]
+}

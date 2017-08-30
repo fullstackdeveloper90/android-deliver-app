@@ -1,0 +1,60 @@
+{
+	"Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+	"Items": [
+		{
+			"Title": "John Hiester Chevrolet", 
+			"Subtitle": "Fuquay-Varina, NC",       
+			"Tag": 10,
+			"Type": "menu",
+			"Display": "",
+			"Url": "Menu_Main",
+			"fbid": "",
+			"ShowIconType": "btn-MFGChevrolet.png",
+			"LogoURL": "logo-JHChevyFV.png",
+			"StreetAddress": "3100 North Main St,Fuquay-Varina, NC 27526",
+			"lat": "",
+			"lon": "",
+			"PhoneNo": "919-552-4944",
+			"PhoneNoService": "888-825-6806",
+			"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+			"Email": "support@rewardsmessage.com",
+			"DFLID": "DFL27"
+		},{
+			"Title": "John Hiester Chevrolet of Lillington", 
+			"Subtitle": "Lillington, NC",       
+			"Tag": 10,
+			"Type": "menu",
+			"Display": "",
+			"Url": "Menu_Main",
+			"fbid": "",
+			"ShowIconType": "btn-MFGChevrolet.png",
+			"LogoURL": "logo-JHChevyLillington.png",
+			"StreetAddress": "105 W Cornelius Harnett Blvd,Lillington, NC 27546",
+			"lat": "35.4178986",
+			"lon": "-78.805859",
+			"PhoneNo": "910-893-4861",
+			"PhoneNoService": "910-808-4438",
+			"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+			"Email": "support@rewardsmessage.com",
+			"DFLID": "DFL200"
+		},{
+			"Title": "John Hiester Chrysler Jeep Dodge", 
+			"Subtitle": "Lillington, NC",       
+			"Tag": 10,
+			"Type": "menu",
+			"Display": "",
+			"Url": "Menu_Main",
+			"fbid": "",
+			"ShowIconType": "btn-MFGChryslerJeepDodge.png",
+			"LogoURL": "logo-JHCJD.png",
+			"StreetAddress": "940 North Main St,Lillington, NC 27546",
+			"lat": "35.4119553",
+			"lon": "-78.80817979",
+			"PhoneNo": "910-893-8088",
+			"PhoneNoService": "877-364-4398",
+			"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+			"Email": "support@rewardsmessage.com",
+			"DFLID": "DFL133"
+		}
+	]
+}

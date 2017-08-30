@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "McGrath Nissan", 
+	"Subtitle": "Elgin, IL",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGNissanWhite3.png",
+	"LogoURL": "logoXHD.png",
+	"StreetAddress": "945 East Chicago Street,Elgin, IL 60120",
+	"lat": "42.033584",
+	"lon": "-88.2553784",
+	"PhoneNo": "847-695-6700",
+	"PhoneNoService": "847-695-6700",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH289"
+}
+  ]
+}

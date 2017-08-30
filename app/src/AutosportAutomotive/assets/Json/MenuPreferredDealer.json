@@ -1,0 +1,60 @@
+{
+	"Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+	"Items": [
+		{
+			"Title": "Autosport Honda", 
+			"Subtitle": "Bridgewater, NJ",       
+			"Tag": 10,
+			"Type": "menu",
+			"Display": "",
+			"Url": "Menu_Main",
+			"fbid": "",
+			"ShowIconType": "btn-MFGHonda.png",
+			"LogoURL": "Logo_AutosportHondaHD.png",
+			"StreetAddress": "1201 US Highway 22,Bridgewater, NJ 08807",
+			"lat": "40.579929",
+			"lon": "-74.590675",
+			"PhoneNo": "908-722-5566",
+			"PhoneNoService": "908-722-5578",
+			"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+			"Email": "support@ethosrewardsmsg.com",
+			"DFLID": "ETH208"
+		},{
+			"Title": "Acura of Denville", 
+			"Subtitle": "Denville, NJ",       
+			"Tag": 10,
+			"Type": "menu",
+			"Display": "",
+			"Url": "Menu_Main",
+			"fbid": "",
+			"ShowIconType": "btn-MFGAcura.png",
+			"LogoURL": "Logo_AutosportAcuraHD.png",
+			"StreetAddress": "3109 Route 10 East,Denville, NJ 07834",
+			"lat": "40.868618",
+			"lon": "-74.514606",
+			"PhoneNo": "973-361-2626",
+			"PhoneNoService": "973-361-3539",
+			"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+			"Email": "support@ethosrewardsmsg.com",
+			"DFLID": "ETH209"
+		},{
+			"Title": "Autosport Chevrolet", 
+			"Subtitle": "Hackettstown, NJ",       
+			"Tag": 10,
+			"Type": "menu",
+			"Display": "",
+			"Url": "Menu_Main",
+			"fbid": "",
+			"ShowIconType": "btn-MFGChevroletWhite3.png",
+			"LogoURL": "Logo_AutosportChevroletHD.png",
+			"StreetAddress": "412 Route 46 West,Hackettstown, NJ 07828",
+			"lat": "40.856571",
+			"lon": "-74.7739603",
+			"PhoneNo": "908-452-6100",
+			"PhoneNoService": "908-452-6100",
+			"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+			"Email": "support@ethosrewardsmsg.com",
+			"DFLID": "ETH265"
+		}
+	]
+}

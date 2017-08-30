@@ -1,0 +1,64 @@
+{ "CenterItems" : [
+                   {
+                   "Title": "Specials & Events",
+                   "Subtitle": "Exclusive Deals for Mobile Users",
+                   "Tag": 11,
+                   "Type": "help",
+                   "Display": "Specials & Events",
+                   "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=specials&a=SERVERID",
+                   "ShowIconType": "banner-sig-1.png"
+                   }
+                   ],
+    "Items": [
+              {
+              "Title": "Contact Us",
+              "Subtitle": "Call or Email",
+              "Tag": 2,
+              "Type": "help",
+              "Display":"Contact Us",
+              "Url": "http://www.mobileappsprn.com/custom/mobileappsprn/ctl/feedNews.aspx?t=json&a=2&f=82",
+              "ShowIconType": "Tile-Sig-ContactUs.png"
+              },
+                {
+                    "Title": "Locations",
+                    "Subtitle": "Columbia and Eldersburg Info",
+                    "Tag": 20,
+                    "Type": "menu",
+                    "Display":"Our Locations",
+                    "Url": "Menu_SubLocation",
+                    "ShowIconType": "Tile-Sig-Location.png"
+                },
+                {
+                    "Title": "Keeping Track",
+                    "Subtitle": "Tools and Calculators",
+                    "Tag": 15,
+                    "Type": "menu",
+               "Display":"Keeping Track",
+                    "Url": "Menu_SubKeepingTrack",
+                    "ShowIconType": "Tile-Sig-KeepingTrack.png"
+                }
+             
+              ],
+    "BottomItems" : [
+                     {
+                     "Title": "IMPORTANT ANNOUNCEMENT",
+                     "Subtitle": "",
+                     "Tag": 11,
+                     "Type": "help",
+                     "Display": "IMPORTANT ANNOUNCEMENT",
+                     "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=specials&a=SERVERID",
+                     "ShowIconType": "banner-sig-1.png",
+                     "SliderDuration": 6
+                     },
+                      {
+                      "Title": "HOLIDAY SCHEDULE",
+                      "Subtitle": "",
+                      "Tag": 11,
+                      "Type": "help",
+                      "Display": "HOLIDAY SCHEDULE",
+                      "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=specials&a=SERVERID",
+                      "ShowIconType": "banner-sig-1.png",
+                      "SliderDuration": 6
+                      }
+                     ]
+}

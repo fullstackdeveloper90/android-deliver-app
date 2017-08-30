@@ -1,0 +1,24 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Faulkner Mazda",
+            "Subtitle": "Trevose, PA",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGMazda.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "4437 Street Road, Trevose, PA 19053",
+			"lat":"40.1345595",
+			"lon":"-74.9778024",
+            "PhoneNo": "215-673-4444",
+			"PhoneNoService": "877-364-2533",
+			"Website":"http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH218"
+        }
+    ]
+}

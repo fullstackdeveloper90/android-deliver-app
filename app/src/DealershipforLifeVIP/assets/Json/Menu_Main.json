@@ -1,0 +1,60 @@
+{
+    "Items": [
+             
+            
+              {
+              "Title": "Program Information",
+              "Subtitle": "Details on our Rewards Program",
+              "Tag": 45,
+              "Type": "vehinfo",
+              "Display":"Program Information",
+              "Url": "http://www.mobileappscm.com/Custom/MobileAppsCM/ctl/feedNews.aspx?t=json&a=SERVERID&f=1666",
+              "ShowIconType": "btn-Rewards.png"
+              },
+              {
+              "Title": "Service Department",
+              "Subtitle": "Certified Service",
+              "Tag": 12,
+              "Type": "menu",
+              "Display":"Service Department",
+              "Url":"Menu_ServiceDepartment",
+              "ShowIconType": "btn-Wrench.png"
+              },
+              {
+              "Title": "New Inventory",
+              "Subtitle": "New Inventory",
+              "Tag": 50,
+              "Type": "help",
+              "Display":"New Inventory",
+              "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1379&a=SERVERID&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME",
+              "ShowIconType": "btn-Car.png"
+              },
+              {
+              "Title": "Pre-Owned Inventory",
+              "Subtitle": "Pre-Owned Inventory",
+              "Tag": 53,
+              "Type": "help",
+              "Display":"Pre-Owned Inventory",
+              "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1380&a=SERVERID&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME",
+              "ShowIconType": "btn-Car.png"
+              },
+              {
+              "Title": "Contact Us / Directions",
+              "Subtitle": "Via Email or Phone...",
+              "Tag": 15,
+              "Type": "menu",
+              "Display": "Contact Us",
+              "Url": "Menu_Contact",
+              "ShowIconType": "btn-Cellphone.png"
+              },
+              {
+              "Title": "More Options",
+              "Subtitle": "Tools, Settings, and More",
+              "Tag": 16,
+              "Type": "menu",
+              "Display": "More",
+              "Url":"Menu_More",
+              "ShowIconType": "btn-More.png"
+              }
+              ]
+}

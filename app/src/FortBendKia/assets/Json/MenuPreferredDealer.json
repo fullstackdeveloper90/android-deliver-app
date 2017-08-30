@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Fort Bend Kia", 
+	"Subtitle": "Rosenberg, TX",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoHD.png",
+  "StreetAddress": "26633 SW Freeway,Rosenberg, TX 77471",
+  "lat": "29.5319072",
+  "lon": "-95.78699859",
+  "PhoneNo": "888-769-2233",
+	"PhoneNoService": "888-769-2233",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "DFL341"
+}
+  ]
+}

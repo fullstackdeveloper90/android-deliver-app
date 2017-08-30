@@ -1,0 +1,20 @@
+           {
+            "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+            "Items": [{
+              "Title": "Port Orchard Ford",
+              "Subtitle": "Port Orchard,WA",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGFord.png",
+              "LogoURL": "logoHD.png",
+              "StreetAddress": "1507 W. Ogden Ave., Naperville, IL 60540",
+              "PhoneNo": "3608764486",
+              "PhoneNoService": "3608764486",
+              "Website": "http://www.brucetitusford.com/",
+              "Email": "support@ethosrewardsmsg.com",
+              "DFLID": "ETH257"
+            }]
+           }

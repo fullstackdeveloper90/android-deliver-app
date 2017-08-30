@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Stalker Chevrolet", 
+	"Subtitle": "Creston, IA",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGChevroletWhite3.png",
+	"LogoURL": "logoXHD.png",
+	"StreetAddress": "601 S. Sumner Avenue,Creston, IA 50801",
+	"lat": "41.0503164",
+	"lon": "-94.371097600000",
+	"PhoneNo": "641-782-2181",
+	"PhoneNoService": "641-782-2181",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL164"
+}
+  ]
+}

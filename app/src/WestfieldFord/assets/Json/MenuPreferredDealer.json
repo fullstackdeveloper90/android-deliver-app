@@ -1,0 +1,22 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Westfield Ford",
+            "Subtitle": "Countryside, IL",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "NAforSINGLEDEALERSHIPS",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "6200 South LA Grange Rd, Countryside, IL 60525",
+            "PhoneNo": "708-354-8600",
+			"PhoneNoService": "708-354-8600",
+			"Website":"http://westfieldford.com/",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "DFL290"
+        }
+    ]
+}

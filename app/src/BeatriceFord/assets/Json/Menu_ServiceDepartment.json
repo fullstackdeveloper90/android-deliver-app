@@ -1,0 +1,28 @@
+{
+    "Items": [
+                {
+                    "Title": "Request Appointment",
+                    "Subtitle": "Link to our online appointment form",
+                    "Tag": 23,
+                    "Type": "help",
+                    "Display":"Appointment Request",
+                    "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1347&a=SERVERID&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME",
+                    "ShowIconType": "btn-Calendar.png"
+              },
+              {
+                  "Title": "Service Specials",
+                  "Subtitle": "Exclusive Deals for Mobile Users",
+                  "Tag": 15,
+                  "Type": "help",
+                  "Display":"Service Specials",
+                  "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1346&a=SERVERID&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME",
+                  "ShowIconType": "btn-Wrench.png"
+              },
+                {
+                    "Title": "My Car",
+                    "Subtitle": "Vehicle Information and History",
+                    "Tag": 13,
+                    "ShowIconType": "btn-Car.png"
+                }
+            ]
+}

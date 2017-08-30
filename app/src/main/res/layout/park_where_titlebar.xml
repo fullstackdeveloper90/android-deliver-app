@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+    
+ <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/rlayoutServiceHistory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp">        
+          
+         <Button 
+            android:id="@+id/park_set"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:text="Set"
+            android:textStyle="bold"
+            android:textSize="12sp"
+            android:layout_centerVertical="true"/>
+
+        
+         <TextView
+            android:id="@+id/textViewDrillDownRootTitle"  
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"       
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </RelativeLayout>

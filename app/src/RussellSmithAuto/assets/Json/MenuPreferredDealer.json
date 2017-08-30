@@ -1,0 +1,62 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+              {
+              "Title": "Russell and Smith Ford",
+              "Subtitle": "Houston, TX",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGFord.png",
+              "LogoURL": "logoXHD-ford.png",
+              "StreetAddress": "3440 South Loop West Freeway,Houston, TX 77025",
+              "lat": "29.679324",
+              "lon": "-95.43023699",
+              "PhoneNo": "888-463-9026",
+              "PhoneNoService": "855-273-6382",
+              "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+              "Email": "support@ethosrewardsmsg.com",
+              "DFLID": "ETH270"
+              },
+              {
+              "Title": "Russell and Smith Honda",
+              "Subtitle": "Houston, TX",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGHondaWhite4.png",
+              "LogoURL": "logoXHD-honda.png",
+              "StreetAddress": "2900 South Loop West Freeway,Houston, TX 77054",
+              "lat": "29.6786516",
+              "lon": "-95.4230397",
+              "PhoneNo": "888-695-4521",
+              "PhoneNoService": "855-663-4527",
+              "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+              "Email": "support@ethosrewardsmsg.com",
+              "DFLID": "ETH271"
+              },
+              {
+              "Title": "Russell and Smith Mazda",
+              "Subtitle": "Houston, TX",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGMazdaWhite.png",
+              "LogoURL": "logoXHD-mazda.png",
+              "StreetAddress": "3440 South Loop West,Houston, TX 77025",
+              "lat": "29.678919",
+              "lon": "-95.430841",
+              "PhoneNo": "888-463-8917",
+              "PhoneNoService": "855-421-2967",
+              "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+              "Email": "support@ethosrewardsmsg.com",
+              "DFLID": "ETH272"
+              }
+              ]
+}

@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Riverdale Dodge Chrysler Jeep Ram", 
+	"Subtitle": "Bronx, NY",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoHD.png",
+  "StreetAddress": "5869 Broadway,Bronx, NY 10463",
+  "lat": "40.8864739",
+  "lon": "-73.9004496",
+  "PhoneNo": "877-283-6641",
+	"PhoneNoService": "888-892-5833",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL273"
+}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Parks Chevrolet", 
+	"Subtitle": "Augusta, KS",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGChevrolet.png",
+	"LogoURL": "logoXHD-chevrolet.png",
+  "StreetAddress": "11865 SW US Hwy 54,Augusta, KS 67010",
+  "lat": "37.67871239",
+  "lon": "-97.05795639",
+  "PhoneNo": "316-775-5445",
+	"PhoneNoService": "316-350-1440",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH170"
+},{
+	"Title": "Parks Motors of Augusta", 
+	"Subtitle": "Augusta, KS",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGChryslerDodgeJeepRam.png",
+	"LogoURL": "logoXHD-cdjr.png",
+  "StreetAddress": "11987 SW US Hwy 54,Augusta, KS 67010",
+  "lat": "37.67883020",
+  "lon": "-97.0602385",
+  "PhoneNo": "888-735-0682",
+	"PhoneNoService": "888-607-4712",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH171"
+}
+  ]
+}

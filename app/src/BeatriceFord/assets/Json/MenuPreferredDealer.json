@@ -1,0 +1,21 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+          {
+              "Title": "Apple Ford",
+              "Subtitle": "Columbia, MD",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+			  "fbid": "",
+              "ShowIconType": "btn-MFGFord.png",
+              "LogoURL": "logo-HD.png",
+			  "StreetAddress": "8800 Stanford Blvd, Columbia, MD 21045",
+			"Website":"http://www.appleford.com",
+              "PhoneNo": "410-290-1100",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL44"
+          }
+    ]
+}

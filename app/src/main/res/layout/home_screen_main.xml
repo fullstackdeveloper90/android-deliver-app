@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/topLayout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:background="@color/black">
+        <TextView
+            android:id="@+id/addNewVehicle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Approved Service Providers"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="280dp"
+        android:layout_height="110dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        android:scaleType="fitXY"
+        android:layout_below="@+id/topLayout"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/logo_hd" />
+    <TextView 
+        android:id="@+id/settings_title"
+         android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         android:textColor="#000"
+        android:textSize="18sp"
+        android:layout_below="@id/logo"
+          android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:visibility="gone"
+        />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:textColor="#000"
+        android:textSize="18sp"
+          android:layout_centerHorizontal="true"
+        android:layout_below="@id/settings_title"
+        android:gravity="center"
+        android:text="@string/home_screen_choose_msg"
+        />
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="25dp"
+        android:layout_below="@id/textView1"
+        android:background="@drawable/customshape"
+        android:cacheColorHint="@android:color/transparent"
+         />
+    <TextView 
+        android:id="@+id/settings_version"
+         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:textColor="#000"
+         android:layout_gravity="bottom|right"
+         android:layout_alignParentBottom="true"
+         android:layout_alignParentRight="true"
+        android:visibility="gone"
+        android:padding="5dp"
+        />
+
+</RelativeLayout>

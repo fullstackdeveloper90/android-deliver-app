@@ -1,0 +1,39 @@
+{
+    "CenterItems" : [
+                     {
+                     "Title": "Service Department",
+                     "Subtitle": "Exclusive Deals for Mobile Users",
+                     "Tag": 11,
+                     "Type": "help",
+                     "Display": "Service Department",
+                     "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1439&a=SERVERID&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME",
+                     "ShowIconType": "service-dept-placeholder.png"
+                     }
+                     ],
+    "Items": [
+              {
+              "Title": "Service Department Website",
+              "Subtitle": "",
+              "Tag": 23,
+              "Type": "help",
+              "Display":"Service Department Website",
+              "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1439&a=SERVERID&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME",
+              "ShowIconType": "icon-Website.png"
+              },
+              {
+              "Title": "Schedule Service",
+              "Subtitle": "",
+              "Tag": 23,
+              "Type": "help",
+              "Display":"Service Department",
+              "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1440&a=SERVERID&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME",
+              "ShowIconType": "icon-Calendar-Schedule.png"
+              },
+              {
+              "Title": "My Car",
+              "Subtitle": "Vehicle Information and History",
+              "Tag": 13,
+              "ShowIconType": "icon-Car.png"
+              }
+              ]
+}

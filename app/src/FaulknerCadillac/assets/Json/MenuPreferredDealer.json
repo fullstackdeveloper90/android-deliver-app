@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+		"Title": "Faulkner Cadillac Mechanicsburg", 
+		"Subtitle": "Mechanicsburg, PA",       
+		"Tag": 10,
+		"Type": "menu",
+		"Display": "",
+		"Url": "Menu_Main",
+		"fbid": "",
+		"ShowIconType": "NAforSINGLEDEALERSHIPS",
+		"LogoURL": "logoHD.png",
+		"StreetAddress": "6726 Carlisle Pike,Mechanicsburg, PA 17050",
+		"lat": "40.239137",
+		"lon": "-77.057599",
+		"PhoneNo": "877-608-1968",
+		"PhoneNoService": "877-608-1968",
+		"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+		"Email": "support@ethosrewardsmsg.com",
+		"DFLID": "ETH201"
+	}
+  ]
+}

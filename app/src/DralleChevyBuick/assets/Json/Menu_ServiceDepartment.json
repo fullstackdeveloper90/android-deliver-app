@@ -1,0 +1,19 @@
+{
+    "Items": [
+                {
+                    "Title": "Service Department",
+                    "Subtitle": "Schedule a Service Appointment",
+                    "Tag": 23,
+                    "Type": "help",
+                    "Display":"Service Department",
+                    "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1365&a=SERVERID&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME",
+                    "ShowIconType": "btn-Gears.png"
+              },
+                {
+                    "Title": "My Car",
+                    "Subtitle": "Vehicle Information and History",
+                    "Tag": 13,
+                    "ShowIconType": "btn-Car.png"
+                }
+            ]
+}

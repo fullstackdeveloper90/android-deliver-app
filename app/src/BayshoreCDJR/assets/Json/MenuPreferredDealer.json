@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Bayshore Chrysler Dodge Jeep Ram", 
+	"Subtitle": "Baytown, TX",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoHD.png",
+  "StreetAddress": "5225 Interstate 10 East,Baytown, TX 77521",
+  "lat": "29.806402",
+  "lon": "-94.978289",
+  "PhoneNo": "877-675-7330",
+	"PhoneNoService": "866-939-6360",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL224"
+}
+  ]
+}

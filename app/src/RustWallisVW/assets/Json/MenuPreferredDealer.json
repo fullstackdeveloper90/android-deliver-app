@@ -1,0 +1,22 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Rusty Wallis Volkswagen",
+            "Subtitle": "Garland, TX",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "NAforSINGLEDEALERSHIPS",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "12635 Lyndon B Johnson Fwy, Garland, TX 75041",
+            "PhoneNo": "844-920-9865",
+			"PhoneNoService": "214-301-3998",
+			"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH251"
+        }
+    ]
+}

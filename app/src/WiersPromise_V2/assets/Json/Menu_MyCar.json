@@ -1,0 +1,60 @@
+{
+    "Items": [
+              {
+              "Title": "Vehicle Info",
+              "Subtitle": "Vehicle Information and History",
+              "Tag": 31,
+              "Type": "vehinfo",
+              "Display": "Vehicle Information",
+              "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedVehInfo.aspx?a=SERVERID",
+              "ShowIconType": "btn-Car.png"
+              },
+              {
+              "Title": "Service History",
+              "Subtitle": "Your Vehicle's Service History",
+              "Tag": 32,
+              "Type": "feed",
+              "Display": "Service History",
+              "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedService.aspx?t=json&a=SERVERID",
+              "ShowIconType": "btn-Wrench.png"
+              },
+              {
+              "Title": "Wiers Promise Rewards",
+              "Subtitle": "View Point Balance and Redeem Points",
+              "Tag": 45,
+              "Type": "vehinfo",
+              "Display": "Wiers Promise Rewards",
+              "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedPoints.aspx?t=json&a=SERVERID",
+              "ShowIconType": "btn-Gears.png"
+              }
+              ],
+    "Removed": [
+                {
+                "Title": "Maintenance",
+                "Subtitle": "Factory Recommended Maintenance",
+                "Tag": 34,
+                "Type": "help",
+                "Display": "Suggested Maintenance",
+                "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNews.aspx?t=json&a=SERVERID&f=11",
+                "ShowIconType": "btn-Gears.png"
+                },
+                {
+                "Title": "Accessories",
+                "Subtitle": "Genuine Manufacturer Accessories",
+                "Tag": 35,
+                "Type": "feed",
+                "Display": "Accessories",
+                "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedVehDocs.aspx?t=json&a=SERVERID&f=6",
+                "ShowIconType": "btn-ShiftKnob.png"
+                },
+                {
+                "Title": "Owners Manuals",
+                "Subtitle": "Operations and Navigation System",
+                "Tag": 33,
+                "Type": "feed",
+                "Display": "Owners Manuals",
+                "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedVehDocs.aspx?t=json&a=SERVERID&f=12",
+                "ShowIconType": "btn-Book.png"
+                }
+                ]
+}

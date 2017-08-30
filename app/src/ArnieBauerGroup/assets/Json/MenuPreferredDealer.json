@@ -1,0 +1,24 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+              "Title": "Arnie Bauer Buick GMC Cadillac",
+              "Subtitle": "Matteson, IL",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "NAforSINGLEDEALERSHIPS",
+              "LogoURL": "logoHD.png",
+              "StreetAddress": "5525 Miller Circle Drive, Matteson, IL 60443",
+              "PhoneNo": "708-720-2000",
+              "PhoneNoService": "708-720-2000",
+              "Website": "http://www.arniebauer.com/",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL208"
+        }
+    ]
+}
+
+

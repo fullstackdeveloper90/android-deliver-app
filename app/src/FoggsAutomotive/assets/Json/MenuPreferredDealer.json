@@ -1,0 +1,22 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Foggs Automotive",
+            "Subtitle": "Scotia, NY",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "NAforSINGLEDEALERSHIPS",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "642 Saratoga Road, Scotia, NY 12302",
+            "PhoneNo": "877-847-0397",
+			"PhoneNoService": "518-399-8393",
+			"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL300"
+        }
+    ]
+}

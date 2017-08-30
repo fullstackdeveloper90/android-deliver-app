@@ -1,0 +1,22 @@
+{
+	"Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+	"Items": [{
+		"Title": "Courtesy Mazda",
+		"Subtitle": "Longmont, CO",
+		"Tag": 10,
+		"Type": "menu",
+		"Display": "",
+		"Url": "Menu_Main",
+		"fbid": "",
+		"ShowIconType": "NAforSINGLEDEALERSHIPS",
+		"LogoURL": "logoHD.png",
+		"StreetAddress": "1461 Vista View Drive,Longmont, CO 80504",
+		"lat": "40.16001989",
+		"lon": "-105.0281351",
+		"PhoneNo": "866-415-6517",
+		"PhoneNoService": "877-849-6888",
+		"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+		"Email": "support@ethosrewardsmsg.com",
+		"DFLID": "ETH219"
+	}]
+}

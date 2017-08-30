@@ -1,0 +1,93 @@
+{
+    "CenterItems" : [
+                     {
+                     "Title": "Specials & Events",
+                     "Subtitle": "Exclusive Deals for Mobile Users",
+                     "Tag": 11,
+                     "Type": "help",
+                     "Display": "Specials & Events",
+                     "Url": "http://www.mobileappscm.com/Custom/MobileAppsCM/ctl/feedNews.aspx?t=json&a=SERVERID&f=1524",
+                     "ShowIconType": "VehicleSpecials.png"
+                     }
+                     ],
+
+    "Items": [
+              {
+              "Title": "MPG Calculator",
+              "Subtitle": "Calculate and Track Your MPG",
+              "Tag": 41,
+              "ShowIconType": "icon-Car.png"
+              },
+              {
+              "Title": "Where Did I Park?",
+              "Subtitle": "Mark Your Car's Location",
+              "Tag": 42,
+              "ShowIconType": "icon-Compass.png"
+              },
+              {
+              "Title": "Gas Stations and Prices",
+              "Subtitle": "Nearby Stations and Latest Prices",
+              "Tag": 53,
+              "Type":"station",
+              "ShowIconType": "icon-GasPump.png",
+              "Url":"http://api.mygasfeed.com/stations/radius/LATITUDE/LONGITUDE/3/reg/Price/izwkoxm7am.json&d=DEVICEID&dn=DEVICENAME"
+              },
+              {
+              "Title": "Social Media",
+              "Subtitle": "Links to our Social Media Pages",
+              "Tag": 43,
+              "Type": "feed",
+              "Display": "Social Media",
+              "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsSimple.aspx?a=SERVERID&f=1653",
+              "ShowIconType": "icon-Social.png"
+              },
+              {
+              "Title": "New Inventory",
+              "Subtitle": "New Inventory",
+              "Tag": 50,
+              "Type": "redirectweb",
+              "Display": "New Inventory",
+              "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=new&a=SERVERID&f=1603",
+              "ShowIconType": "icon-Car.png"
+              },
+              {
+              "Title": "Pre-Owned Inventory",
+              "Subtitle": "Pre-Owned Inventory",
+              "Tag": 53,
+              "Type": "redirectweb",
+              "Display": "Pre-Owned Inventory",
+              "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=used&a=SERVERID&f=1604",
+              "ShowIconType": "icon-Car.png"
+              },
+              {
+              "Title": "Help",
+              "Subtitle": "How to use this App",
+              "Tag": 48,
+              "Type": "help",
+              "Display": "Help",
+              "Url": "http://www.iteamhq.com/mobile-app-support",
+              "ShowIconType": "icon-QuestionMark.png"
+              },
+              {
+              "Title": "QR Scanner",
+              "Subtitle": "Scan a QR Code",
+              "Tag": 51,
+              "ShowIconType": "icon-QR.png"
+              },
+              {
+              "Title": "QR Favorites",
+              "Subtitle": "Scanned QR Codes",
+              "Tag": 67,
+              "ShowIconType": "icon-QR-fav.png"
+              },
+              {
+              "Title": "Settings",
+              "Subtitle": "Choose Preferred Dealership",
+              "Tag": 9,
+              "Type": "preferredmenu",
+              "Display": "",
+              "Url": "MenuPreferredDealer",
+              "ShowIconType": "icon-Gears.png"
+              }
+              ]
+}

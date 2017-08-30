@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rlayoutServiceHistory"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:paddingBottom="5dp"
+    android:paddingTop="5dp"
+    android:background="@color/black">
+
+    <Button
+        android:id="@+id/btnAddService"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:onClick="onClickAddServiceItem"
+        android:text="Add Service Item"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:visibility="invisible" />
+
+
+    <TextView
+        android:id="@+id/textViewDrillDownRootTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        />
+</RelativeLayout>

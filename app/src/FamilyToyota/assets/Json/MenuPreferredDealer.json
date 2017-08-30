@@ -1,0 +1,42 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Family Toyota Burleson",
+	"Subtitle": "Burleson, TX",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGToyota.png",
+	"LogoURL": "logoXHD-Burleson.png",
+	"StreetAddress": "801 S. Burleson Blvd.,Burleson, TX 76028",
+	"lat": "32.5271894",
+	"lon": "-97.3073208",
+	"PhoneNo": "817-241-2687",
+	"PhoneNoService": "817-381-7334",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=new&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH216"
+},{
+	"Title": "Family Toyota Arlington", 
+	"Subtitle": "Arlington, TX",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGToyota.png",
+	"LogoURL": "logoXHD-Arlington.png",
+	"StreetAddress": "1661 Wet N Wild Way,Arlington, TX 76011",
+	"lat": "32.7611245",
+	"lon": "-97.0865489",
+	"PhoneNo": "817-993-9903",
+	"PhoneNoService": "817-993-9903",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=new&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH273"
+            }
+  ]
+}

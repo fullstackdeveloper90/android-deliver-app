@@ -1,0 +1,83 @@
+{
+    "Items": [
+              {
+              "Title": "MPG Calculator",
+              "Subtitle": "Calculate and track your MPG",
+              "Tag": 41,
+              "ShowIconType": "btn-Gas.png"
+              },
+              {
+              "Title": "Where Did I Park?",
+              "Subtitle": "Mark your car's parking location",
+              "Tag": 42,
+              "ShowIconType": "btn-Compass.png"
+              },
+              {
+                "Title": "Gas Stations and Prices",
+                "Subtitle": "Nearby Stations and Latest Prices",
+                "Tag": 53,
+                "Type":"station",
+                "ShowIconType": "btn-Gas.png",
+                "Url":"http://api.mygasfeed.com/stations/radius/LATITUDE/LONGITUDE/3/reg/Price/izwkoxm7am.json&d=DEVICEID&dn=DEVICENAME"
+                },
+              {
+              "Title": "Social Media",
+              "Subtitle": "Links to our social networks",
+              "Tag": 43,
+              "Type": "feed",
+              "Display": "Social Networks",
+              "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsSimple.aspx?a=SERVERID&f=1235&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME",
+              "ShowIconType": "btn-SocialNetworks.png"
+              },
+              {
+              "Title": "New Inventory",
+              "Subtitle": "Rodman Ford New Inventory",
+              "Tag": 50,
+              "Type": "help",
+              "Display":"New Inventory",
+              "Url": "http://mobile.rodmanford.com/new-cars-boston-ma",
+              "ShowIconType": "btn-Car.png"
+              },
+              {
+              "Title": "Used Inventory",
+              "Subtitle": "Rodman Ford Used Inventory",
+              "Tag": 53,
+              "Type": "help",
+              "Display":"Used Inventory",
+              "Url": "http://mobile.rodmanford.com/used-cars-boston-ma",
+              "ShowIconType": "btn-Car.png"
+              },
+              {
+              "Title": "Help",
+              "Subtitle": "How to use this App",
+              "Tag": 48,
+              "Type": "help",
+              "Display":"Help",
+              "Url": "http://www.iteamhq.com/mobile-app-support",
+              "ShowIconType": "btn-QuestionMark.png"
+              },
+              {
+              "Title": "QR Scanner",
+              "Subtitle": "Scan a QR Code",
+              "Tag": 51,
+              "ShowIconType": "btn-scanbarcode.png"
+              },
+              {
+              "Title": "Settings",
+              "Subtitle": "Version Info, etc.",
+              "Tag": 9,
+              "Type": "preferredmenu",
+              "Display": "",
+              "Url": "MenuPreferredDealer",
+              "ShowIconType": "btn-Gears.png"
+              }
+              ],
+    "Removed": [
+                {
+                "Title": "Gas Stations and Prices",
+                "Subtitle": "Nearby Stations and Latest Prices",
+                "Tag": 53,
+                "ShowIconType": "btn-Gas.png"
+                }
+                ]
+}

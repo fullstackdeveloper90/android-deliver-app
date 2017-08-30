@@ -1,0 +1,37 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Davenport Buick GMC",
+            "Subtitle": "Rocky Mount, NC",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGBuickGMC.png",
+            "LogoURL": "logo-DavenportBuickGMCHD.png",
+            "StreetAddress": "600 English Road\nRocky Mount, NC 27804",
+            "PhoneNo": "888-436-6870",
+            "Website":"http://www.DavenportAuto.com",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL25"
+        },
+        {
+            "Title": "Davenport Honda",
+            "Subtitle": "Rocky Mount, NC",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGHonda.png",
+            "Website":"http://www.DavenportAuto.com",
+            "LogoURL": "logo-DavenportHondaHD.png",
+            "StreetAddress": "600 English Road\nRocky Mount, NC 27804",
+            "PhoneNo": "888-436-6870",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL25"
+        }
+    ]
+}

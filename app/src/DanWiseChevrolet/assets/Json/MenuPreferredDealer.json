@@ -1,0 +1,22 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Dan Wise Chevrolet", 
+	"Subtitle": "La Grange, NC",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoHD.png",
+	"StreetAddress": "6595 HWY 70 West,La Grange, NC 28551",
+	"PhoneNo": "866-615-8019",
+	"PhoneNoService": "888-580-3759",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL327"
+}
+  ]
+}

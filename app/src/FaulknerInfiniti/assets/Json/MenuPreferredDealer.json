@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+      "Title": "Faulkner Infiniti of Willow Grove",
+      "Subtitle": "Willow Grove, PA",
+      "Tag": 10,
+      "Type": "menu",
+      "Display": "",
+      "Url": "Menu_Main",
+      "fbid": "",
+      "ShowIconType": "NAforSINGLEDEALERSHIPS",
+      "LogoURL": "logoXHD.png",
+      "StreetAddress": "1510 Easton Rd,Willow Grove, PA 19090",
+      "lat": "40.160054",
+      "lon": "-75.124660",
+      "PhoneNo": "215-315-3353",
+      "PhoneNoService": "215-352-5577",
+      "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+      "Email": "support@ethosrewardsmsg.com",
+      "DFLID": "ETH283"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "McDaniels Acura of Columbia", 
+	"Subtitle": "Columbia, SC",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoXHD-Columbia.png",
+  "StreetAddress": "501 W. Killian Road,Columbia, SC 29203",
+  "lat": "34.1375155",
+  "lon": "-80.9543764",
+  "PhoneNo": "888-452-5833",
+	"PhoneNoService": "866-279-1295",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL337"
+},{
+	"Title": "McDaniels Acura of Charleston", 
+	"Subtitle": "Charleston, SC",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoXHD-Charleston.png",
+  "StreetAddress": "2283 Savannah Highway,Charleston, SC 29414",
+  "lat": "32.7911422",
+  "lon": "-80.0430229",
+  "PhoneNo": "888-460-9085",
+	"PhoneNoService": "888-460-9271",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL338"
+}
+  ]
+}

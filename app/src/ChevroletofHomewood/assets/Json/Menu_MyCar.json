@@ -1,0 +1,60 @@
+{
+    "Items": [
+                {
+                    "Title": "Vehicle Info",
+                    "Subtitle": "Vehicle Information and History",
+                    "Tag": 31,
+                    "Type": "vehinfo",
+                    "Display":"Vehicle Information",
+                    "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedVehInfo.aspx?a=SERVERID&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME&m=MAKE&mo=MODEL&y=YEAR",
+                    "ShowIconType": "btn-Car.png"
+                },
+                {
+                    "Title": "Service History",
+                    "Subtitle": "Your Vehicle's Service History",
+                    "Tag": 32,
+                    "Type": "feed",
+                    "Display":"Service History",
+                    "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedService.aspx?t=json&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME&a=SERVERID",
+                    "ShowIconType": "btn-Wrench.png"
+              },
+              {
+                  "Title": "Loyalty Points",
+                  "Subtitle": "View Point Balance",
+                  "Tag": 45,
+                  "Type": "vehinfo",
+                    "Display":"Account Information",
+                    "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedPoints.aspx?t=json&a=SERVERID&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME",
+                  "ShowIconType": "btn-Gears.png"
+              }
+              ],
+    "Removed": [
+                {
+                "Title": "Maintenance",
+                "Subtitle": "Factory Recommended Maintenance",
+                "Tag": 34,
+                "Type": "help",
+                "Display":"Suggested Maintenance",
+                "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNews.aspx?t=json&a=SERVERID&f=11",
+                "ShowIconType": "btn-Gears.png"
+                },
+                {
+                    "Title": "Owners Manuals",
+                    "Subtitle": "Operations and Navigation System",
+                    "Tag": 33,
+                    "Type": "feed",
+                    "Display": "Owners Manuals",
+                    "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedVehDocs.aspx?t=json&a=SERVERID&f=12",
+                    "ShowIconType": "btn-Book.png"
+                },
+                {
+                   "Title": "Accessories",
+                    "Subtitle": "Genuine Manufacturer Accessories",
+                    "Tag": 35,
+                    "Type": "feed",
+                    "Display":"Accessories",
+                    "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedVehDocs.aspx?t=json&a=SERVERID&f=6&v=VINNO&u=UID&d=DEVICEID&dn=DEVICENAME",
+                    "ShowIconType": "btn-ShiftKnob.png"
+                }
+                ]
+}

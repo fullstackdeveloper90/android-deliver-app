@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Maquoketa Ford", 
+	"Subtitle": "Maquoketa, IA",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoXHD.png",
+  "StreetAddress": "1178 200th Avenue,Maquoketa, IA 52060",
+  "lat": "42.043017",
+  "lon": "-90.665936",
+  "PhoneNo": "855-971-1998",
+	"PhoneNoService": "855-971-0911",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH285"
+}
+  ]
+}

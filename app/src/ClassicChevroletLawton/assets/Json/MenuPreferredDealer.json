@@ -1,0 +1,22 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+	{
+	"Title": "Classic Chevrolet of Lawton", 
+	"Subtitle": "Lawton, OK",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoHD.png",
+	"StreetAddress": "8308 NW Cache Road, Lawton, OK 73505",
+	"PhoneNo": "580-280-2800",
+	"PhoneNoService": "580-280-2800",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ADV269"
+}
+    ]
+}

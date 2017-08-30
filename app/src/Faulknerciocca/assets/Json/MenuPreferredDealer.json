@@ -1,0 +1,66 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+   {
+            "Title": "Faulkner-Ciocca Chevrolet",
+            "Subtitle": "Quakertown, PA",
+            "Tag": 99,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGChevrolet.png",
+            "LogoURL": "logo-HD.png",
+            "StreetAddress": " 855 S West End Blvd,Quakertown,PA 18951",
+            "PhoneNo": "215-804-4074",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH177"
+        },
+          {
+            "Title": "Faulkner-Ciocca Ford",
+            "Subtitle": "Quakertown, PA",
+            "Tag": 95,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGFord.png",
+            "LogoURL": "logo-HD.png",
+            "StreetAddress": "321 S West End Boulevard,Quakertown,PA 18951",
+            "PhoneNo": "800-500-6696",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH178"
+        },
+		 {
+            "Title": "Faulkner-Ciocca Ford",
+            "Subtitle": "Souderton, PA",
+            "Tag": 96,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGFord.png",
+            "LogoURL": "logo-HD.png",
+            "StreetAddress": "3470 Bethlehem Pike,Souderton,PA 18964",
+            "PhoneNo": "215-721-9100",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH179"
+        },
+		{
+            "Title": "Faulkner-Ciocca VW",
+            "Subtitle": "Allentown, PA",
+            "Tag": 98,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGVW.png",
+            "LogoURL": "logo-HD.png",
+            "StreetAddress": "1346 Lehigh Street,Allentown,PA 18103",
+            "PhoneNo": "866-578-6416",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH182"
+        }
+       
+    ]
+}

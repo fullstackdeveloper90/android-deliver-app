@@ -1,0 +1,73 @@
+{
+"Items": [
+{
+"Title": "MPG Calculator",
+"Subtitle": "Calculate and Track Your MPG",
+"Tag": 41,
+"ShowIconType": "btn-Gas.png"
+},
+{
+"Title": "Where Did I Park?",
+"Subtitle": "Mark Your Car's Location",
+"Tag": 42,
+"ShowIconType": "btn-Compass.png"
+},
+{
+"Title": "Gas Stations and Prices",
+"Subtitle": "Nearby Stations and Latest Prices",
+"Tag": 53,
+"Type":"station",
+"ShowIconType": "btn-Gas.png",
+"Url":"http://api.mygasfeed.com/stations/radius/LATITUDE/LONGITUDE/3/reg/Price/izwkoxm7am.json&d=DEVICEID&dn=DEVICENAME"
+},
+{
+"Title": "Social Media",
+"Subtitle": "Links to our Social Media Pages",
+"Tag": 43,
+"Type": "feed",
+"Display": "Social Media",
+"Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsSimple.aspx?a=SERVERID&f=1574",
+"ShowIconType": "btn-SocialNetworks.png"
+},
+{
+"Title": "New Inventory",
+"Subtitle": "New Inventory",
+"Tag": 50,
+"Type": "help",
+"Display": "New Inventory",
+"Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNews.aspx?a=SERVERID&f=1575",
+"ShowIconType": "btn-Car.png"
+},
+{
+"Title": "Pre-Owned Inventory",
+"Subtitle": "Pre-Owned Inventory",
+"Tag": 53,
+"Type": "help",
+"Display": "Pre-Owned Inventory",
+"Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNews.aspx?a=SERVERID&f=1576",
+"ShowIconType": "btn-Car.png"
+},
+{
+"Title": "Help",
+"Subtitle": "How to use this App",
+"Tag": 48,
+"Type": "help",
+"Display": "Help",
+"Url": "http://www.iteamhq.com/mobile-app-support",
+"ShowIconType": "btn-QuestionMark.png"
+},
+{
+"Title": "QR Scanner",
+"Subtitle": "Scan a QR Code",
+"Tag": 51,
+"ShowIconType": "btn-scanbarcode.png"
+}
+, 
+              {
+              "Title": "QR Favorites",
+              "Subtitle": "Scanned QR Codes",
+              "Tag": 67,
+              "ShowIconType": "btn-scanbarcode-fav.png"
+              }
+]
+}

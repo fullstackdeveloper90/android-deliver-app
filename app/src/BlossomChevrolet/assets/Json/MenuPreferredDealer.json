@@ -1,0 +1,24 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+		"Title": "Blossom Chevrolet",
+		"Subtitle": "Indianapolis, IN",
+		"Tag": 10,
+		"Type": "menu",
+		"Display": "",
+		"Url": "Menu_Main",
+		"fbid": "",
+		"ShowIconType": "btn-MFGChevrolet.png",
+		"LogoURL": "logoHD.png",
+		"StreetAddress": "1850 North Shadeland Ave, Indianapolis, IN 46219",
+		"lat": "39.792822",
+		"lon": "-86.047316",
+		"PhoneNo": "800-651-7074",
+		"PhoneNoService": "800-651-7074",
+		"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+		"Email": "support@ethosrewardsmsg.com",
+		"DFLID": "ETH145"
+        }
+    ]
+}

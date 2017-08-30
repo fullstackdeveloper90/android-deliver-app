@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Don Whites Timonium Chrysler", 
+	"Subtitle": "Cockeysville, MD",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "iphoneIcon114.png",
+	"LogoURL": "logoXHD.png",
+	"StreetAddress": "10300 York Rd,Cockeysville, MD 21030",
+	"lat": "39.4713117",
+	"lon": "-76.6402519",
+	"PhoneNo": "410-666-9600",
+	"PhoneNoService": "410-666-9600",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL31"
+}
+  ]
+}

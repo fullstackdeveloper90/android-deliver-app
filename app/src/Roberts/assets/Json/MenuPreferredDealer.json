@@ -1,0 +1,53 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+          {
+              "Title": "Roberts Auto Center",
+              "Subtitle": "Pryor, OK",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "http://www.chevyoftulsa.com/mobile/",
+			  "fbid": "318365635601",
+              "ShowIconType": "btn-MFGChevrolet.png",
+              "LogoURL": "logo-HD.png",
+			  "StreetAddress": "3301 S. Mill St., Pryor, OK 74361",
+              "PhoneNo": "888-273-7071",
+			  "Website":"http://www.chevyoftulsa.com/mobile/",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL7"
+          },
+		   {
+              "Title": "Dodge Chrysler Jeep Ram ",
+              "Subtitle": "Pryor, OK",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "http://dodgeoftulsa.com/mobile/",
+			  "fbid": "318365635601",
+              "ShowIconType": "btn-MFGDodgeChryslerJeepRam.png",
+              "LogoURL": "logo-HD.png",
+			  "StreetAddress": "5425 S. Mill St., Pryor, OK 74361",
+              "PhoneNo": "888-224-9880",
+			  "Website":"http://dodgeoftulsa.com/mobile/",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL8"
+          },
+		   {
+              "Title": "Ford Lincoln of Tulsa",
+              "Subtitle": "Pryor, OK",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "http://fordlincolnoftulsa.com/mobile/",
+			  "fbid": "318365635601",
+              "ShowIconType": "btn-MFGFordLincoln.png",
+              "LogoURL": "logo-HD.png",
+			  "StreetAddress": "4501 S Mill St, Pryor Creek, OK 74361, USA",
+              "PhoneNo": "866-723-3000",
+			  "Website":"http://fordlincolnoftulsa.com/mobile/",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL258"
+          }
+    ]
+}

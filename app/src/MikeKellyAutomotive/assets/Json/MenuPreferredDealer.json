@@ -1,0 +1,55 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Mike Kelly Chevrolet & Cadillac",
+            "Subtitle": "Butler, PA",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGChevroletCadillac.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "252 Pittsburgh Road, Butler, PA 16002",
+            "PhoneNo": "724-602-2327",
+			"Website":"http://www.mikekellychevrolet.com",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL37"
+        }
+,
+ {
+            "Title": "Mike Kelly Hyundai",
+            "Subtitle": "Butler, PA",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGHyundai.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "254 Pittsburgh Road, Butler, PA 16002",
+            "PhoneNo": "724-602-4023",
+			"Website":"http://www.mikekellyhyundai.com",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL37"
+        }
+		,
+		 {
+            "Title": "Mike Kelly Kia",
+            "Subtitle": "Butler, PA",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGKia.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "254 Pittsburgh Rd, Butler, PA 16002",
+            "PhoneNo": "724-602-2274",
+			"Website":"http://www.mikekellykia.com",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL37"
+        }
+    ]
+}

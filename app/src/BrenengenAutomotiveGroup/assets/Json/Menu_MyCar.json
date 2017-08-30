@@ -1,0 +1,22 @@
+{
+    "Items": [
+              {
+              "Title": "Vehicle Info",
+              "Subtitle": "Vehicle Information and History",
+              "Tag": 31,
+              "Type": "vehinfo",
+              "Display": "Vehicle Information",
+              "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedVehInfo.aspx?a=SERVERID",
+              "ShowIconType": "icon-Car.png"
+              },
+              {
+              "Title": "Service History",
+              "Subtitle": "Your Vehicle's Service History",
+              "Tag": 32,
+              "Type": "rootfeed",
+              "Display": "Service History",
+              "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedService.aspx?t=json",
+              "ShowIconType": "icon-Wrenches.png"
+              }
+              ]
+}

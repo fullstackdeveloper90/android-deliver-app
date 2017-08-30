@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Joe Bullard Ford", 
+	"Subtitle": "Grove Hill, AL",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGFordWhite3.png",
+	"LogoURL": "logoXHD.png",
+	"StreetAddress": "19684 Highway 43,Grove Hill, AL 36451",
+	"lat": "31.730268",
+	"lon": "-87.767130",
+	"PhoneNo": "877-768-0298",
+	"PhoneNoService": "877-710-9321",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "ETH286"
+}
+  ]
+}

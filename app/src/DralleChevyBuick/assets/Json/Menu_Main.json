@@ -1,0 +1,46 @@
+{
+    "Items": [
+                {
+                    "Title": "My Car",
+                    "Subtitle": "Vehicle Information and History",
+                    "Tag": 13,
+                    "ShowIconType": "btn-Car.png"
+                },
+                {
+                    "Title": "Specials & Events",
+                    "Subtitle": "Exclusive Deals Just for Mobile Users",
+                    "Tag": 11,
+                    "Type": "help",
+                    "Display":"Specials & Events",
+                    "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNews.aspx?t=json&a=SERVERID&f=1364",
+                    "ShowIconType": "btn-News.png"
+                },
+                {
+                    "Title": "Loyalty Program",
+                    "Subtitle": "View Service History and Rewards",
+                    "Tag": 45,
+                    "Type": "vehinfo",
+                    "Display":"Dralle Difference Rewards",
+                    "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedPoints.aspx?t=json&a=SERVERID",
+                    "ShowIconType": "btn-Gears.png"
+                },
+                {
+              "Title": "Contact Us / Directions",
+              "Subtitle": "Via Email or Phone...",
+              "Tag": 15,
+              "Type": "menu",
+              "Display": "Contact Us",
+              "Url": "Menu_Contact",
+              "ShowIconType": "btn-Cellphone.png"
+              },
+                {
+                    "Title": "More Options",
+                    "Subtitle": "Tools, Settings, and More",
+                    "Tag": 16,
+                    "Type": "menu",
+                    "Display": "More",
+                    "Url":"Menu_More",
+                    "ShowIconType": "btn-More.png"
+                }
+            ]
+}

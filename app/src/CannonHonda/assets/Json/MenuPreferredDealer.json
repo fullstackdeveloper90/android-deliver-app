@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Cannon Honda", 
+	"Subtitle": "Ponca City, OK",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoHD.png",
+  "StreetAddress": "3415 N. 14th St.,Ponca City, OK 74601",
+  "lat": "36.746240",
+  "lon": "-97.066835",
+  "PhoneNo": "580-749-5155",
+	"PhoneNoService": "580-749-5155",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL264"
+}
+  ]
+}

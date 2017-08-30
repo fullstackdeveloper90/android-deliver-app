@@ -1,0 +1,60 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "First Chrysler Dodge Jeep Ram", 
+	"Subtitle": "North Attleboro, MA",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGChryslerDodgeJeepRam.png",
+	"LogoURL": "logoXHD-cdjr.png",
+	"StreetAddress": "280 E. Washington Street,North Attleboro, MA 02760",
+	"lat": "41.9737435",
+	"lon": "-71.3301644",
+	"PhoneNo": "508-316-8400",
+	"PhoneNoService": "508-316-8400",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL276"
+},{
+	"Title": "First Hyundai", 
+	"Subtitle": "North Attleboro, MA",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGHyundaiWhite3.png",
+	"LogoURL": "logoXHD-hyundai.png",
+	"StreetAddress": "270 E Washington Street,North Attleboro, MA 02760",
+	"lat": "41.9730164",
+	"lon": "-71.33071660",
+	"PhoneNo": "508-699-4700",
+	"PhoneNoService": "508-699-4700",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL275"
+},{
+	"Title": "First Ford", 
+	"Subtitle": "Fall River, MA",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGFordWhite3.png",
+	"LogoURL": "logoXHD-ford.png",
+	"StreetAddress": "292 William S Canning Boulevard,Fall River, MA 02721",
+	"lat": "41.6737697",
+	"lon": "-71.1605017",
+	"PhoneNo": "508-730-1000",
+	"PhoneNoService": "508-730-1000",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL277"
+}
+  ]
+}

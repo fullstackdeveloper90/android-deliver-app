@@ -1,0 +1,62 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+      "Title": "Jerrys Alexandria Ford",
+      "Subtitle": "Alexandria, VA",
+      "Tag": 10,
+      "Type": "menu",
+      "Display": "",
+      "Url": "Menu_Main",
+      "fbid": "",
+      "ShowIconType": "btn-MFGFord.png",
+      "LogoURL": "logoXHD-alexandria.png",
+      "StreetAddress": "6510 Little River Turnpike,Alexandria, VA 22312",
+      "lat": "38.8222806",
+      "lon": "-77.15750070000001",
+      "PhoneNo": "703-256-5000",
+      "PhoneNoService": "703-256-5000",
+      "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+      "Email": "support@rewardsmessage.com",
+      "DFLID": "DFL353"
+    },
+    {
+      "Title": "Jerrys Ford of Leesburg",
+      "Subtitle": "Leesburg, VA",
+      "Tag": 10,
+      "Type": "menu",
+      "Display": "",
+      "Url": "Menu_Main",
+      "fbid": "",
+      "ShowIconType": "btn-MFGFord.png",
+      "LogoURL": "logoXHD-fordleesburg.png",
+      "StreetAddress": "847 E Market St,Leesburg, VA 20176",
+      "lat": "39.1014732",
+      "lon": "-77.5407348999",
+      "PhoneNo": "703-777-0000",
+      "PhoneNoService": "703-777-0000",
+      "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+      "Email": "support@rewardsmessage.com",
+      "DFLID": "DFL351"
+    },
+    {
+      "Title": "Jerrys Chevrolet of Leesburg",
+      "Subtitle": "Leesburg, VA",
+      "Tag": 10,
+      "Type": "menu",
+      "Display": "",
+      "Url": "Menu_Main",
+      "fbid": "",
+      "ShowIconType": "btn-MFGChevrolet.png",
+      "LogoURL": "logoXHD-chevyleesburg.png",
+      "StreetAddress": "18 Fort Evans Road N.E.,Leesburg, VA 20176",
+      "lat": "39.107804",
+      "lon": "-77.549484",
+      "PhoneNo": "703-771-8300",
+      "PhoneNoService": "703-771-8300",
+      "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+      "Email": "support@rewardsmessage.com",
+      "DFLID": "DFL352"
+    }
+  ]
+}

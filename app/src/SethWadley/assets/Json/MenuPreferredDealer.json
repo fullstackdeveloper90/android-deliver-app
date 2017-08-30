@@ -1,0 +1,60 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Seth Wadley Ford Lincoln", 
+	"Subtitle": "Pauls Valley, OK",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "",
+	"LogoURL": "logoXHD-fordlincoln.png",
+  "StreetAddress": "333 North Butler Road,Pauls Valley, OK 73075",
+  "lat": "34.740173",
+  "lon": "-97.251012",
+  "PhoneNo": "405-238-6466",
+	"PhoneNoService": "405-238-6466",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL122"
+},{
+	"Title": "Seth Wadley Auto Group", 
+	"Subtitle": "Pauls Valley, OK",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "",
+	"LogoURL": "logoXHD-autogroup.png",
+  "StreetAddress": "200 Ballard Road,Pauls Valley, OK 73075",
+  "lat": "34.7424041",
+  "lon": "-97.26363669",
+  "PhoneNo": "405-238-9681",
+	"PhoneNoService": "405-238-9681",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL169"
+},{
+	"Title": "Seth Wadley Ada Chevrolet Buick", 
+	"Subtitle": "Ada, OK",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "",
+	"LogoURL": "logoXHD-chevybuick.png",
+  "StreetAddress": "1301 N Broadway Ave ,Ada, OK 74820",
+  "lat": "34.7873258",
+  "lon": "-96.679386499",
+  "PhoneNo": "580-332-4141",
+	"PhoneNoService": "580-332-4141",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL344"
+}
+  ]
+}

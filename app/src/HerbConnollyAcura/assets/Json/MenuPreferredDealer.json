@@ -1,0 +1,22 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Herb Connolly Acura",
+            "Subtitle": "Framingham, MA",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "NAforSINGLEDEALERSHIPS",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "500 Worcester Rd, Framingham, MA 01702",
+            "PhoneNo": "508-598-3893",
+			"PhoneNoService": "508-598-3913",
+			"Website":"http://www.herbconnollyacura.net/",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH249"
+        }
+    ]
+}

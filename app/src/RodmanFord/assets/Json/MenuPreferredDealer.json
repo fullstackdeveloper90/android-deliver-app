@@ -1,0 +1,21 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+          {
+              "Title": "Rodman Ford",
+              "Subtitle": "Foxboro, MA",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "263664507024444",
+              "ShowIconType": "btn-MFGFord.png",
+              "LogoURL": "logo-HD.png",
+			  "StreetAddress": "53 Washington St.\nFoxboro, MA 02035",
+              "PhoneNo": "888-755-5903",
+			  "Website": "http://www.rodmanford.com/",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL163"
+          }
+    ]
+}

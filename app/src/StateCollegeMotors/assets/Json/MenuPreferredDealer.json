@@ -1,0 +1,42 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Nissan of State College", 
+	"Subtitle": "State College, PA",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGNissanWhite3.png",
+	"LogoURL": "logoXHD-nissan.png",
+	"StreetAddress": "3280 W. College Avenue,State College, PA 16801",
+	"lat": "40.759019599999",
+	"lon": "-77.876232199",
+	"PhoneNo": "814-206-0901",
+	"PhoneNoService": "814-206-0901",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH291"
+},{
+	"Title": "Volkswagen State College", 
+	"Subtitle": "State College, PA",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGVWWhite3.png",
+	"LogoURL": "logoXHD-vw.png",
+	"StreetAddress": "3220 West College Avenue,State College, PA 16801",
+	"lat": "40.759675",
+	"lon": "-77.877157",
+	"PhoneNo": "814-206-0902",
+	"PhoneNoService": "814-206-0902",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH290"
+}
+  ]
+}

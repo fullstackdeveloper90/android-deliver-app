@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Bob Lindsay Honda", 
+	"Subtitle": "Peoria, IL",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoHD.png",
+  "StreetAddress": "900 West Pioneer Parkway,Peoria, IL 61615",
+  "lat": "40.7821939",
+  "lon": "-89.606725",
+  "PhoneNo": "877-419-2788",
+	"PhoneNoService": "888-415-0636",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH279"
+}
+  ]
+}

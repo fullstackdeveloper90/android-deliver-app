@@ -1,0 +1,22 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Audi Allentown",
+            "Subtitle": "Allentown, PA",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGAudi.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "4725 Hamilton Blvd, Allentown, PA 18103",
+            "PhoneNo": "610-841-8100",
+			"PhoneNoService": "610-841-8100",
+			"Website":"http://www.audiallentown.com/",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH244"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+              {
+              "Title": "Western Motor Buick GMC",
+              "Subtitle": "Garden City, KS",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "NAforSINGLEDEALERSHIPS",
+              "LogoURL": "logoHD.png",
+              "StreetAddress": "409 E. Fulton St.,Garden City, KS 67846",
+              "lat": "37.965094",
+              "lon": "-100.869394",
+              "PhoneNo": "866-290-0819",
+              "PhoneNoService": "866-289-0344",
+              "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL355"
+              }
+              ]
+}

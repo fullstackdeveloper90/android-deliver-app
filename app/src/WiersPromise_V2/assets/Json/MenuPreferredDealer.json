@@ -1,0 +1,21 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+          {
+              "Title": "Wiers Chevrolet Cadillac GMC",
+              "Subtitle": "Demotte, IN",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-ChevroletCadillacGMC.png",
+              "LogoURL": "logo-HD.png",
+			  "StreetAddress": "642 Saratoga Road, Scotia, NY 12302",
+              "PhoneNo": "219-987-5555",
+			  "Website": "http://www.wiersauto.com/",
+              "Email": "support@ethosrewardsmsg.com",
+              "DFLID": "ETH205"
+          }
+    ]
+}

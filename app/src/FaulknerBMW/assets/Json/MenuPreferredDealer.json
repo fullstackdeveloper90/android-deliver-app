@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Faulkner BMW", 
+	"Subtitle": "Lancaster, PA",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoHD.png",
+	"StreetAddress": "1530 Manheim Pike,Lancaster, PA 17601",
+	"lat": "40.0777873", 
+	"lon": "-76.339168",
+	"PhoneNo": "717-569-4269",
+	"PhoneNoService": "717-569-4269",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH168"
+}
+  ]
+}

@@ -1,0 +1,52 @@
+{
+    "CenterItems" : [
+                     {
+                     "Title": "Specials & Events",
+                     "Subtitle": "Exclusive Deals for Mobile Users",
+                     "Tag": 11,
+                     "Type": "help",
+                     "Display": "Specials & Events",
+                     "Url": "http://www.mobileappscm.com/Custom/MobileAppsCM/ctl/feedNews.aspx?t=json&a=SERVERID&f=1524",
+                     "ShowIconType": "VehicleSpecials.png"
+                     }
+                     ],
+    "Items": [
+              {
+              "Title": "Call Us",
+              "Subtitle": "Phone",
+              "Tag": 13,
+              "Type": "call",
+              "ShowIconType": "icon-Cellphone.png"
+              },
+              {
+              "Title": "Website",
+              "Subtitle": "Visit our Website",
+              "Tag": 13,
+              "Type": "website",
+              "ShowIconType": "icon-Website.png"
+              },
+              {
+              "Title": "Email",
+              "Subtitle": "Send us an Email",
+              "Tag": 13,
+              "Type": "email",
+              "ShowIconType": "icon-Envelope.png"
+              },
+              {
+              "Title": "Location",
+              "Subtitle": "View Map & Directions",
+              "Tag": 13,
+              "Type": "directions",
+              "ShowIconType": "icon-Compass.png"
+              },
+              {
+              "Title": "More Locations",
+              "Subtitle": "View Our Other Locations",
+              "Tag": 13,
+              "Display": "More Locations",
+              "Type": "morelocations",
+              "ShowIconType": "icon-Map-MoreLocations.png",
+              "Url": "Menu_MoreLocations"
+              }
+              ]
+}

@@ -1,0 +1,24 @@
+{
+    "Items": [
+             
+              {
+              "Title": "Social Media",
+              "Subtitle": "Links to our Social Media Pages",
+              "Tag": 43,
+              "Type": "feed",
+              "Display": "Social Media",
+              "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=SOCIALMEDIA&a=SERVERID",
+              "ShowIconType": "icon-Social.png"
+              },
+              
+              {
+              "Title": "Help",
+              "Subtitle": "How to use this App",
+              "Tag": 48,
+              "Type": "help",
+              "Display": "Help",
+              "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNews.aspx?f=3339",
+              "ShowIconType": "icon-QuestionMark.png"
+              }
+              ]
+}

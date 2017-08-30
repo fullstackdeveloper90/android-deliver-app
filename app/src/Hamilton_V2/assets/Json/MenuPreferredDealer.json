@@ -1,0 +1,43 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+          {
+              "Title": "Hamilton Nissan",
+              "Subtitle": "Hagerstown, MD",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGNissanWhite3.png",
+              "LogoURL": "logoNissanHD.png",
+              "StreetAddress": "1929 Dual Hwy, Hagerstown, MD 21740",
+              "lat": "39.605299",
+			"lon": "-77.688219",
+              "PhoneNo": "301-733-7222",
+			"PhoneNoService": "301-733-7222",
+              "Website":"http://www.hamiltonnissan.com/",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL4-NISSAN"
+          },
+          {
+              "Title": "Hamilton Hyundai",
+              "Subtitle": "Chambersburg, PA",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "Menu_Main",
+              "fbid": "",
+              "ShowIconType": "btn-MFGHyundaiWhite3.png",
+              "LogoURL": "logoHyundaiHD.png",
+              "StreetAddress": "2024 Lincoln Way E, Chambersburg, PA 17202",
+              "lat": "39.919620",
+              "lon": "-77.590960",
+              "PhoneNo": "717-264-5105",
+			"PhoneNoService": "877-464-5105",
+              "Website":"http://www.hamiltonhyundai.com/",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL5-HYUNDAI"
+          }
+    ]
+}

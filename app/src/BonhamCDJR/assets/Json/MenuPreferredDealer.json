@@ -1,0 +1,22 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Bonham Chrysler Dodge Jeep Ram",
+            "Subtitle": "Bonham, TX",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGCDJR.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "1522 W. Sam Rayburn Dr, Bonham, TX 75418",
+            "PhoneNo": "866-876-7785",
+			"PhoneNoService": "888-372-6741",
+			"Website":"http://www.bonhamchrysler.com/index.htm",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH229"
+        }
+    ]
+}

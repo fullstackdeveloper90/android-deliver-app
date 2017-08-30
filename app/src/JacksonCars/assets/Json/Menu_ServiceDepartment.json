@@ -1,0 +1,36 @@
+{
+    "Items": [
+             
+              {
+              "Title": "Call Service Department",
+              "Subtitle": "",
+              "Tag": 13,
+              "Type": "callservice",
+              "ShowIconType": "icon-Cellphone.png"
+              },
+              {
+              "Title": "Schedule Service",
+              "Subtitle": "",
+              "Tag": 23,
+              "Type": "help",
+              "Display":"Service Department",
+              "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNewsInventoryRedirect.aspx?f=1715&a=SERVERID",
+              "ShowIconType": "icon-Calendar.png"
+              }
+              ,{
+              "Title": "Service Specials",
+              "Subtitle": "Special Deals for Mobile Users",
+              "Tag": 11,
+              "Type": "help",
+              "Display": "Service Specials",
+              "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNewsInventoryRedirect.aspx?f=1714&a=SERVERID",
+              "ShowIconType": "icon-Website.png"
+              },
+              {
+              "Title": "My Car",
+              "Subtitle": "Vehicle Information and History",
+              "Tag": 13,
+              "ShowIconType": "icon-Car.png"
+              }
+              ]
+}

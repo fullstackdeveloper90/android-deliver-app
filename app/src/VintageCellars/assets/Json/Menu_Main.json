@@ -1,0 +1,46 @@
+{
+    "Items": [
+              {
+              "Title": "Specials & Events",
+              "Subtitle": "Special Deals for Mobile Users",
+              "Tag": 11,
+              "Type": "redirect",
+              "Display": "Specials & Events",
+               "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=specials&a=SERVERID",
+              "ShowIconType": "btn-News.png"
+              },
+              {
+              "Title": "Contact Us / Directions",
+              "Subtitle": "Via Email or Phone...",
+              "Tag": 15,
+              "Type": "menu",
+              "Display": "Contact Us",
+              "Url": "Menu_Contact",
+              "ShowIconType": "btn-Cellphone.png"
+              },
+              {
+              "Title": "Social Media",
+              "Subtitle": "Links to our Social Media Pages",
+              "Tag": 43,
+              "Type": "feed",
+              "Display": "Social Media",
+              "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsSimple.aspx?a=SERVERID&f=1504",
+              "ShowIconType": "btn-SocialNetworks.png"
+              },
+              {
+              "Title": "QR Scanner",
+              "Subtitle": "Scan a QR Code",
+              "Tag": 51,
+              "ShowIconType": "btn-scanbarcode.png"
+              },
+              {
+              "Title": "More Options",
+              "Subtitle": "Tools, Settings, and More",
+              "Tag": 16,
+              "Type": "menu",
+              "Display": "More",
+              "Url": "Menu_More",
+              "ShowIconType": "btn-More.png"
+              }
+              ]
+}

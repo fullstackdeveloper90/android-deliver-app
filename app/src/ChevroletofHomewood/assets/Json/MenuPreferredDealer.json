@@ -1,0 +1,21 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+          {
+              "Title": "Chevrolet of Homewood",
+              "Subtitle": "Homewood, IL",
+              "Tag": 10,
+              "Type": "menu",
+              "Display": "",
+              "Url": "http://www.homewoodchevy.com/HoursAndDirections",
+			  "fbid": "131962450204676",
+              "ShowIconType": "btn-MFGChevrolet.png",
+              "LogoURL": "logo-HD.png",
+			  "StreetAddress": "18033 Halsted St, Homewood, IL 60430",
+              "PhoneNo": "866-979-7917",
+			  "Website":"http://www.homewoodchevy.com/",
+              "Email": "support@rewardsmessage.com",
+              "DFLID": "DFL246"
+          }
+    ]
+}

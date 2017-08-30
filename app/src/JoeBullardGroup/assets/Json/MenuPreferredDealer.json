@@ -1,0 +1,72 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Joe Bullard Acura",
+            "Subtitle": "Mobile, AL",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGAcura.png",
+            "LogoURL": "logo_AcuraHD.png",
+            "StreetAddress": "1151 East I-65 Service Rd. South, Mobile, AL 36606",
+            "PhoneNo": "251-263-8847",
+			"Website":"http://www.acuramobile.com/",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH212"
+        }
+,
+ {
+            "Title": "Joe Bullard Cadillac",
+            "Subtitle": "Mobile, AL",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGCadillac.png",
+            "LogoURL": "logo_CadillacHD.png",
+            "StreetAddress": "1419 East I-65 Service Rd. South, Mobile, AL 36606",
+            "PhoneNo": "251-732-2604",
+			"Website":"http://www.bullardcadillac.com/",
+            "Email": "support@ethosrewardsmessage.com",
+            "DFLID": "ETH213"
+        }
+		,
+		 {
+            "Title": "Infiniti of Mobile",
+            "Subtitle": "Mobile, AL",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGInfiniti.png",
+            "LogoURL": "logo_InfinitiHD.png",
+            "StreetAddress": "1137 East I-65 Service Rd. South, Mobile, AL 36606",
+            "PhoneNo": "251-732-4849",
+			"Website":"http://www.infinitiofmobile.com/",
+            "Email": "support@ethosrewardsmessage.com",
+            "DFLID": "ETH215"
+        }
+		,
+		 {
+            "Title": "Joe Bullard Jaguar Land Rover",
+            "Subtitle": "Mobile, AL",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGJaguarLandRover.png",
+            "LogoURL": "logo_JaguarLandRoverHD.png",
+            "StreetAddress": "1151 East I-65 Service Rd. South, Mobile, AL 36606",
+            "PhoneNo": "251-589-7119",
+			"Website":"http://www.jaguargulfcoast.com/",
+            "Email": "support@ethosrewardsmessage.com",
+            "DFLID": "ETH214"
+        }
+    ]
+}

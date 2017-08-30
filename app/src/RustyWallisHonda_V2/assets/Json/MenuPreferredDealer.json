@@ -1,0 +1,21 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Rusty Wallis Honda",
+            "Subtitle": "Dallas, TX",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGHonda.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "12277 Shiloh Road\nDallas, TX 75228",
+            "PhoneNo": "800-762-0978",
+			"Website":"http://m.RustyWallisHonda.com",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH174"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Items": [
+             
+              {
+              "Title": "Call Service Department",
+              "Subtitle": "",
+              "Tag": 13,
+              "Type": "callservice",
+              "ShowIconType": "icon-Cellphone.png"
+              },
+              {
+              "Title": "Schedule Service",
+              "Subtitle": "",
+              "Tag": 23,
+              "Type": "redirectweb",
+              "Display":"Service Department",
+              "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=servicesched&a=SERVERID",
+              "ShowIconType": "icon-Calendar-Schedule.png"
+              }
+              ,{
+              "Title": "Service Specials",
+              "Subtitle": "Special Deals for Mobile Users",
+              "Tag": 11,
+              "Type": "redirectweb",
+              "Display": "Service Specials",
+              "Url": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=specials&a=SERVERID",
+              "ShowIconType": "btn-News.png"
+              }
+              ]
+}

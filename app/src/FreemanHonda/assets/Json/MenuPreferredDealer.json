@@ -1,0 +1,20 @@
+{
+	"Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+	"Items": [{
+		"Title": "Freeman Honda",
+		"Subtitle": "Dallas, TX",
+		"Tag": 10,
+		"Type": "menu",
+		"Display": "",
+		"Url": "Menu_Main",
+		"fbid": "",
+		"ShowIconType": "btn-MFGAudi.png",
+		"LogoURL": "logoHD.png",
+		"StreetAddress": "39680 Lyndon B Johnson Fwy, Dallas, TX 75237",
+		"PhoneNo": "888-248-5789",
+		"PhoneNoService": "888-805-7721",
+		"Website": "http://www.freemanhonda.net/",
+		"Email": "support@ethosrewardsmsg.com",
+		"DFLID": "ETH221"
+	}]
+}

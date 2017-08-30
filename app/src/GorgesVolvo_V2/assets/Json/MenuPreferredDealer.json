@@ -1,0 +1,24 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Gorges Volvo",
+            "Subtitle": "Omaha, NE",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "iPhoneIcon114.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "17665 Burt St, Omaha, NE 68118",
+			"lat": "41.2644195",
+			"lon": "-96.1911837",
+			"PhoneNo": "866-939-8590",
+			"PhoneNoService": "877-869-1667",
+            "Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH157"
+        }
+        ]
+}

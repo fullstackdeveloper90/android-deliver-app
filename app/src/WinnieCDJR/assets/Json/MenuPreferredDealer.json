@@ -1,0 +1,24 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Winnie Dodge Chrysler Jeep Ram",
+            "Subtitle": "Winnie, TX",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGCDJR.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "125 State Highway 124, Winnie, TX 77665",
+            "lat": "29.825040",
+            "lon": "-94.382984",
+            "PhoneNo": "888-349-3083",
+            "PhoneNoService": "866-483-1854",
+            "Website": "http://www.winniedodge.com/",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL284"
+        }
+    ]
+}

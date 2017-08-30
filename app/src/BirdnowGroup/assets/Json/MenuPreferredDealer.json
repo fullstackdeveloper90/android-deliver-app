@@ -1,0 +1,42 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Birdnow Chevrolet Monona", 
+	"Subtitle": "Monona, IA",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGChevroletWhite3.png",
+	"LogoURL": "logoXHD.png",
+	"StreetAddress": "12634 Falcon Ave.,Monona, IA 52159",
+	"lat": "",
+	"lon": "",
+	"PhoneNo": "563-539-2061",
+	"PhoneNoService": "888-247-3669",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH161"
+},{
+	"Title": "Birdnow Motor Trade of Oelwein", 
+	"Subtitle": "Oelwein, IA",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "btn-MFGChevroletWhite3.png",
+	"LogoURL": "logoXHD.png",
+	"StreetAddress": "1440 S. Frederick Ave,Oelwein, IA 50662",
+	"lat": "",
+	"lon": "",
+	"PhoneNo": "319-283-5571",
+	"PhoneNoService": "319-283-5571",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH166"
+}
+  ]
+}

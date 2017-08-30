@@ -1,0 +1,64 @@
+{
+    "Items": [
+        {
+            "Title": "MPG Calculator",
+            "Subtitle": "Calculate and Track your MPG",
+            "Tag": 41,
+            "ShowIconType": "btn-Gas.png"
+        },
+        {
+            "Title": "Where Did I Park?",
+            "Subtitle": "Mark your Car's Parking Location",
+            "Tag": 42,
+            "ShowIconType": "btn-Compass.png"
+        },
+        {
+            "Title": "Gas Prices",
+            "Subtitle": "Find the Lowest Gas Prices in your Area",
+            "Tag": 53,
+            "ShowIconType": "btn-DollarSign.png"
+        },
+        {
+            "Title": "Social Media",
+            "Subtitle": "Links to our Social Media Pages",
+            "Tag": 43,
+            "Type": "feed",
+            "Display": "Social Pages",
+            "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNewsSimple.aspx?f=1252&a=SERVERID",
+            "ShowIconType": "btn-SocialNetworks.png"
+        },
+        {
+            "Title": "New Inventory",
+            "Subtitle": "Wiers New Inventory",
+            "Tag": 50,
+            "Type": "help",
+            "Display": "New Inventory",
+            "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1268&a=SERVERID",
+            "ShowIconType": "btn-Car.png"
+        },
+        {
+            "Title": "Used Inventory",
+            "Subtitle": "Wiers Used Inventory",
+            "Tag": 53,
+            "Type": "help",
+            "Display": "Used Inventory",
+            "Url": "http://www.mobileappscm.com/custom/mobileAppsCM/ctl/feedNews.aspx?f=1269&a=SERVERID",
+            "ShowIconType": "btn-Car.png"
+        },
+        {
+            "Title": "Help",
+            "Subtitle": "How to use this App",
+            "Tag": 48,
+            "Type": "help",
+            "Display": "Help",
+            "Url": "http://www.iteamhq.com/mobile-app-support",
+            "ShowIconType": "btn-QuestionMark.png"
+        },
+        {
+            "Title": "QR Scanner",
+            "Subtitle": "Scan a QR Code",
+            "Tag": 51,
+            "ShowIconType": "btn-scanbarcode.png"
+        }
+    ]
+}

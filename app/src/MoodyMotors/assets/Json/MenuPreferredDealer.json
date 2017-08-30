@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Moody Motors", 
+	"Subtitle": "Niobrara, NE",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoHD.png",
+  "StreetAddress": "251 Spruce Avenue,Niobrara, NE 68760",
+  "lat": "42.751126",
+  "lon": "-98.034828499",
+  "PhoneNo": "800-745-5650",
+	"PhoneNoService": "844-338-8583",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@rewardsmessage.com",
+	"DFLID": "DFL243"
+}
+  ]
+}

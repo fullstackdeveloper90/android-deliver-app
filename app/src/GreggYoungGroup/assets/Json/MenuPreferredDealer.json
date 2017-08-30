@@ -1,0 +1,55 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Gregg Young Chevrolet",
+            "Subtitle": "Omaha, NE",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "http://www.GYChevy.com",
+            "fbid": "",
+            "ShowIconType": "btn-MFGChevrolet.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "17750 Burt Street, Omaha, NE 68118",
+            "PhoneNo": "402-572-8080",
+			"Website":"http://GYChevy.com/mobile",
+            "Email": "support@ethosrewardsmsg.com",
+            "DFLID": "ETH148"
+        }
+,
+ {
+            "Title": "Gregg Young Chevrolet",
+            "Subtitle": "Norwalk, IA",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "http://www.GYChevy.com",
+            "fbid": "",
+            "ShowIconType": "btn-MFGChevrolet.png",
+            "LogoURL": "logo-NorwalkHD.png",
+            "StreetAddress": "2501 Sunset Drive, Norwalk, IA 50211",
+            "PhoneNo": "515-256-4010",
+			"Website":"http://GYChevy.com/mobile",
+            "Email": "support@ethosrewardsmessage.com",
+            "DFLID": "ETH206"
+        }
+		,
+ {
+            "Title": "Auto Depot of Blair",
+            "Subtitle": "Blair, NE",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "http://www.GYChevy.com",
+            "fbid": "",
+            "ShowIconType": "btn-GYBlair100.png",
+            "LogoURL": "logo-BlairHD.png",
+            "StreetAddress": "2750 S 23rd Street, Blair, NE 68008",
+            "PhoneNo": "402-281-0740",
+			"Website":"http://GreggYoungAutoDepot.com/mobile",
+            "Email": "support@ethosrewardsmessage.com",
+            "DFLID": "ETH206"
+        }
+    ]
+}

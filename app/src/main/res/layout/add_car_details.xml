@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/parentRelLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@android:color/white">
+    
+   
+    <ScrollView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <RelativeLayout
+				android:id="@+id/header"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignParentTop="true">
+				<include layout="@layout/car_details_titlebar"/>
+			</RelativeLayout>
+	            <RelativeLayout
+					android:layout_below="@+id/header"
+	                android:id="@+id/firstParentRelLayout"
+			        android:layout_width="match_parent"
+				    android:layout_height="wrap_content"
+				    android:layout_margin="10dp"
+				    android:background="@drawable/customshape"
+				    android:orientation="vertical" >
+		    
+			        <RelativeLayout 
+				        android:id="@+id/nameRelLayout"
+				        android:layout_width="match_parent"
+				        android:layout_height="wrap_content"
+				        android:orientation="horizontal">
+			        
+				        <TextView
+				            android:id="@+id/nameTextView"
+				            android:layout_width="wrap_content"
+				            android:layout_height="wrap_content"
+				            android:layout_marginBottom="15dp"
+				            android:layout_marginLeft="12dp"
+				            android:layout_marginTop="15dp"
+				            android:text="Name *"
+				            android:textColor="#E41B17"
+				            android:textSize="22sp"
+				            android:textStyle="bold" />
+				        
+				        <EditText
+				            android:id="@+id/nameEditText"
+				            android:layout_width="match_parent"
+				            android:layout_height="30dp"
+				            android:layout_marginBottom="15dp"
+				            android:layout_marginLeft="10dp"
+				            android:layout_marginRight="35dp"
+				            android:layout_marginTop="15dp"
+							android:imeOptions="actionDone"
+							android:maxLines="1"
+                            android:singleLine="true"
+				            android:ellipsize="end"
+				            android:gravity="right"
+				            android:layout_toRightOf="@id/nameTextView"
+				            android:textStyle="bold"
+				            android:onClick="onClickNameEditText"
+				            android:background="@android:color/transparent" />
+				        
+				        <View
+						    android:layout_width="match_parent"
+						    android:layout_height="1dp"
+						    android:layout_below="@id/nameEditText"
+						    android:background="@android:color/darker_gray"/>
+				        
+			    	</RelativeLayout>
+		    
+				    <RelativeLayout 
+				        android:id="@+id/vinRelLayout"
+				        android:layout_width="match_parent"
+				        android:layout_height="wrap_content"
+				        android:layout_below="@id/nameRelLayout"
+				        android:orientation="horizontal">
+			        
+				        <TextView
+				            android:id="@+id/vinTextView"
+				            android:layout_width="wrap_content"
+				            android:layout_height="wrap_content"
+				            android:layout_marginBottom="15dp"
+				            android:layout_marginLeft="12dp"
+				            android:layout_marginTop="15dp"
+				            android:text="VIN *"
+				            android:textColor="#E41B17"
+				            android:textSize="22sp"
+				            android:textStyle="bold" />
+				        
+				        <EditText xmlns:android="http://schemas.android.com/apk/res/android"
+				            android:id="@+id/vinEditText"
+				            android:layout_width="match_parent"
+				            android:layout_height="30dp"
+				            android:layout_marginBottom="15dp"
+				            android:layout_marginLeft="10dp"
+				            android:layout_marginRight="55dp"
+							android:imeOptions="actionDone"
+							android:maxLines="1"
+                            android:singleLine="true"
+				            android:layout_marginTop="15dp"
+				            android:layout_toRightOf="@id/vinTextView"
+				            android:background="@android:color/transparent"
+				            android:ellipsize="end"
+				            android:gravity="right"
+				            android:onClick="onClickVinEditText"
+				            android:textStyle="bold" />
+				        
+				        <ImageView 
+				            android:id="@+id/barCodeImageView"
+				            android:layout_width="50dp"
+				            android:layout_height="50dp"
+				            android:layout_alignParentRight="true"
+				            android:layout_centerVertical="true"
+				            android:src="@drawable/btn_scanbarcode"
+				            android:onClick="launchScanner"/>
+				        
+				        <View
+						    android:layout_width="fill_parent"
+						    android:layout_height="1dp"
+						    android:layout_below="@id/vinEditText"
+						    android:background="@android:color/darker_gray"/>
+			        
+			    	</RelativeLayout>
+		    
+				    <RelativeLayout 
+				        android:id="@+id/photoRelLayout"
+				        android:layout_width="match_parent"
+				        android:layout_height="wrap_content"
+				        android:layout_below="@id/vinRelLayout"
+				        android:orientation="horizontal">
+			        
+				        <TextView
+				            android:id="@+id/photoTextView"
+				            android:layout_width="wrap_content"
+				            android:layout_height="wrap_content"
+				            android:layout_marginLeft="10dp"
+				            android:layout_marginTop="10dp"
+				            android:text="Photo"
+				            android:textColor="#0041C2"
+				            android:textStyle="bold"
+				            android:textSize="22sp" />
+				        
+				        <ImageView
+				            android:id="@+id/photoImageView"
+				            android:layout_width="180dp"
+				            android:layout_height="150dp"
+				            android:layout_centerHorizontal="true"
+				            android:layout_marginBottom="15dp"
+				            android:layout_marginLeft="20dp"
+				            android:layout_marginTop="15dp"
+				            android:layout_toRightOf="@id/photoTextView"
+				            android:src="@drawable/photo_not_available"
+				            android:clickable="true"
+				            android:onClick="onClickImageViewPhoto"
+				            android:background="@android:color/transparent" />
+				        
+				        <View
+						    android:layout_width="match_parent"
+						    android:layout_height="1dp"
+						    android:layout_below="@id/photoImageView"
+						    android:background="@android:color/darker_gray"/>
+			        
+			    	</RelativeLayout>
+		    
+				    <RelativeLayout
+				        android:id="@+id/makeRelLayout"
+				        android:layout_width="match_parent"
+				        android:layout_height="wrap_content"
+				        android:layout_below="@id/photoRelLayout"
+				        android:orientation="horizontal" 
+				        android:onClick="launchListView">
+				        
+				        <TextView
+				            android:id="@+id/makeTextView"
+				            android:layout_width="wrap_content"
+				            android:layout_height="wrap_content"
+				            android:layout_marginBottom="20dp"
+				            android:layout_marginLeft="12dp"
+				            android:layout_marginTop="15dp"
+				            android:text="Make"
+				            android:textColor = "#0041C2"
+				            android:textSize="22sp"
+				            android:textStyle="bold" />
+				        
+				        <ImageView
+				            android:id="@+id/makeImageView"
+				            android:layout_width="20dp"
+				            android:layout_height="20dp"
+				            android:layout_alignParentRight="true"
+				            android:layout_marginBottom="20dp"
+				            android:layout_marginRight="10dp"
+				            android:layout_marginTop="20dp"
+				            android:layout_centerVertical="true"
+				            android:src="@drawable/arrow" />
+				        
+				        <EditText 
+				            android:id="@+id/carMakeEditText"
+				            android:layout_width="wrap_content"
+				            android:layout_height="30dp"
+				            android:layout_toLeftOf="@id/makeImageView"
+				            android:layout_marginBottom="15dp"
+				            android:layout_marginLeft="10dp"
+				            android:layout_marginRight="10dp"
+				            android:layout_marginTop="15dp"
+				            android:background="@android:color/transparent"/>
+				        
+				        <View
+						    android:layout_width="fill_parent"
+						    android:layout_height="1dp"
+						    android:layout_below="@id/makeImageView"
+						    android:background="@android:color/darker_gray"/>
+				        
+				    </RelativeLayout>
+			
+				    <RelativeLayout
+				        android:id="@+id/modelRelLayout"
+				        android:layout_width="match_parent"
+				        android:layout_height="wrap_content"
+				        android:layout_below="@id/makeRelLayout"
+				        android:orientation="horizontal"
+				        android:onClick="launchListView" >
+				        
+				        <TextView
+				            android:id="@+id/modelTextView"
+				            android:layout_width="wrap_content"
+				            android:layout_height="wrap_content"
+				            android:layout_marginBottom="20dp"
+				            android:layout_marginLeft="12dp"
+				            android:layout_marginTop="15dp"
+				            android:text="Model"
+				            android:textColor = "#0041C2"
+				            android:textSize="22sp"
+				            android:textStyle="bold" />
+				        
+				        <ImageView
+				            android:id="@+id/modelImageView"
+				            android:layout_width="20dp"
+				            android:layout_height="20dp"
+				            android:layout_alignParentRight="true"
+				            android:layout_marginBottom="20dp"
+				            android:layout_marginRight="10dp"
+				            android:layout_marginTop="20dp"
+				            android:layout_centerVertical="true"
+				            android:src="@drawable/arrow" />
+				        
+				        <EditText 
+				            android:id="@+id/carModelEditText"
+				            android:layout_width="wrap_content"
+				            android:layout_height="30dp"
+				            android:layout_toLeftOf="@id/modelImageView"
+				            android:layout_marginBottom="15dp"
+				            android:layout_marginLeft="10dp"
+				            android:layout_marginRight="10dp"
+				            android:layout_marginTop="15dp"
+				            android:background="@android:color/transparent"/>
+				        
+				        <View
+						    android:layout_width="match_parent"
+						    android:layout_height="1dp"
+						    android:layout_below="@id/modelImageView"
+						    android:background="@android:color/darker_gray"/>
+				        
+				    </RelativeLayout>
+		    
+				    <RelativeLayout 
+				        android:id="@+id/yearRelLayout"
+				        android:layout_width="match_parent"
+				        android:layout_height="wrap_content"
+				        android:layout_below="@id/modelRelLayout"
+				        android:paddingTop="13dp"
+				        android:paddingBottom="18dp"
+				        android:orientation="horizontal"
+				        android:onClick="launchListView">
+				        
+				        <TextView
+				            android:id="@+id/yearTextView"
+				            android:layout_width="wrap_content"
+				            android:layout_height="wrap_content"
+				            android:layout_marginLeft="12dp"
+				            android:layout_centerVertical="true"
+				            android:text="Year"
+				            android:textColor="#0041C2"
+				            android:textSize="22sp"
+				            android:textStyle="bold" />
+				        
+				        <ImageView
+				            android:id="@+id/yearImageView"
+				            android:layout_width="20dp"
+				            android:layout_height="20dp"
+				            android:layout_marginRight="10dp"
+				            android:layout_centerVertical="true"
+				            android:layout_alignParentRight="true"
+				            android:src="@drawable/arrow" />
+				        
+				        <EditText 
+				            android:id="@+id/yearEditText"
+				            android:layout_width="wrap_content"
+				            android:layout_height="30dp"
+				            android:layout_toLeftOf="@id/yearImageView"
+				            android:layout_marginBottom="15dp"
+				            android:layout_marginLeft="10dp"
+				            android:layout_marginRight="10dp"
+				            android:layout_marginTop="5dp"
+				            android:background="@android:color/transparent"/>
+				        
+				    </RelativeLayout>
+	    	</RelativeLayout>
+	    	
+	        <TextView
+	            android:id="@+id/otherTextView"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_below="@id/firstParentRelLayout"
+	            android:layout_marginBottom="5dp"
+	            android:layout_marginLeft="15dp"
+	            android:layout_marginTop="5dp"
+	            android:text="Other"
+	            android:textColor="@android:color/black"
+	            android:textSize="22sp"
+	            android:textStyle="bold" />
+	        
+	        <RelativeLayout
+	            android:id="@+id/secondRelLayout"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_below="@id/otherTextView"
+	            android:layout_margin="10dp"
+	            android:background="@drawable/customshape"
+	            android:paddingBottom="20dp"
+	            android:paddingLeft="10dp"
+	            android:paddingTop="20dp" >
+				    
+	            <TextView
+	                android:id="@+id/milesTextView"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:text="Miles per Tank"
+	                android:textColor="#0041C2"
+	                android:textSize="22sp"
+	                android:textStyle="bold" />
+	            
+	            <EditText 
+		            android:id="@+id/milesEditText"
+		            android:layout_width="match_parent"
+		            android:layout_height="30dp"
+		            android:inputType="number"
+		            android:textStyle="bold"
+		            android:ellipsize="end"
+					android:imeOptions="actionDone"
+					android:maxLines="1"
+		            android:gravity="right"
+                    android:singleLine="true"
+		            android:layout_marginRight="45dp"
+		            android:layout_centerInParent="true"
+		            android:background="@android:color/transparent"/>
+	            
+	        </RelativeLayout>
+	        
+	        <RelativeLayout
+	            android:id="@+id/fourthRelLayout"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_below="@id/secondRelLayout"
+	            android:layout_marginBottom="10dp"
+	            android:layout_marginLeft="10dp"
+	            android:layout_marginRight="10dp"
+	            android:layout_marginTop="20dp"
+	            android:background="@drawable/customshape" >
+				
+	            <RelativeLayout 
+		            android:id="@+id/fourthSubRelLayout"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content">
+	            
+		            <TextView
+		                android:id="@+id/emailTextView"
+		                android:layout_width="wrap_content"
+		                android:layout_height="wrap_content"
+		                android:layout_marginBottom="18dp"
+		                android:layout_marginLeft="12dp"
+		                android:layout_marginTop="18dp"
+		                android:text="Email *"
+		                android:textColor="#E41B17"
+		                android:textSize="22sp"
+		                android:textStyle="bold" />
+		            
+			        <EditText
+			            android:id="@+id/emailEditText"
+			            android:layout_width="match_parent"
+			            android:layout_height="30dp"
+			            android:layout_marginBottom="18dp"
+			            android:layout_marginLeft="12dp"
+			            android:layout_marginTop="18dp"
+			            android:layout_marginRight="35dp"
+			            android:layout_toRightOf="@id/emailTextView"
+			            android:ellipsize="end"
+						android:imeOptions="actionDone"
+						android:maxLines="1"
+				        android:gravity="right"
+                        android:singleLine="true"
+			            android:inputType="textEmailAddress"
+		                android:textStyle="bold"
+			            android:background="@android:color/transparent" />
+		            
+		            <View
+					    android:layout_width="match_parent"
+					    android:layout_height="1dp"
+					    android:layout_below="@id/emailTextView"
+					    android:background="@android:color/darker_gray"/>
+		            
+		       </RelativeLayout>
+		       <RelativeLayout 
+		            android:id="@+id/fifthSubRelLayout"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"
+		            android:paddingTop="18dp"
+		            android:paddingBottom="18dp"
+		            android:layout_below="@id/fourthSubRelLayout">
+	            
+		            <TextView
+		                android:id="@+id/phoneTextView"
+		                android:layout_width="wrap_content"
+		                android:layout_height="wrap_content"
+		                android:layout_marginLeft="12dp"
+		                android:text="Phone"
+		                android:textColor="#0041C2"
+		                android:textSize="22sp"
+		                android:textStyle="bold" />
+		            
+			        <EditText
+			            android:id="@+id/phoneEditText"
+			            android:layout_width="match_parent"
+			            android:layout_height="30dp"
+			            android:layout_marginLeft="12dp"
+			            android:layout_toRightOf="@id/phoneTextView"
+			            android:layout_marginRight="35dp"
+			            android:ellipsize="end"
+				        android:gravity="right"
+			            android:inputType="phone"
+                        android:singleLine="true"
+		                android:textStyle="bold"
+			            android:background="@android:color/transparent" />
+		            
+		       </RelativeLayout>
+	     
+	            
+	        </RelativeLayout>
+	        
+	        <RelativeLayout
+	            android:id="@+id/lastRelLayout"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_below="@id/fourthRelLayout"
+	            android:layout_marginLeft="15dp" 
+	            android:layout_marginRight="10dp">
+		       
+		        <TextView 
+	               android:id="@+id/requiredFieldTextView"
+	               android:layout_width="wrap_content"
+	               android:layout_height="wrap_content"
+	               android:text="Required Fields *"
+	               android:textStyle="bold"
+	               android:textColor="#E41B17"
+	               android:textSize="14sp"/>
+				<ImageView 
+	               android:id="@+id/barcodeIcon"
+	               android:layout_width="wrap_content"
+	               android:layout_height="wrap_content"
+	               android:src="@drawable/android_logo_green"
+	               android:layout_below="@id/requiredFieldTextView"/>
+				<TextView 
+	               android:layout_width="wrap_content"
+	               android:layout_height="wrap_content"
+	               android:layout_toRightOf="@id/barcodeIcon"
+	               android:layout_below="@id/requiredFieldTextView"
+	               android:text="Tap the barcode icon to read a VIN barcode"
+	               android:textSize="14sp"/>
+			</RelativeLayout>
+
+        </RelativeLayout>
+        
+    </ScrollView>
+    
+</RelativeLayout>

@@ -1,0 +1,24 @@
+{
+  "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+  "Items": [
+    {
+	"Title": "Nissan of Jefferson City", 
+	"Subtitle": "Jefferson City, MO",       
+	"Tag": 10,
+	"Type": "menu",
+	"Display": "",
+	"Url": "Menu_Main",
+	"fbid": "",
+	"ShowIconType": "NAforSINGLEDEALERSHIPS",
+	"LogoURL": "logoHD.png",
+  "StreetAddress": "3219 Missouri Blvd,Jefferson City, MO 65109",
+  "lat": "38.5804101",
+  "lon": "-92.2393845999",
+  "PhoneNo": "888-257-2371",
+	"PhoneNoService": "888-275-0507",
+	"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+	"Email": "support@ethosrewardsmsg.com",
+	"DFLID": "ETH242"
+}
+  ]
+}

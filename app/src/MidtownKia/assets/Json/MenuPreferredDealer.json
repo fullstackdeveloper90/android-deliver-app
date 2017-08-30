@@ -1,0 +1,22 @@
+{
+    "Information": "Please choose a preferred dealership from the list. This will be your default dealership when using this app.",
+    "Items": [
+        {
+            "Title": "Midtown Kia",
+            "Subtitle": "Tulsa, OK",
+            "Tag": 10,
+            "Type": "menu",
+            "Display": "",
+            "Url": "Menu_Main",
+            "fbid": "",
+            "ShowIconType": "btn-MFGKia.png",
+            "LogoURL": "logoHD.png",
+            "StreetAddress": "4747 S Yale Ave, Tulsa, OK 74135",
+            "PhoneNo": "918-622-3160",
+			"PhoneNoService": "877-465-9907",
+			"Website": "http://www.mobileappscm.com/custom/mobileappscm/ctl/feedNewsInventoryRedirect.aspx?type=website&a=SERVERID",
+            "Email": "support@rewardsmessage.com",
+            "DFLID": "DFL301"
+        }
+    ]
+}
